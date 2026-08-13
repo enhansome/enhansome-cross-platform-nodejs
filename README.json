@@ -67,7 +67,7 @@
             "last_commit": "2026-07-24T19:11:41Z",
             "owner": "nvm-sh",
             "repo": "nvm",
-            "stars": 94560
+            "stars": 94566
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-04-17T17:58:18Z",
             "owner": "coreybutler",
             "repo": "nvm-windows",
-            "stars": 47300
+            "stars": 47310
           }
         },
         {
@@ -224,7 +224,7 @@
             "last_commit": "2026-07-31T02:10:22Z",
             "owner": "sindresorhus",
             "repo": "execa",
-            "stars": 7582
+            "stars": 7583
           }
         },
         {
@@ -238,7 +238,7 @@
             "last_commit": "2024-10-01T21:28:07Z",
             "owner": "coreybutler",
             "repo": "node-windows",
-            "stars": 2933
+            "stars": 2934
           }
         },
         {
@@ -418,7 +418,7 @@
             "last_commit": "2026-07-21T18:48:51Z",
             "owner": "paulmillr",
             "repo": "chokidar",
-            "stars": 12216
+            "stars": 12217
           }
         },
         {
@@ -694,7 +694,7 @@
             "last_commit": "2026-07-21T16:12:08Z",
             "owner": "sindresorhus",
             "repo": "open",
-            "stars": 3493
+            "stars": 3494
           }
         }
       ],
@@ -762,7 +762,7 @@
             "last_commit": "2024-08-15T20:32:32Z",
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34287
+            "stars": 34288
           }
         },
         {
@@ -776,7 +776,7 @@
             "last_commit": "2024-08-15T20:32:32Z",
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34287
+            "stars": 34288
           }
         },
         {
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:55:55.830Z",
+    "last_updated": "2026-08-13T15:14:54.540Z",
     "original_repository": "bcoe/awesome-cross-platform-nodejs",
     "original_repository_sha": "d54a9f1769768752bb239e5f376aa01a5114d120",
     "enhanced_repository": "enhansome/enhansome-cross-platform-nodejs",
