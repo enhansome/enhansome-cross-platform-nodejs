@@ -14,7 +14,7 @@
             "last_commit": "2023-02-12T09:16:18Z",
             "owner": "microsoft",
             "repo": "nodejs-guidelines",
-            "stars": 2498
+            "stars": 2497
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2026-07-24T19:11:41Z",
             "owner": "nvm-sh",
             "repo": "nvm",
-            "stars": 94566
+            "stars": 94581
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-04-17T17:58:18Z",
             "owner": "coreybutler",
             "repo": "nvm-windows",
-            "stars": 47310
+            "stars": 47328
           }
         },
         {
@@ -134,7 +134,7 @@
             "last_commit": "2026-07-23T16:37:30Z",
             "owner": "sebhildebrandt",
             "repo": "systeminformation",
-            "stars": 3125
+            "stars": 3128
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-08-12T11:13:48Z",
             "owner": "shelljs",
             "repo": "shelljs",
-            "stars": 14399
+            "stars": 14397
           }
         },
         {
@@ -224,7 +224,7 @@
             "last_commit": "2026-07-31T02:10:22Z",
             "owner": "sindresorhus",
             "repo": "execa",
-            "stars": 7583
+            "stars": 7584
           }
         },
         {
@@ -238,7 +238,7 @@
             "last_commit": "2024-10-01T21:28:07Z",
             "owner": "coreybutler",
             "repo": "node-windows",
-            "stars": 2934
+            "stars": 2935
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-07-23T11:44:38Z",
             "owner": "sindresorhus",
             "repo": "clipboardy",
-            "stars": 1982
+            "stars": 1981
           }
         },
         {
@@ -328,7 +328,7 @@
             "last_commit": "2025-11-16T14:11:37Z",
             "owner": "kentcdodds",
             "repo": "cross-env",
-            "stars": 6525
+            "stars": 6524
           }
         },
         {
@@ -415,10 +415,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-07-21T18:48:51Z",
+            "last_commit": "2026-08-14T14:48:36Z",
             "owner": "paulmillr",
             "repo": "chokidar",
-            "stars": 12217
+            "stars": 12218
           }
         },
         {
@@ -592,7 +592,7 @@
             "last_commit": "2025-10-25T19:21:39Z",
             "owner": "tapjs",
             "repo": "signal-exit",
-            "stars": 201
+            "stars": 200
           }
         }
       ],
@@ -680,7 +680,7 @@
             "last_commit": "2024-06-24T13:43:42Z",
             "owner": "mikaelbr",
             "repo": "node-notifier",
-            "stars": 5845
+            "stars": 5844
           }
         },
         {
@@ -691,7 +691,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-07-21T16:12:08Z",
+            "last_commit": "2026-08-13T23:38:37Z",
             "owner": "sindresorhus",
             "repo": "open",
             "stars": 3494
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:14:54.540Z",
+    "last_updated": "2026-08-14T15:06:40.780Z",
     "original_repository": "bcoe/awesome-cross-platform-nodejs",
     "original_repository_sha": "d54a9f1769768752bb239e5f376aa01a5114d120",
     "enhanced_repository": "enhansome/enhansome-cross-platform-nodejs",
