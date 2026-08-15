@@ -67,7 +67,7 @@
             "last_commit": "2026-07-24T19:11:41Z",
             "owner": "nvm-sh",
             "repo": "nvm",
-            "stars": 94581
+            "stars": 94592
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-04-17T17:58:18Z",
             "owner": "coreybutler",
             "repo": "nvm-windows",
-            "stars": 47328
+            "stars": 47350
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-08-12T11:13:48Z",
             "owner": "shelljs",
             "repo": "shelljs",
-            "stars": 14397
+            "stars": 14398
           }
         },
         {
@@ -224,7 +224,7 @@
             "last_commit": "2026-07-31T02:10:22Z",
             "owner": "sindresorhus",
             "repo": "execa",
-            "stars": 7584
+            "stars": 7585
           }
         },
         {
@@ -280,7 +280,7 @@
             "last_commit": "2025-05-21T13:47:41Z",
             "owner": "sindresorhus",
             "repo": "log-symbols",
-            "stars": 770
+            "stars": 771
           }
         },
         {
@@ -415,7 +415,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T14:48:36Z",
+            "last_commit": "2026-08-15T11:10:42Z",
             "owner": "paulmillr",
             "repo": "chokidar",
             "stars": 12218
@@ -694,7 +694,7 @@
             "last_commit": "2026-08-13T23:38:37Z",
             "owner": "sindresorhus",
             "repo": "open",
-            "stars": 3494
+            "stars": 3495
           }
         }
       ],
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:06:40.780Z",
+    "last_updated": "2026-08-15T14:38:35.330Z",
     "original_repository": "bcoe/awesome-cross-platform-nodejs",
     "original_repository_sha": "d54a9f1769768752bb239e5f376aa01a5114d120",
     "enhanced_repository": "enhansome/enhansome-cross-platform-nodejs",
