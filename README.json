@@ -14,7 +14,7 @@
             "last_commit": "2023-02-12T09:16:18Z",
             "owner": "microsoft",
             "repo": "nodejs-guidelines",
-            "stars": 2497
+            "stars": 2496
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2025-05-25T23:03:22Z",
             "owner": "ehmicky",
             "repo": "cross-platform-node-guide",
-            "stars": 1421
+            "stars": 1420
           }
         },
         {
@@ -64,10 +64,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-07-24T19:11:41Z",
+            "last_commit": "2026-08-18T06:42:47Z",
             "owner": "nvm-sh",
             "repo": "nvm",
-            "stars": 94619
+            "stars": 94635
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-04-17T17:58:18Z",
             "owner": "coreybutler",
             "repo": "nvm-windows",
-            "stars": 47373
+            "stars": 47386
           }
         },
         {
@@ -224,7 +224,7 @@
             "last_commit": "2026-07-31T02:10:22Z",
             "owner": "sindresorhus",
             "repo": "execa",
-            "stars": 7586
+            "stars": 7587
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-07-23T11:44:38Z",
             "owner": "sindresorhus",
             "repo": "clipboardy",
-            "stars": 1981
+            "stars": 1982
           }
         },
         {
@@ -418,7 +418,7 @@
             "last_commit": "2026-08-16T15:34:26Z",
             "owner": "paulmillr",
             "repo": "chokidar",
-            "stars": 12216
+            "stars": 12219
           }
         },
         {
@@ -502,7 +502,7 @@
             "last_commit": "2026-08-06T06:11:03Z",
             "owner": "paulmillr",
             "repo": "readdirp",
-            "stars": 421
+            "stars": 420
           }
         },
         {
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:43:50.221Z",
+    "last_updated": "2026-08-18T14:52:17.806Z",
     "original_repository": "bcoe/awesome-cross-platform-nodejs",
     "original_repository_sha": "d54a9f1769768752bb239e5f376aa01a5114d120",
     "enhanced_repository": "enhansome/enhansome-cross-platform-nodejs",
