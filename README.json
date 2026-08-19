@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 45360221,
             "language": null,
             "last_commit": "2023-02-12T09:16:18Z",
             "owner": "microsoft",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166806384,
             "language": "JavaScript",
             "last_commit": "2025-05-25T23:03:22Z",
             "owner": "ehmicky",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 351905783,
             "language": "JavaScript",
             "last_commit": "2025-05-25T23:03:22Z",
             "owner": "ehmicky",
@@ -49,707 +52,764 @@
       "title": "Resources"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nvm",
+              "description": "/ n - Node version manager for macOS/Linux.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612230,
+                "language": "Shell",
+                "last_commit": "2026-08-18T06:42:47Z",
+                "owner": "nvm-sh",
+                "repo": "nvm",
+                "stars": 94654
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nvm-windows",
+              "description": "Manage multiple installations of Node.js on a Windows computer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24268127,
+                "language": "Go",
+                "last_commit": "2026-04-17T17:58:18Z",
+                "owner": "coreybutler",
+                "repo": "nvm-windows",
+                "stars": 47389
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "windows-build-tools",
+              "description": "Install C++ Build Tools for Windows using npm.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 60933261,
+                "language": "TypeScript",
+                "last_commit": "2021-06-20T20:01:54Z",
+                "owner": "felixrieseberg",
+                "repo": "windows-build-tools",
+                "stars": 3407
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "npm-windows-upgrade",
+              "description": "Upgrade npm on Windows.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 38216587,
+                "language": "JavaScript",
+                "last_commit": "2021-05-10T13:07:29Z",
+                "owner": "felixrieseberg",
+                "repo": "npm-windows-upgrade",
+                "stars": 2504
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Development environment"
+        }
+      ],
       "title": "Applications"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "nvm",
-          "description": "/ n - Node version manager for macOS/Linux.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-18T06:42:47Z",
-            "owner": "nvm-sh",
-            "repo": "nvm",
-            "stars": 94635
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "systeminformation",
+              "description": "Hardware/software system information.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17677611,
+                "language": "JavaScript",
+                "last_commit": "2026-07-23T16:37:30Z",
+                "owner": "sebhildebrandt",
+                "repo": "systeminformation",
+                "stars": 3128
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "is-wsl",
+              "description": "Detect whether current platform is WSL (Windows Subsystem for Linux).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88415331,
+                "language": "JavaScript",
+                "last_commit": "2026-02-15T08:45:05Z",
+                "owner": "sindresorhus",
+                "repo": "is-wsl",
+                "stars": 198
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "os-name",
+              "description": "Get the name of the current operating system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20604616,
+                "language": "JavaScript",
+                "last_commit": "2026-02-02T15:03:15Z",
+                "owner": "sindresorhus",
+                "repo": "os-name",
+                "stars": 149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "getos",
+              "description": "Retrieve the current OS, including Linux distribution.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21311458,
+                "language": "JavaScript",
+                "last_commit": "2023-01-06T17:31:25Z",
+                "owner": "retrohacker",
+                "repo": "getos",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "is-windows",
+              "description": "Detect whether the current platform is Windows.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 38937474,
+                "language": "JavaScript",
+                "last_commit": "2019-06-16T16:01:59Z",
+                "owner": "jonschlinkert",
+                "repo": "is-windows",
+                "stars": 49
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OS identification"
         },
         {
-          "node_type": "item",
-          "title": "nvm-windows",
-          "description": "Manage multiple installations of Node.js on a Windows computer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-04-17T17:58:18Z",
-            "owner": "coreybutler",
-            "repo": "nvm-windows",
-            "stars": 47386
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "shelljs",
+              "description": "Cross-platform Unix shell commands.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3604157,
+                "language": "JavaScript",
+                "last_commit": "2026-08-12T11:13:48Z",
+                "owner": "shelljs",
+                "repo": "shelljs",
+                "stars": 14399
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "execa",
+              "description": "Cross-platform implementation of .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47475908,
+                "language": "JavaScript",
+                "last_commit": "2026-07-31T02:10:22Z",
+                "owner": "sindresorhus",
+                "repo": "execa",
+                "stars": 7587
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "node-windows",
+              "description": "Windows support for Node.js scripts (daemons, eventlog, UAC, etc).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7632747,
+                "language": "JavaScript",
+                "last_commit": "2024-10-01T21:28:07Z",
+                "owner": "coreybutler",
+                "repo": "node-windows",
+                "stars": 2935
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "clipboardy",
+              "description": "/ clipboard-cli - Cross-platform copy/paste.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75538424,
+                "language": "JavaScript",
+                "last_commit": "2026-07-23T11:44:38Z",
+                "owner": "sindresorhus",
+                "repo": "clipboardy",
+                "stars": 1982
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cross-spawn",
+              "description": "Cross-platform implementation of .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21335844,
+                "language": "JavaScript",
+                "last_commit": "2024-11-18T14:20:54Z",
+                "owner": "moxystudio",
+                "repo": "node-cross-spawn",
+                "stars": 1171
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "log-symbols",
+              "description": "Colored symbols for various log levels with Windows fallbacks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21673868,
+                "language": "JavaScript",
+                "last_commit": "2025-05-21T13:47:41Z",
+                "owner": "sindresorhus",
+                "repo": "log-symbols",
+                "stars": 772
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "figures",
+              "description": "Unicode symbols with Windows fallbacks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21672939,
+                "language": "JavaScript",
+                "last_commit": "2024-10-28T05:10:30Z",
+                "owner": "sindresorhus",
+                "repo": "figures",
+                "stars": 634
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gulp-execa",
+              "description": "Cross-platform command execution in Gulp.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174192611,
+                "language": "JavaScript",
+                "last_commit": "2025-11-08T00:20:03Z",
+                "owner": "ehmicky",
+                "repo": "gulp-execa",
+                "stars": 56
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Shell"
         },
         {
-          "node_type": "item",
-          "title": "windows-build-tools",
-          "description": "Install C++ Build Tools for Windows using npm.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2021-06-20T20:01:54Z",
-            "owner": "felixrieseberg",
-            "repo": "windows-build-tools",
-            "stars": 3407
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cross-env",
+              "description": "Set environment variables cross-platform.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 43512914,
+                "language": "TypeScript",
+                "last_commit": "2025-11-16T14:11:37Z",
+                "owner": "kentcdodds",
+                "repo": "cross-env",
+                "stars": 6524
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "which",
+              "description": "Cross-platform implementation of Unix's .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2169708,
+                "language": "JavaScript",
+                "last_commit": "2026-07-02T03:32:40Z",
+                "owner": "npm",
+                "repo": "node-which",
+                "stars": 352
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "user-home",
+              "description": "Get the path to the user home directory. Cross-platform.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 22579617,
+                "language": "JavaScript",
+                "last_commit": "2021-04-09T13:35:08Z",
+                "owner": "sindresorhus",
+                "repo": "user-home",
+                "stars": 158
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "username",
+              "description": "Get the current username.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18270175,
+                "language": "JavaScript",
+                "last_commit": "2023-11-14T16:18:47Z",
+                "owner": "sindresorhus",
+                "repo": "username",
+                "stars": 145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "osenv",
+              "description": "Cross-platform environment variables.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 4695853,
+                "language": "JavaScript",
+                "last_commit": "2020-12-18T04:34:07Z",
+                "owner": "npm",
+                "repo": "osenv",
+                "stars": 138
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "is-elevated",
+              "description": "Check if the process is running with elevated privileges.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34956566,
+                "language": "JavaScript",
+                "last_commit": "2021-08-11T12:32:38Z",
+                "owner": "sindresorhus",
+                "repo": "is-elevated",
+                "stars": 44
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Environment"
         },
         {
-          "node_type": "item",
-          "title": "npm-windows-upgrade",
-          "description": "Upgrade npm on Windows.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2021-05-10T13:07:29Z",
-            "owner": "felixrieseberg",
-            "repo": "npm-windows-upgrade",
-            "stars": 2504
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "chokidar",
+              "description": "Improved cross-platform file watching.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4090287,
+                "language": "TypeScript",
+                "last_commit": "2026-08-16T15:34:26Z",
+                "owner": "paulmillr",
+                "repo": "chokidar",
+                "stars": 12219
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fs-extra",
+              "description": "Combines with better JSON file reading and promises.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2791348,
+                "language": "JavaScript",
+                "last_commit": "2026-07-23T19:51:59Z",
+                "owner": "jprichardson",
+                "repo": "node-fs-extra",
+                "stars": 9598
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rimraf",
+              "description": "/ del - Delete files and folders. Cross-platform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1341324,
+                "language": "TypeScript",
+                "last_commit": "2026-05-15T19:38:06Z",
+                "owner": "isaacs",
+                "repo": "rimraf",
+                "stars": 5848
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "graceful-fs",
+              "description": "Improves the module, especially on Windows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2077020,
+                "language": "JavaScript",
+                "last_commit": "2025-10-25T19:00:09Z",
+                "owner": "isaacs",
+                "repo": "node-graceful-fs",
+                "stars": 1302
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "make-dir",
+              "description": "Cross-platform .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90776169,
+                "language": "JavaScript",
+                "last_commit": "2025-09-10T18:24:39Z",
+                "owner": "sindresorhus",
+                "repo": "make-dir",
+                "stars": 481
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cpy",
+              "description": "Copy files. Cross-platform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21312138,
+                "language": "JavaScript",
+                "last_commit": "2026-07-23T13:16:47Z",
+                "owner": "sindresorhus",
+                "repo": "cpy",
+                "stars": 439
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "readdirp",
+              "description": "Recursive version of .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4494405,
+                "language": "JavaScript",
+                "last_commit": "2026-08-06T06:11:03Z",
+                "owner": "paulmillr",
+                "repo": "readdirp",
+                "stars": 421
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dev-null-cli",
+              "description": "Cross-platform .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188683537,
+                "language": "JavaScript",
+                "last_commit": "2021-10-14T09:05:27Z",
+                "owner": "sindresorhus",
+                "repo": "dev-null-cli",
+                "stars": 93
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "global-cache-dir",
+              "description": "Get the global OS-specific cache directory.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201504782,
+                "language": "JavaScript",
+                "last_commit": "2025-05-25T23:03:22Z",
+                "owner": "ehmicky",
+                "repo": "global-cache-dir",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "any-path",
+              "description": "Use Windows and POSIX paths interchangeably when fetching values from an object.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48304675,
+                "language": "JavaScript",
+                "last_commit": "2015-12-21T03:04:44Z",
+                "owner": "bcoe",
+                "repo": "any-path",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Filesystem"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "fkill",
+              "description": "Kill processes. Cross-platform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37784838,
+                "language": "JavaScript",
+                "last_commit": "2026-01-14T16:02:46Z",
+                "owner": "sindresorhus",
+                "repo": "fkill",
+                "stars": 797
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "human-signals",
+              "description": "Human-friendly process signals.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 214467546,
+                "language": "JavaScript",
+                "last_commit": "2025-05-25T23:03:22Z",
+                "owner": "ehmicky",
+                "repo": "human-signals",
+                "stars": 286
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "signal-exit",
+              "description": "Cross-platform handler.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35711072,
+                "language": "TypeScript",
+                "last_commit": "2025-10-25T19:21:39Z",
+                "owner": "tapjs",
+                "repo": "signal-exit",
+                "stars": 200
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Signals"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ps-list",
+              "description": "Get running processes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36581913,
+                "language": "JavaScript",
+                "last_commit": "2026-02-03T07:53:30Z",
+                "owner": "sindresorhus",
+                "repo": "ps-list",
+                "stars": 287
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "process-exists",
+              "description": "Check if a process exists.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37780325,
+                "language": "JavaScript",
+                "last_commit": "2021-11-04T13:53:36Z",
+                "owner": "sindresorhus",
+                "repo": "process-exists",
+                "stars": 62
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Processes"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "random-bytes-readable-stream",
+              "description": "Cross-platform .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 142246289,
+                "language": "JavaScript",
+                "last_commit": "2021-08-12T11:32:09Z",
+                "owner": "sindresorhus",
+                "repo": "random-bytes-readable-stream",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "noop-stream",
+              "description": "Cross-platform .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188680676,
+                "language": "JavaScript",
+                "last_commit": "2023-05-27T14:59:43Z",
+                "owner": "sindresorhus",
+                "repo": "noop-stream",
+                "stars": 50
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Streams"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "node-notifier",
+              "description": "Cross-platform desktop notifications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6965529,
+                "language": "JavaScript",
+                "last_commit": "2024-06-24T13:43:42Z",
+                "owner": "mikaelbr",
+                "repo": "node-notifier",
+                "stars": 5845
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "open",
+              "description": "Opens stuff like websites, files, executables. Cross-platform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18469325,
+                "language": "JavaScript",
+                "last_commit": "2026-08-13T23:38:37Z",
+                "owner": "sindresorhus",
+                "repo": "open",
+                "stars": 3497
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Desktop UI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "node-winreg",
+              "description": "Access the Windows registry.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9541512,
+                "language": "JavaScript",
+                "last_commit": "2025-02-19T18:08:10Z",
+                "owner": "fresc81",
+                "repo": "node-winreg",
+                "stars": 218
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "windows-registry-node",
+              "description": "Access/modify the Windows registry and set file associations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45553630,
+                "language": "JavaScript",
+                "last_commit": "2019-12-10T10:44:26Z",
+                "owner": "CatalystCode",
+                "repo": "windows-registry-node",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rage-edit",
+              "description": "Access/modify the Windows registry.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117673839,
+                "language": "JavaScript",
+                "last_commit": "2021-08-20T07:16:16Z",
+                "owner": "MikeKovarik",
+                "repo": "rage-edit",
+                "stars": 56
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Windows registry"
         }
       ],
-      "title": "Development environment"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Libraries"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "systeminformation",
-          "description": "Hardware/software system information.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-23T16:37:30Z",
-            "owner": "sebhildebrandt",
-            "repo": "systeminformation",
-            "stars": 3128
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "is-wsl",
-          "description": "Detect whether current platform is WSL (Windows Subsystem for Linux).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-15T08:45:05Z",
-            "owner": "sindresorhus",
-            "repo": "is-wsl",
-            "stars": 198
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "os-name",
-          "description": "Get the name of the current operating system.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-02T15:03:15Z",
-            "owner": "sindresorhus",
-            "repo": "os-name",
-            "stars": 149
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "getos",
-          "description": "Retrieve the current OS, including Linux distribution.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-06T17:31:25Z",
-            "owner": "retrohacker",
-            "repo": "getos",
-            "stars": 79
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "is-windows",
-          "description": "Detect whether the current platform is Windows.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2019-06-16T16:01:59Z",
-            "owner": "jonschlinkert",
-            "repo": "is-windows",
-            "stars": 49
-          }
-        }
-      ],
-      "title": "OS identification"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "shelljs",
-          "description": "Cross-platform Unix shell commands.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-12T11:13:48Z",
-            "owner": "shelljs",
-            "repo": "shelljs",
-            "stars": 14399
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "execa",
-          "description": "Cross-platform implementation of .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-31T02:10:22Z",
-            "owner": "sindresorhus",
-            "repo": "execa",
-            "stars": 7587
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "node-windows",
-          "description": "Windows support for Node.js scripts (daemons, eventlog, UAC, etc).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-10-01T21:28:07Z",
-            "owner": "coreybutler",
-            "repo": "node-windows",
-            "stars": 2935
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "clipboardy",
-          "description": "/ clipboard-cli - Cross-platform copy/paste.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-23T11:44:38Z",
-            "owner": "sindresorhus",
-            "repo": "clipboardy",
-            "stars": 1982
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cross-spawn",
-          "description": "Cross-platform implementation of .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-11-18T14:20:54Z",
-            "owner": "moxystudio",
-            "repo": "node-cross-spawn",
-            "stars": 1171
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "log-symbols",
-          "description": "Colored symbols for various log levels with Windows fallbacks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-05-21T13:47:41Z",
-            "owner": "sindresorhus",
-            "repo": "log-symbols",
-            "stars": 772
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "figures",
-          "description": "Unicode symbols with Windows fallbacks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-10-28T05:10:30Z",
-            "owner": "sindresorhus",
-            "repo": "figures",
-            "stars": 634
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gulp-execa",
-          "description": "Cross-platform command execution in Gulp.js.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-11-08T00:20:03Z",
-            "owner": "ehmicky",
-            "repo": "gulp-execa",
-            "stars": 56
-          }
-        }
-      ],
-      "title": "Shell"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cross-env",
-          "description": "Set environment variables cross-platform.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2025-11-16T14:11:37Z",
-            "owner": "kentcdodds",
-            "repo": "cross-env",
-            "stars": 6524
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "which",
-          "description": "Cross-platform implementation of Unix's .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-02T03:32:40Z",
-            "owner": "npm",
-            "repo": "node-which",
-            "stars": 352
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "user-home",
-          "description": "Get the path to the user home directory. Cross-platform.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2021-04-09T13:35:08Z",
-            "owner": "sindresorhus",
-            "repo": "user-home",
-            "stars": 158
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "username",
-          "description": "Get the current username.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-11-14T16:18:47Z",
-            "owner": "sindresorhus",
-            "repo": "username",
-            "stars": 145
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "osenv",
-          "description": "Cross-platform environment variables.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2020-12-18T04:34:07Z",
-            "owner": "npm",
-            "repo": "osenv",
-            "stars": 138
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "is-elevated",
-          "description": "Check if the process is running with elevated privileges.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-08-11T12:32:38Z",
-            "owner": "sindresorhus",
-            "repo": "is-elevated",
-            "stars": 44
-          }
-        }
-      ],
-      "title": "Environment"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "chokidar",
-          "description": "Improved cross-platform file watching.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T15:34:26Z",
-            "owner": "paulmillr",
-            "repo": "chokidar",
-            "stars": 12219
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fs-extra",
-          "description": "Combines with better JSON file reading and promises.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-23T19:51:59Z",
-            "owner": "jprichardson",
-            "repo": "node-fs-extra",
-            "stars": 9598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rimraf",
-          "description": "/ del - Delete files and folders. Cross-platform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-15T19:38:06Z",
-            "owner": "isaacs",
-            "repo": "rimraf",
-            "stars": 5848
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "graceful-fs",
-          "description": "Improves the module, especially on Windows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-10-25T19:00:09Z",
-            "owner": "isaacs",
-            "repo": "node-graceful-fs",
-            "stars": 1302
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "make-dir",
-          "description": "Cross-platform .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-09-10T18:24:39Z",
-            "owner": "sindresorhus",
-            "repo": "make-dir",
-            "stars": 481
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cpy",
-          "description": "Copy files. Cross-platform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-23T13:16:47Z",
-            "owner": "sindresorhus",
-            "repo": "cpy",
-            "stars": 439
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "readdirp",
-          "description": "Recursive version of .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-06T06:11:03Z",
-            "owner": "paulmillr",
-            "repo": "readdirp",
-            "stars": 420
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dev-null-cli",
-          "description": "Cross-platform .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-10-14T09:05:27Z",
-            "owner": "sindresorhus",
-            "repo": "dev-null-cli",
-            "stars": 93
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "global-cache-dir",
-          "description": "Get the global OS-specific cache directory.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-05-25T23:03:22Z",
-            "owner": "ehmicky",
-            "repo": "global-cache-dir",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "any-path",
-          "description": "Use Windows and POSIX paths interchangeably when fetching values from an object.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2015-12-21T03:04:44Z",
-            "owner": "bcoe",
-            "repo": "any-path",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Filesystem"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "fkill",
-          "description": "Kill processes. Cross-platform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-01-14T16:02:46Z",
-            "owner": "sindresorhus",
-            "repo": "fkill",
-            "stars": 797
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "human-signals",
-          "description": "Human-friendly process signals.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-05-25T23:03:22Z",
-            "owner": "ehmicky",
-            "repo": "human-signals",
-            "stars": 286
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "signal-exit",
-          "description": "Cross-platform handler.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-10-25T19:21:39Z",
-            "owner": "tapjs",
-            "repo": "signal-exit",
-            "stars": 200
-          }
-        }
-      ],
-      "title": "Signals"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ps-list",
-          "description": "Get running processes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-03T07:53:30Z",
-            "owner": "sindresorhus",
-            "repo": "ps-list",
-            "stars": 287
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "process-exists",
-          "description": "Check if a process exists.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-11-04T13:53:36Z",
-            "owner": "sindresorhus",
-            "repo": "process-exists",
-            "stars": 62
-          }
-        }
-      ],
-      "title": "Processes"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "random-bytes-readable-stream",
-          "description": "Cross-platform .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-08-12T11:32:09Z",
-            "owner": "sindresorhus",
-            "repo": "random-bytes-readable-stream",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "noop-stream",
-          "description": "Cross-platform .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-05-27T14:59:43Z",
-            "owner": "sindresorhus",
-            "repo": "noop-stream",
-            "stars": 50
-          }
-        }
-      ],
-      "title": "Streams"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "node-notifier",
-          "description": "Cross-platform desktop notifications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-06-24T13:43:42Z",
-            "owner": "mikaelbr",
-            "repo": "node-notifier",
-            "stars": 5844
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "open",
-          "description": "Opens stuff like websites, files, executables. Cross-platform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-13T23:38:37Z",
-            "owner": "sindresorhus",
-            "repo": "open",
-            "stars": 3497
-          }
-        }
-      ],
-      "title": "Desktop UI"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "node-winreg",
-          "description": "Access the Windows registry.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-02-19T18:08:10Z",
-            "owner": "fresc81",
-            "repo": "node-winreg",
-            "stars": 218
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "windows-registry-node",
-          "description": "Access/modify the Windows registry and set file associations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-12-10T10:44:26Z",
-            "owner": "CatalystCode",
-            "repo": "windows-registry-node",
-            "stars": 117
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rage-edit",
-          "description": "Access/modify the Windows registry.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-08-20T07:16:16Z",
-            "owner": "MikeKovarik",
-            "repo": "rage-edit",
-            "stars": 56
-          }
-        }
-      ],
-      "title": "Windows registry"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -758,11 +818,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 211666,
             "language": null,
             "last_commit": "2024-08-15T20:32:32Z",
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34288
+            "stars": 34289
           }
         },
         {
@@ -772,11 +833,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 211666,
             "language": null,
             "last_commit": "2024-08-15T20:32:32Z",
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34288
+            "stars": 34289
           }
         },
         {
@@ -786,6 +848,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35348811,
             "language": "JavaScript",
             "last_commit": "2026-05-21T19:58:31Z",
             "owner": "istanbuljs",
@@ -795,26 +858,12 @@
         }
       ],
       "title": "Known issues"
-    },
-    {
-      "description": "If you found an error or would like to add more information, don't hesitate to submit an issue on GitHub.\nEveryone is welcome regardless of personal background. We enforce a Code of conduct in order to promote a positive and inclusive environment.",
-      "items": [],
-      "title": "Support"
-    },
-    {
-      "description": "This project was made with ❤️. The simplest way to give back is by starring and sharing it online.\nIf the documentation is unclear or has a typo, please click on the page's button (pencil icon) and suggest a correction.\nIf you would like to help us fix an error or add more information, please check our guidelines. Pull requests are welcome!\nThanks go to these wonderful people:\nThis project follows the all-contributors specification.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:52:17.806Z",
+    "last_updated": "2026-08-19T12:23:05.585Z",
     "original_repository": "bcoe/awesome-cross-platform-nodejs",
+    "original_repository_id": 48332249,
     "original_repository_sha": "d54a9f1769768752bb239e5f376aa01a5114d120",
     "enhanced_repository": "enhansome/enhansome-cross-platform-nodejs",
     "enhanced_repository_description": null,
