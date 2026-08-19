@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-18T06:42:47Z",
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94654
+                "stars": 94656
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2026-04-17T17:58:18Z",
                 "owner": "coreybutler",
                 "repo": "nvm-windows",
-                "stars": 47389
+                "stars": 47391
               }
             },
             {
@@ -238,7 +238,7 @@
                 "last_commit": "2026-07-31T02:10:22Z",
                 "owner": "sindresorhus",
                 "repo": "execa",
-                "stars": 7587
+                "stars": 7588
               }
             },
             {
@@ -861,7 +861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:23:05.585Z",
+    "last_updated": "2026-08-19T14:53:02.356Z",
     "original_repository": "bcoe/awesome-cross-platform-nodejs",
     "original_repository_id": 48332249,
     "original_repository_sha": "d54a9f1769768752bb239e5f376aa01a5114d120",
