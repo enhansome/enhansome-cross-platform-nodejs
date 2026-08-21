@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-18T06:42:47Z",
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94661
+                "stars": 94671
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2026-04-17T17:58:18Z",
                 "owner": "coreybutler",
                 "repo": "nvm-windows",
-                "stars": 47402
+                "stars": 47419
               }
             },
             {
@@ -98,7 +98,7 @@
                 "last_commit": "2021-06-20T20:01:54Z",
                 "owner": "felixrieseberg",
                 "repo": "windows-build-tools",
-                "stars": 3407
+                "stars": 3408
               }
             },
             {
@@ -141,7 +141,7 @@
                 "last_commit": "2026-07-23T16:37:30Z",
                 "owner": "sebhildebrandt",
                 "repo": "systeminformation",
-                "stars": 3128
+                "stars": 3127
               }
             },
             {
@@ -477,7 +477,7 @@
                 "last_commit": "2026-05-15T19:38:06Z",
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5849
+                "stars": 5850
               }
             },
             {
@@ -823,7 +823,7 @@
             "last_commit": "2024-08-15T20:32:32Z",
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34289
+            "stars": 34287
           }
         },
         {
@@ -838,7 +838,7 @@
             "last_commit": "2024-08-15T20:32:32Z",
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34289
+            "stars": 34287
           }
         },
         {
@@ -861,7 +861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:54:30.886Z",
+    "last_updated": "2026-08-21T14:53:18.815Z",
     "original_repository": "bcoe/awesome-cross-platform-nodejs",
     "original_repository_id": 48332249,
     "original_repository_sha": "d54a9f1769768752bb239e5f376aa01a5114d120",
