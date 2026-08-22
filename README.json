@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-18T06:42:47Z",
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94671
+                "stars": 94685
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2026-04-17T17:58:18Z",
                 "owner": "coreybutler",
                 "repo": "nvm-windows",
-                "stars": 47419
+                "stars": 47436
               }
             },
             {
@@ -113,7 +113,7 @@
                 "last_commit": "2021-05-10T13:07:29Z",
                 "owner": "felixrieseberg",
                 "repo": "npm-windows-upgrade",
-                "stars": 2504
+                "stars": 2505
               }
             }
           ],
@@ -141,7 +141,7 @@
                 "last_commit": "2026-07-23T16:37:30Z",
                 "owner": "sebhildebrandt",
                 "repo": "systeminformation",
-                "stars": 3127
+                "stars": 3128
               }
             },
             {
@@ -462,7 +462,7 @@
                 "last_commit": "2026-07-23T19:51:59Z",
                 "owner": "jprichardson",
                 "repo": "node-fs-extra",
-                "stars": 9598
+                "stars": 9596
               }
             },
             {
@@ -823,7 +823,7 @@
             "last_commit": "2024-08-15T20:32:32Z",
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34287
+            "stars": 34286
           }
         },
         {
@@ -838,7 +838,7 @@
             "last_commit": "2024-08-15T20:32:32Z",
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34287
+            "stars": 34286
           }
         },
         {
@@ -861,7 +861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:53:18.815Z",
+    "last_updated": "2026-08-22T14:37:11.056Z",
     "original_repository": "bcoe/awesome-cross-platform-nodejs",
     "original_repository_id": 48332249,
     "original_repository_sha": "d54a9f1769768752bb239e5f376aa01a5114d120",
