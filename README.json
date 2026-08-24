@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-18T06:42:47Z",
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94699
+                "stars": 94710
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2026-04-17T17:58:18Z",
                 "owner": "coreybutler",
                 "repo": "nvm-windows",
-                "stars": 47444
+                "stars": 47458
               }
             },
             {
@@ -113,13 +113,57 @@
                 "last_commit": "2021-05-10T13:07:29Z",
                 "owner": "felixrieseberg",
                 "repo": "npm-windows-upgrade",
-                "stars": 2505
+                "stars": 2504
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Development environment"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ievms",
+              "description": "Automated installer for the free virtual machine images that Microsoft provides for testing on multiple versions of IE. These images can be useful for cross-platform testing various technologies, however make sure you read and understand Microsofts' licensing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143031416,
+                "language": "Shell",
+                "last_commit": "2018-08-16T15:49:27Z",
+                "owner": "amichaelparker",
+                "repo": "ievms",
+                "stars": 68
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Virtualization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Redis",
+              "description": "Native port of Redis for Windows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108110706,
+                "language": "C",
+                "last_commit": "2026-08-22T19:02:15Z",
+                "owner": "tporadowski",
+                "repo": "redis",
+                "stars": 10251
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Databases"
         }
       ],
       "title": "Applications"
@@ -447,7 +491,7 @@
                 "last_commit": "2026-08-16T15:34:26Z",
                 "owner": "paulmillr",
                 "repo": "chokidar",
-                "stars": 12219
+                "stars": 12221
               }
             },
             {
@@ -861,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:38:10.801Z",
+    "last_updated": "2026-08-24T14:14:10.921Z",
     "original_repository": "bcoe/awesome-cross-platform-nodejs",
     "original_repository_id": 48332249,
     "original_repository_sha": "d54a9f1769768752bb239e5f376aa01a5114d120",
