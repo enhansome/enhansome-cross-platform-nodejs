@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-18T06:42:47Z",
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94710
+                "stars": 94711
               }
             },
             {
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:14:10.921Z",
+    "last_updated": "2026-08-24T14:59:17.276Z",
     "original_repository": "bcoe/awesome-cross-platform-nodejs",
     "original_repository_id": 48332249,
     "original_repository_sha": "d54a9f1769768752bb239e5f376aa01a5114d120",

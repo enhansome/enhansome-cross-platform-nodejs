@@ -46,7 +46,7 @@
 
 ### Development environment
 
-* [nvm](https://github.com/creationix/nvm) ⭐ 94,710 | 🐛 393 | 🌐 Shell | 📅 2026-08-18 / [n](https://github.com/tj/n) ⭐ 19,509 | 🐛 4 | 🌐 Shell | 📅 2026-08-22 - Node version manager for macOS/Linux.
+* [nvm](https://github.com/creationix/nvm) ⭐ 94,711 | 🐛 393 | 🌐 Shell | 📅 2026-08-18 / [n](https://github.com/tj/n) ⭐ 19,509 | 🐛 4 | 🌐 Shell | 📅 2026-08-22 - Node version manager for macOS/Linux.
 * [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,458 | 🐛 83 | 🌐 Go | 📅 2026-04-17 - Manage multiple installations of Node.js on a Windows computer.
 * [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) ⚠️ Archived - Install C++ Build Tools for Windows using npm.
 * [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) ⚠️ Archived - Upgrade npm on Windows.
