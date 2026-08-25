@@ -46,8 +46,8 @@
 
 ### Development environment
 
-* [nvm](https://github.com/creationix/nvm) ⭐ 94,725 | 🐛 394 | 🌐 Shell | 📅 2026-08-18 / [n](https://github.com/tj/n) ⭐ 19,511 | 🐛 4 | 🌐 Shell | 📅 2026-08-22 - Node version manager for macOS/Linux.
-* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,467 | 🐛 83 | 🌐 Go | 📅 2026-04-17 - Manage multiple installations of Node.js on a Windows computer.
+* [nvm](https://github.com/creationix/nvm) ⭐ 94,732 | 🐛 395 | 🌐 Shell | 📅 2026-08-18 / [n](https://github.com/tj/n) ⭐ 19,510 | 🐛 4 | 🌐 Shell | 📅 2026-08-22 - Node version manager for macOS/Linux.
+* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,473 | 🐛 86 | 🌐 Go | 📅 2026-08-25 - Manage multiple installations of Node.js on a Windows computer.
 * [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) ⚠️ Archived - Install C++ Build Tools for Windows using npm.
 * [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) ⚠️ Archived - Upgrade npm on Windows.
 * [Node.js](https://nodejs.org/en/download/) - Node.js installer for various platforms.
@@ -76,13 +76,13 @@
 
 ### Databases
 
-* [Redis](https://github.com/tporadowski/redis) ⭐ 10,250 | 🐛 82 | 🌐 C | 📅 2026-08-22 - Native port of Redis for Windows.
+* [Redis](https://github.com/tporadowski/redis) ⭐ 10,251 | 🐛 82 | 🌐 C | 📅 2026-08-22 - Native port of Redis for Windows.
 
 ## Libraries
 
 ### OS identification
 
-* [systeminformation](https://github.com/sebhildebrandt/systeminformation) ⭐ 3,129 | 🐛 103 | 🌐 JavaScript | 📅 2026-08-24 - Hardware/software system information.
+* [systeminformation](https://github.com/sebhildebrandt/systeminformation) ⭐ 3,129 | 🐛 103 | 🌐 JavaScript | 📅 2026-08-25 - Hardware/software system information.
 * [is-wsl](https://github.com/sindresorhus/is-wsl) ⭐ 198 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-15 - Detect whether current platform is WSL (Windows Subsystem for Linux).
 * [os-name](https://github.com/sindresorhus/os-name) ⭐ 149 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-02 - Get the name of the current operating system.
 * [getos](https://github.com/retrohacker/getos) ⭐ 79 | 🐛 6 | 🌐 JavaScript | 📅 2023-01-06 - Retrieve the current OS, including Linux distribution.

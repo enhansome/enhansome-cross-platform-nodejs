@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-18T06:42:47Z",
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94725
+                "stars": 94732
               }
             },
             {
@@ -80,10 +80,10 @@
                 "archived": false,
                 "id": 24268127,
                 "language": "Go",
-                "last_commit": "2026-04-17T17:58:18Z",
+                "last_commit": "2026-08-25T10:33:03Z",
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47467
+                "stars": 47473
               }
             },
             {
@@ -157,7 +157,7 @@
                 "last_commit": "2026-08-22T19:02:15Z",
                 "owner": "tporadowski",
                 "repo": "redis",
-                "stars": 10250
+                "stars": 10251
               }
             }
           ],
@@ -182,7 +182,7 @@
                 "archived": false,
                 "id": 17677611,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T20:03:32Z",
+                "last_commit": "2026-08-25T14:18:47Z",
                 "owner": "sebhildebrandt",
                 "repo": "systeminformation",
                 "stars": 3129
@@ -867,7 +867,7 @@
             "last_commit": "2024-08-15T20:32:32Z",
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34286
+            "stars": 34285
           }
         },
         {
@@ -882,7 +882,7 @@
             "last_commit": "2024-08-15T20:32:32Z",
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34286
+            "stars": 34285
           }
         },
         {
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:06:00.475Z",
+    "last_updated": "2026-08-25T15:04:40.261Z",
     "original_repository": "bcoe/awesome-cross-platform-nodejs",
     "original_repository_id": 48332249,
     "original_repository_sha": "d54a9f1769768752bb239e5f376aa01a5114d120",
