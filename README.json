@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-18T06:42:47Z",
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94761
+                "stars": 94768
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2026-08-26T10:32:49Z",
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47483
+                "stars": 47485
               }
             },
             {
@@ -182,7 +182,7 @@
                 "archived": false,
                 "id": 17677611,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T11:14:48Z",
+                "last_commit": "2026-08-27T17:33:33Z",
                 "owner": "sebhildebrandt",
                 "repo": "systeminformation",
                 "stars": 3129
@@ -282,7 +282,7 @@
                 "last_commit": "2026-07-31T02:10:22Z",
                 "owner": "sindresorhus",
                 "repo": "execa",
-                "stars": 7592
+                "stars": 7594
               }
             },
             {
@@ -491,7 +491,7 @@
                 "last_commit": "2026-08-16T15:34:26Z",
                 "owner": "paulmillr",
                 "repo": "chokidar",
-                "stars": 12226
+                "stars": 12228
               }
             },
             {
@@ -506,7 +506,7 @@
                 "last_commit": "2026-07-23T19:51:59Z",
                 "owner": "jprichardson",
                 "repo": "node-fs-extra",
-                "stars": 9595
+                "stars": 9594
               }
             },
             {
@@ -789,7 +789,7 @@
                 "last_commit": "2026-08-13T23:38:37Z",
                 "owner": "sindresorhus",
                 "repo": "open",
-                "stars": 3497
+                "stars": 3498
               }
             }
           ],
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:31:10.366Z",
+    "last_updated": "2026-08-27T23:46:55.468Z",
     "original_repository_info": {
       "archived": false,
       "id": 48332249,
