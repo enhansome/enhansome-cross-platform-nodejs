@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-18T06:42:47Z",
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94749
+                "stars": 94761
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2026-08-26T10:32:49Z",
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47474
+                "stars": 47483
               }
             },
             {
@@ -113,7 +113,7 @@
                 "last_commit": "2021-05-10T13:07:29Z",
                 "owner": "felixrieseberg",
                 "repo": "npm-windows-upgrade",
-                "stars": 2504
+                "stars": 2503
               }
             }
           ],
@@ -182,7 +182,7 @@
                 "archived": false,
                 "id": 17677611,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T08:31:04Z",
+                "last_commit": "2026-08-27T11:14:48Z",
                 "owner": "sebhildebrandt",
                 "repo": "systeminformation",
                 "stars": 3129
@@ -491,7 +491,7 @@
                 "last_commit": "2026-08-16T15:34:26Z",
                 "owner": "paulmillr",
                 "repo": "chokidar",
-                "stars": 12224
+                "stars": 12226
               }
             },
             {
@@ -521,7 +521,7 @@
                 "last_commit": "2026-05-15T19:38:06Z",
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5851
+                "stars": 5852
               }
             },
             {
@@ -648,7 +648,7 @@
                 "last_commit": "2026-01-14T16:02:46Z",
                 "owner": "sindresorhus",
                 "repo": "fkill",
-                "stars": 797
+                "stars": 799
               }
             },
             {
@@ -867,7 +867,7 @@
             "last_commit": "2024-08-15T20:32:32Z",
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34285
+            "stars": 34286
           }
         },
         {
@@ -882,7 +882,7 @@
             "last_commit": "2024-08-15T20:32:32Z",
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34285
+            "stars": 34286
           }
         },
         {
@@ -905,9 +905,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T15:52:24.426Z",
-    "original_repository": "bcoe/awesome-cross-platform-nodejs",
-    "original_repository_id": 48332249,
+    "last_updated": "2026-08-27T11:31:10.366Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 48332249,
+      "language": null,
+      "last_commit": "2023-02-07T20:03:47Z",
+      "owner": "bcoe",
+      "repo": "awesome-cross-platform-nodejs",
+      "stars": 1207
+    },
     "original_repository_sha": "d54a9f1769768752bb239e5f376aa01a5114d120",
     "enhanced_repository": "enhansome/enhansome-cross-platform-nodejs",
     "enhanced_repository_description": null,

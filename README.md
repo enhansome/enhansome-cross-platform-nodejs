@@ -46,8 +46,8 @@
 
 ### Development environment
 
-* [nvm](https://github.com/creationix/nvm) ⭐ 94,749 | 🐛 398 | 🌐 Shell | 📅 2026-08-18 / [n](https://github.com/tj/n) ⭐ 19,510 | 🐛 4 | 🌐 Shell | 📅 2026-08-22 - Node version manager for macOS/Linux.
-* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,474 | 🐛 86 | 🌐 Go | 📅 2026-08-26 - Manage multiple installations of Node.js on a Windows computer.
+* [nvm](https://github.com/creationix/nvm) ⭐ 94,761 | 🐛 397 | 🌐 Shell | 📅 2026-08-18 / [n](https://github.com/tj/n) ⭐ 19,510 | 🐛 4 | 🌐 Shell | 📅 2026-08-22 - Node version manager for macOS/Linux.
+* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,483 | 🐛 87 | 🌐 Go | 📅 2026-08-26 - Manage multiple installations of Node.js on a Windows computer.
 * [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) ⚠️ Archived - Install C++ Build Tools for Windows using npm.
 * [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) ⚠️ Archived - Upgrade npm on Windows.
 * [Node.js](https://nodejs.org/en/download/) - Node.js installer for various platforms.
@@ -82,7 +82,7 @@
 
 ### OS identification
 
-* [systeminformation](https://github.com/sebhildebrandt/systeminformation) ⭐ 3,129 | 🐛 103 | 🌐 JavaScript | 📅 2026-08-26 - Hardware/software system information.
+* [systeminformation](https://github.com/sebhildebrandt/systeminformation) ⭐ 3,129 | 🐛 83 | 🌐 JavaScript | 📅 2026-08-27 - Hardware/software system information.
 * [is-wsl](https://github.com/sindresorhus/is-wsl) ⭐ 198 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-15 - Detect whether current platform is WSL (Windows Subsystem for Linux).
 * [os-name](https://github.com/sindresorhus/os-name) ⭐ 149 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-02 - Get the name of the current operating system.
 * [getos](https://github.com/retrohacker/getos) ⭐ 79 | 🐛 6 | 🌐 JavaScript | 📅 2023-01-06 - Retrieve the current OS, including Linux distribution.
@@ -90,7 +90,7 @@
 
 ### Shell
 
-* [shelljs](https://github.com/shelljs/shelljs) ⭐ 14,399 | 🐛 105 | 🌐 JavaScript | 📅 2026-08-12 - Cross-platform Unix shell commands.
+* [shelljs](https://github.com/shelljs/shelljs) ⭐ 14,399 | 🐛 106 | 🌐 JavaScript | 📅 2026-08-12 - Cross-platform Unix shell commands.
 * [execa](https://github.com/sindresorhus/execa) ⭐ 7,592 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-31 - Cross-platform implementation of `child_process.{execFile,exec}`.
 * [node-windows](https://github.com/coreybutler/node-windows) ⭐ 2,936 | 🐛 73 | 🌐 JavaScript | 📅 2024-10-01 - Windows support for Node.js scripts (daemons, eventlog, UAC, etc).
 * [clipboardy](https://github.com/sindresorhus/clipboardy) ⭐ 1,983 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-23 / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) ⭐ 509 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-03 - Cross-platform copy/paste.
@@ -110,9 +110,9 @@
 
 ### Filesystem
 
-* [chokidar](https://github.com/paulmillr/chokidar) ⭐ 12,224 | 🐛 45 | 🌐 TypeScript | 📅 2026-08-16 - Improved cross-platform file watching.
+* [chokidar](https://github.com/paulmillr/chokidar) ⭐ 12,226 | 🐛 45 | 🌐 TypeScript | 📅 2026-08-16 - Improved cross-platform file watching.
 * [fs-extra](https://github.com/jprichardson/node-fs-extra) ⭐ 9,595 | 🐛 13 | 🌐 JavaScript | 📅 2026-07-23 - Combines `graceful-fs` with better JSON file reading and promises.
-* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,851 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 / [del](https://github.com/sindresorhus/del) ⭐ 1,344 | 🐛 16 | 🌐 JavaScript | 📅 2026-07-21 - Delete files and folders. Cross-platform.
+* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,852 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 / [del](https://github.com/sindresorhus/del) ⭐ 1,344 | 🐛 16 | 🌐 JavaScript | 📅 2026-07-21 - Delete files and folders. Cross-platform.
 * [graceful-fs](https://github.com/isaacs/node-graceful-fs) ⭐ 1,302 | 🐛 49 | 🌐 JavaScript | 📅 2025-10-25 - Improves the `fs` module, especially on Windows.
 * [make-dir](https://github.com/sindresorhus/make-dir) ⭐ 481 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-10 - Cross-platform `mkdir -p`.
 * [cpy](https://github.com/sindresorhus/cpy) ⭐ 439 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-23 - Copy files. Cross-platform.
@@ -123,7 +123,7 @@
 
 ### Signals
 
-* [fkill](https://github.com/sindresorhus/fkill) ⭐ 797 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-14 - Kill processes. Cross-platform.
+* [fkill](https://github.com/sindresorhus/fkill) ⭐ 799 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-14 - Kill processes. Cross-platform.
 * [human-signals](https://github.com/ehmicky/human-signals) ⭐ 286 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-25 - Human-friendly process signals.
 * [signal-exit](https://github.com/tapjs/signal-exit) ⭐ 200 | 🐛 11 | 🌐 TypeScript | 📅 2025-10-25 - Cross-platform `exit` handler.
 
@@ -188,7 +188,7 @@ Thanks go to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,093 | 🐛 89 | 🌐 MDX | 📅 2026-08-21 specification.
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,093 | 🐛 89 | 🌐 MDX | 📅 2026-08-27 specification.
 
 ## License
 
@@ -196,4 +196,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
