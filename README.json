@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tips, tricks, and resources for working with Node.js, and the start of an ongoing conversation on how we can improve the Node.js experience on Microsoft platforms.",
+            "homepage": null,
             "id": 45360221,
             "language": null,
+            "license": null,
             "last_commit": "2023-02-12T09:16:18Z",
+            "open_issues": 19,
             "owner": "microsoft",
             "repo": "nodejs-guidelines",
-            "stars": 2496
+            "stars": 2496,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
         },
@@ -26,12 +31,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📗 How to write cross-platform Node.js code",
+            "homepage": null,
             "id": 166806384,
             "language": "JavaScript",
+            "license": "CC-BY-4.0",
             "last_commit": "2025-05-25T23:03:22Z",
+            "open_issues": 0,
             "owner": "ehmicky",
             "repo": "cross-platform-node-guide",
-            "stars": 1421
+            "stars": 1421,
+            "topics": [
+              "api",
+              "cli",
+              "code-quality",
+              "cross-platform",
+              "documentation",
+              "encoding",
+              "es6",
+              "javascript",
+              "linux",
+              "macos",
+              "nodejs",
+              "operating-system",
+              "os",
+              "portability",
+              "security",
+              "server",
+              "shell",
+              "terminal",
+              "unix",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
         },
@@ -42,12 +73,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All the characters that work on most terminals",
+            "homepage": null,
             "id": 351905783,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-25T23:03:22Z",
+            "open_issues": 0,
             "owner": "ehmicky",
             "repo": "cross-platform-terminal-characters",
-            "stars": 249
+            "stars": 249,
+            "topics": [
+              "ascii",
+              "bash",
+              "characters",
+              "cli",
+              "codepoints",
+              "cross-platform",
+              "encoding",
+              "font",
+              "linux",
+              "macos",
+              "operating-system",
+              "os",
+              "portability",
+              "shell",
+              "terminal",
+              "typescript",
+              "unicode",
+              "unix",
+              "utf-8",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
         }
@@ -66,12 +123,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+                "homepage": null,
                 "id": 612230,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-18T06:42:47Z",
+                "open_issues": 396,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94771
+                "stars": 94771,
+                "topics": [
+                  "bash",
+                  "install",
+                  "lts",
+                  "node",
+                  "node-js",
+                  "nodejs",
+                  "nvm",
+                  "nvmrc",
+                  "posix",
+                  "posix-compliant",
+                  "shell",
+                  "version-manager",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -82,12 +158,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Node.js version manager for Windows.",
+                "homepage": null,
                 "id": 24268127,
                 "language": "Go",
-                "last_commit": "2026-08-26T10:32:49Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:41:53Z",
+                "open_issues": 81,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47498
+                "stars": 47499,
+                "topics": [
+                  "install",
+                  "node",
+                  "node-js",
+                  "nodejs",
+                  "nvm",
+                  "version-manager",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -98,12 +187,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":package: Install C++ Build Tools for Windows using npm",
+                "homepage": null,
                 "id": 60933261,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2021-06-20T20:01:54Z",
+                "open_issues": 86,
                 "owner": "felixrieseberg",
                 "repo": "windows-build-tools",
-                "stars": 3408
+                "stars": 3408,
+                "topics": [
+                  "build-tool",
+                  "microsoft",
+                  "node-gyp",
+                  "nodejs",
+                  "npm",
+                  "python",
+                  "vcc",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -114,12 +217,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":rocket: Upgrade npm on Windows",
+                "homepage": null,
                 "id": 38216587,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-05-10T13:07:29Z",
+                "open_issues": 48,
                 "owner": "felixrieseberg",
                 "repo": "npm-windows-upgrade",
-                "stars": 2503
+                "stars": 2502,
+                "topics": [
+                  "microsoft",
+                  "nodejs",
+                  "npm",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             }
@@ -137,12 +250,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated installation of the Microsoft IE App Compat virtual machines",
+                "homepage": "http://xdissent.github.com/ievms",
                 "id": 143031416,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2018-08-16T15:49:27Z",
+                "open_issues": 0,
                 "owner": "amichaelparker",
                 "repo": "ievms",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             }
@@ -160,12 +278,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.",
+                "homepage": "http://redis.io",
                 "id": 108110706,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-22T19:02:15Z",
+                "open_issues": 82,
                 "owner": "tporadowski",
                 "repo": "redis",
-                "stars": 10254
+                "stars": 10252,
+                "topics": [
+                  "redis",
+                  "redis-for-windows",
+                  "redis-msi-installer",
+                  "redis-windows",
+                  "redis-windows-installer",
+                  "redis-windows-native",
+                  "redis-windows-service"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             }
@@ -189,12 +320,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "System Information Library for Node.JS",
+                "homepage": null,
                 "id": 17677611,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T14:21:11Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:23:15Z",
+                "open_issues": 58,
                 "owner": "sebhildebrandt",
                 "repo": "systeminformation",
-                "stars": 3130
+                "stars": 3130,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -205,12 +341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Check if the process is running inside Windows Subsystem for Linux (Bash on Windows)",
+                "homepage": null,
                 "id": 88415331,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-15T08:45:05Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "is-wsl",
-                "stars": 198
+                "stars": 198,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -221,12 +362,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get the name of the current operating system. Example: macOS Sierra",
+                "homepage": null,
                 "id": 20604616,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-02T15:03:15Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "os-name",
-                "stars": 149
+                "stars": 149,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -237,12 +383,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Node.js module that returns the OS/Distribution name of the environment you are working on",
+                "homepage": null,
                 "id": 21311458,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-06T17:31:25Z",
+                "open_issues": 6,
                 "owner": "retrohacker",
                 "repo": "getos",
-                "stars": 79
+                "stars": 79,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -253,12 +404,32 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Returns true if the platform is Windows (and Cygwin or MSYS/MinGW for unit tests)",
+                "homepage": "https://github.com/jonschlinkert",
                 "id": 38937474,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-06-16T16:01:59Z",
+                "open_issues": 3,
                 "owner": "jonschlinkert",
                 "repo": "is-windows",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "amd",
+                  "browser",
+                  "commonjs",
+                  "cygwin",
+                  "electron",
+                  "is",
+                  "javascript",
+                  "jonschlinkert",
+                  "msys",
+                  "nodejs",
+                  "os",
+                  "platform",
+                  "umd",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             }
@@ -276,12 +447,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":shell: Portable Unix shell commands for Node.js",
+                "homepage": "https://www.npmjs.com/package/shelljs",
                 "id": 3604157,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-12T11:13:48Z",
+                "open_issues": 106,
                 "owner": "shelljs",
                 "repo": "shelljs",
-                "stars": 14399
+                "stars": 14399,
+                "topics": [
+                  "bash",
+                  "javascript",
+                  "node",
+                  "nodejs",
+                  "shell",
+                  "shelljs",
+                  "unix"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -292,12 +476,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Process execution for humans",
+                "homepage": null,
                 "id": 47475908,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-31T02:10:22Z",
+                "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "execa",
-                "stars": 7595
+                "stars": 7594,
+                "topics": [
+                  "binary",
+                  "child-process",
+                  "exec",
+                  "execute",
+                  "javascript",
+                  "nodejs",
+                  "shell",
+                  "spawn",
+                  "spawned-processes",
+                  "streams"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -308,12 +508,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Windows support for Node.JS scripts (daemons, eventlog, UAC, etc).",
+                "homepage": null,
                 "id": 7632747,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-10-01T21:28:07Z",
+                "open_issues": 73,
                 "owner": "coreybutler",
                 "repo": "node-windows",
-                "stars": 2936
+                "stars": 2936,
+                "topics": [
+                  "background",
+                  "daemon",
+                  "node-windows",
+                  "nodejs",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -324,12 +535,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Access the system clipboard (copy/paste)",
+                "homepage": null,
                 "id": 75538424,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-23T11:44:38Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "clipboardy",
-                "stars": 1983
+                "stars": 1983,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -340,12 +556,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cross platform solution to node's spawn and spawnSync",
+                "homepage": null,
                 "id": 21335844,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-11-18T14:20:54Z",
+                "open_issues": 31,
                 "owner": "moxystudio",
                 "repo": "node-cross-spawn",
-                "stars": 1171
+                "stars": 1171,
+                "topics": [
+                  "cmd",
+                  "cross-platform",
+                  "exec",
+                  "path-ext",
+                  "shebang",
+                  "spawn",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -356,12 +585,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Colored symbols for various log levels",
+                "homepage": null,
                 "id": 21673868,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-05-21T13:47:41Z",
+                "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "log-symbols",
-                "stars": 772
+                "stars": 772,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -372,12 +606,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unicode symbols with fallbacks for older terminals",
+                "homepage": null,
                 "id": 21672939,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-10-28T05:10:30Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "figures",
-                "stars": 634
+                "stars": 634,
+                "topics": [
+                  "command-line",
+                  "command-line-utility",
+                  "node-module",
+                  "npm-package",
+                  "terminal",
+                  "unicode",
+                  "unicode-symbols"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -388,12 +635,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gulp.js command execution for humans",
+                "homepage": null,
                 "id": 174192611,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-08T00:20:03Z",
+                "open_issues": 0,
                 "owner": "ehmicky",
                 "repo": "gulp-execa",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "bash",
+                  "child-process",
+                  "cli",
+                  "command-line",
+                  "es6",
+                  "exec",
+                  "execa",
+                  "gulp",
+                  "gulp-plugin",
+                  "gulpjs",
+                  "gulpplugin",
+                  "javascript",
+                  "library",
+                  "nodejs",
+                  "security",
+                  "shell",
+                  "spawn",
+                  "stream",
+                  "terminal",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             }
@@ -411,12 +684,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🔀 Cross platform setting of environment scripts",
+                "homepage": "https://www.npmjs.com/package/cross-env",
                 "id": 43512914,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-11-16T14:11:37Z",
+                "open_issues": 1,
                 "owner": "kentcdodds",
                 "repo": "cross-env",
-                "stars": 6524
+                "stars": 6524,
+                "topics": [
+                  "cross-env",
+                  "cross-platform",
+                  "environment",
+                  "macos",
+                  "unix",
+                  "variables",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -427,12 +713,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Like which(1) unix command. Find the first instance of an executable in the PATH.",
+                "homepage": null,
                 "id": 2169708,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2026-07-02T03:32:40Z",
+                "open_issues": 7,
                 "owner": "npm",
                 "repo": "node-which",
-                "stars": 352
+                "stars": 352,
+                "topics": [
+                  "npm-cli"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -443,12 +736,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Get the path to the user home directory",
+                "homepage": null,
                 "id": 22579617,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-04-09T13:35:08Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "user-home",
-                "stars": 158
+                "stars": 158,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -459,12 +757,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get the username of the current user",
+                "homepage": null,
                 "id": 18270175,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-11-14T16:18:47Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "username",
-                "stars": 145
+                "stars": 145,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -475,12 +778,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Look up environment settings specific to different operating systems.",
+                "homepage": null,
                 "id": 4695853,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2020-12-18T04:34:07Z",
+                "open_issues": 13,
                 "owner": "npm",
                 "repo": "osenv",
-                "stars": 138
+                "stars": 138,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -491,12 +799,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Check if the process is running with elevated privileges",
+                "homepage": null,
                 "id": 34956566,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-08-11T12:32:38Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "is-elevated",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             }
@@ -514,12 +827,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal and efficient cross-platform file watching library",
+                "homepage": "https://paulmillr.com",
                 "id": 4090287,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-16T15:34:26Z",
+                "open_issues": 45,
                 "owner": "paulmillr",
                 "repo": "chokidar",
-                "stars": 12228
+                "stars": 12228,
+                "topics": [
+                  "chokidar",
+                  "filesystem",
+                  "fsevents",
+                  "nodejs",
+                  "watch-files",
+                  "watcher"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -530,12 +855,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node.js: extra methods for the fs object like copy(), remove(), mkdirs()",
+                "homepage": null,
                 "id": 2791348,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-23T19:51:59Z",
+                "open_issues": 13,
                 "owner": "jprichardson",
                 "repo": "node-fs-extra",
-                "stars": 9594
+                "stars": 9593,
+                "topics": [
+                  "copy",
+                  "delete",
+                  "filesystem",
+                  "javascript",
+                  "move",
+                  "nodejs",
+                  "remove"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -546,12 +884,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A `rm -rf` util for nodejs",
+                "homepage": null,
                 "id": 1341324,
                 "language": "TypeScript",
+                "license": "BlueOak-1.0.0",
                 "last_commit": "2026-05-15T19:38:06Z",
+                "open_issues": 10,
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5852
+                "stars": 5852,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -562,12 +905,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fs with incremental backoff on EMFILE",
+                "homepage": null,
                 "id": 2077020,
                 "language": "JavaScript",
+                "license": "BlueOak-1.0.0",
                 "last_commit": "2025-10-25T19:00:09Z",
+                "open_issues": 49,
                 "owner": "isaacs",
                 "repo": "node-graceful-fs",
-                "stars": 1302
+                "stars": 1302,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -578,12 +926,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make a directory and its parents if needed - Think `mkdir -p`",
+                "homepage": null,
                 "id": 90776169,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-09-10T18:24:39Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "make-dir",
-                "stars": 481
+                "stars": 481,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -594,12 +947,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Copy files",
+                "homepage": null,
                 "id": 21312138,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-23T13:16:47Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "cpy",
-                "stars": 439
+                "stars": 439,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -610,12 +968,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Recursive version of fs.readdir with small RAM & CPU footprint.",
+                "homepage": null,
                 "id": 4494405,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-06T06:11:03Z",
+                "open_issues": 0,
                 "owner": "paulmillr",
                 "repo": "readdirp",
-                "stars": 422
+                "stars": 422,
+                "topics": [
+                  "bun",
+                  "deno",
+                  "filesystem",
+                  "fs",
+                  "node",
+                  "readdir",
+                  "readdirp"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -626,12 +997,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform `/dev/null`",
+                "homepage": null,
                 "id": 188683537,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-10-14T09:05:27Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "dev-null-cli",
-                "stars": 93
+                "stars": 93,
+                "topics": [
+                  "cli-app",
+                  "command-line-tool",
+                  "cross-platform",
+                  "dev-null",
+                  "nodejs",
+                  "noop",
+                  "npm-package",
+                  "stream"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -642,12 +1027,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get the global cache directory",
+                "homepage": null,
                 "id": 201504782,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-05-25T23:03:22Z",
+                "open_issues": 0,
                 "owner": "ehmicky",
                 "repo": "global-cache-dir",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "android",
+                  "bsd",
+                  "cache",
+                  "caching",
+                  "directory",
+                  "es6",
+                  "files",
+                  "filesystem",
+                  "global",
+                  "javascript",
+                  "library",
+                  "linux",
+                  "mac",
+                  "macos",
+                  "nodejs",
+                  "operating-system",
+                  "path",
+                  "performance",
+                  "typescript",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -658,12 +1069,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":rage2: make the keys on an object path.sep agnostic.",
+                "homepage": null,
                 "id": 48304675,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2015-12-21T03:04:44Z",
+                "open_issues": 0,
                 "owner": "bcoe",
                 "repo": "any-path",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             }
@@ -681,12 +1097,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fabulously kill processes. Cross-platform.",
+                "homepage": null,
                 "id": 37784838,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-01-14T16:02:46Z",
+                "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "fkill",
-                "stars": 799
+                "stars": 799,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -697,12 +1118,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Human-friendly process signals",
+                "homepage": null,
                 "id": 214467546,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-25T23:03:22Z",
+                "open_issues": 0,
                 "owner": "ehmicky",
                 "repo": "human-signals",
-                "stars": 286
+                "stars": 286,
+                "topics": [
+                  "error-handling",
+                  "es6",
+                  "exit",
+                  "exitcode",
+                  "handlers",
+                  "interrupts",
+                  "irq",
+                  "javascript",
+                  "linux",
+                  "macos",
+                  "nodejs",
+                  "operating-system",
+                  "process",
+                  "sigint",
+                  "signal",
+                  "signals",
+                  "sigterm",
+                  "status",
+                  "typescript",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -713,12 +1160,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "when you want to fire an event no matter how a process exits.",
+                "homepage": null,
                 "id": 35711072,
                 "language": "TypeScript",
+                "license": "BlueOak-1.0.0",
                 "last_commit": "2025-10-25T19:21:39Z",
+                "open_issues": 11,
                 "owner": "tapjs",
                 "repo": "signal-exit",
-                "stars": 200
+                "stars": 200,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             }
@@ -736,12 +1188,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get running processes",
+                "homepage": null,
                 "id": 36581913,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-03T07:53:30Z",
+                "open_issues": 4,
                 "owner": "sindresorhus",
                 "repo": "ps-list",
-                "stars": 287
+                "stars": 287,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -752,12 +1209,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Check if a process is running",
+                "homepage": null,
                 "id": 37780325,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-11-04T13:53:36Z",
+                "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "process-exists",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             }
@@ -775,12 +1237,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Creates a readable stream producing cryptographically strong pseudo-random data using `crypto.randomBytes()`",
+                "homepage": null,
                 "id": 142246289,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-08-12T11:32:09Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "random-bytes-readable-stream",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "crypto",
+                  "nodejs",
+                  "nodejs-stream",
+                  "npm-package",
+                  "pseudo-random-generator",
+                  "random",
+                  "random-bytes",
+                  "readable-stream"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -791,12 +1267,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create a readable Node.js stream that produces no data (or optionally blank data) or a writable stream that discards data",
+                "homepage": null,
                 "id": 188680676,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-05-27T14:59:43Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "noop-stream",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "dev-null",
+                  "nodejs",
+                  "nodejs-stream",
+                  "noop",
+                  "npm-package",
+                  "readable-stream",
+                  "stream"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             }
@@ -814,12 +1303,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)",
+                "homepage": null,
                 "id": 6965529,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-24T13:43:42Z",
+                "open_issues": 128,
                 "owner": "mikaelbr",
                 "repo": "node-notifier",
-                "stars": 5845
+                "stars": 5845,
+                "topics": [
+                  "growl",
+                  "hacktoberfest",
+                  "javascript",
+                  "node-notifier",
+                  "nodejs",
+                  "notification",
+                  "notification-center",
+                  "toasters"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -830,12 +1333,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open stuff like URLs, files, executables. Cross-platform.",
+                "homepage": null,
                 "id": 18469325,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-13T23:38:37Z",
+                "open_issues": 3,
                 "owner": "sindresorhus",
                 "repo": "open",
-                "stars": 3498
+                "stars": 3498,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             }
@@ -853,12 +1361,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "node module that provides access to the Windows Registry through the REG commandline tool",
+                "homepage": null,
                 "id": 9541512,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-02-19T18:08:10Z",
+                "open_issues": 20,
                 "owner": "fresc81",
                 "repo": "node-winreg",
-                "stars": 218
+                "stars": 218,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -869,12 +1382,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Read and Write to the Windows registry in-process from Node.js. Easily set application file associations and other goodies.",
+                "homepage": null,
                 "id": 45553630,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-12-10T10:44:26Z",
+                "open_issues": 22,
                 "owner": "CatalystCode",
                 "repo": "windows-registry-node",
-                "stars": 117
+                "stars": 117,
+                "topics": [
+                  "npm-module",
+                  "windows-registry"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             },
@@ -885,12 +1406,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🗃 Simple access to, and manipulation of, the Windows Registry. With promises. Without rage.",
+                "homepage": null,
                 "id": 117673839,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-08-20T07:16:16Z",
+                "open_issues": 4,
                 "owner": "MikeKovarik",
                 "repo": "rage-edit",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "regedit",
+                  "windows-registry"
+                ]
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
             }
@@ -912,12 +1441,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Moved to https://github.com/nodejs/node",
+            "homepage": null,
             "id": 211666,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-15T20:32:32Z",
+            "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34288
+            "stars": 34288,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
         },
@@ -928,12 +1462,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Moved to https://github.com/nodejs/node",
+            "homepage": null,
             "id": 211666,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-15T20:32:32Z",
+            "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34288
+            "stars": 34288,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
         },
@@ -944,12 +1483,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wrap all spawned Node.js child processes by adding environs and arguments ahead of the main JavaScript file argument.",
+            "homepage": null,
             "id": 35348811,
             "language": "JavaScript",
+            "license": "BlueOak-1.0.0",
             "last_commit": "2026-05-21T19:58:31Z",
+            "open_issues": 22,
             "owner": "istanbuljs",
             "repo": "spawn-wrap",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
         }
@@ -958,15 +1502,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:33:09.477Z",
+    "last_updated": "2026-08-29T04:34:12.659Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
+      "homepage": null,
       "id": 48332249,
       "language": null,
+      "license": "CC-BY-SA-4.0",
       "last_commit": "2023-02-07T20:03:47Z",
+      "open_issues": 1,
       "owner": "bcoe",
       "repo": "awesome-cross-platform-nodejs",
-      "stars": 1207
+      "stars": 1207,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "d54a9f1769768752bb239e5f376aa01a5114d120",
     "enhanced_repository": "enhansome/enhansome-cross-platform-nodejs",
