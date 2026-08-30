@@ -132,7 +132,7 @@
                 "open_issues": 397,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94777,
+                "stars": 94786,
                 "topics": [
                   "bash",
                   "install",
@@ -161,13 +161,13 @@
                 "description": "The Node.js version manager for Windows.",
                 "homepage": null,
                 "id": 24268127,
-                "language": "Go",
-                "license": "MIT",
-                "last_commit": "2026-08-29T05:18:12Z",
-                "open_issues": 80,
+                "language": "Inno Setup",
+                "license": null,
+                "last_commit": "2026-08-30T16:21:22Z",
+                "open_issues": 81,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47506,
+                "stars": 47504,
                 "topics": [
                   "install",
                   "node",
@@ -287,7 +287,7 @@
                 "open_issues": 82,
                 "owner": "tporadowski",
                 "repo": "redis",
-                "stars": 10253,
+                "stars": 10254,
                 "topics": [
                   "redis",
                   "redis-for-windows",
@@ -456,7 +456,7 @@
                 "open_issues": 106,
                 "owner": "shelljs",
                 "repo": "shelljs",
-                "stars": 14399,
+                "stars": 14400,
                 "topics": [
                   "bash",
                   "javascript",
@@ -594,7 +594,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "log-symbols",
-                "stars": 772,
+                "stars": 773,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -836,7 +836,7 @@
                 "open_issues": 45,
                 "owner": "paulmillr",
                 "repo": "chokidar",
-                "stars": 12230,
+                "stars": 12229,
                 "topics": [
                   "chokidar",
                   "filesystem",
@@ -864,7 +864,7 @@
                 "open_issues": 13,
                 "owner": "jprichardson",
                 "repo": "node-fs-extra",
-                "stars": 9593,
+                "stars": 9592,
                 "topics": [
                   "copy",
                   "delete",
@@ -893,7 +893,7 @@
                 "open_issues": 10,
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5852,
+                "stars": 5851,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1342,7 +1342,7 @@
                 "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "open",
-                "stars": 3498,
+                "stars": 3499,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1450,7 +1450,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34288,
+            "stars": 34287,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1471,7 +1471,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34288,
+            "stars": 34287,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:43:37.562Z",
+    "last_updated": "2026-08-30T18:03:47.175Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
