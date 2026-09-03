@@ -128,11 +128,11 @@
                 "id": 612230,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-08-18T06:42:47Z",
-                "open_issues": 398,
+                "last_commit": "2026-09-03T17:23:42Z",
+                "open_issues": 399,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94810,
+                "stars": 94815,
                 "topics": [
                   "bash",
                   "install",
@@ -163,11 +163,11 @@
                 "id": 24268127,
                 "language": "Inno Setup",
                 "license": null,
-                "last_commit": "2026-09-02T02:05:29Z",
+                "last_commit": "2026-09-03T03:24:32Z",
                 "open_issues": 2,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47536,
+                "stars": 47551,
                 "topics": [
                   "install",
                   "node",
@@ -287,7 +287,7 @@
                 "open_issues": 82,
                 "owner": "tporadowski",
                 "repo": "redis",
-                "stars": 10255,
+                "stars": 10256,
                 "topics": [
                   "redis",
                   "redis-for-windows",
@@ -482,10 +482,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-07-31T02:10:22Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "execa",
-                "stars": 7596,
+                "stars": 7597,
                 "topics": [
                   "binary",
                   "child-process",
@@ -565,7 +565,7 @@
                 "open_issues": 31,
                 "owner": "moxystudio",
                 "repo": "node-cross-spawn",
-                "stars": 1171,
+                "stars": 1172,
                 "topics": [
                   "cmd",
                   "cross-platform",
@@ -836,7 +836,7 @@
                 "open_issues": 45,
                 "owner": "paulmillr",
                 "repo": "chokidar",
-                "stars": 12228,
+                "stars": 12230,
                 "topics": [
                   "chokidar",
                   "filesystem",
@@ -1312,7 +1312,7 @@
                 "open_issues": 128,
                 "owner": "mikaelbr",
                 "repo": "node-notifier",
-                "stars": 5845,
+                "stars": 5846,
                 "topics": [
                   "growl",
                   "hacktoberfest",
@@ -1342,7 +1342,7 @@
                 "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "open",
-                "stars": 3499,
+                "stars": 3500,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T17:53:47.772Z",
+    "last_updated": "2026-09-03T17:51:16.474Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
