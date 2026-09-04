@@ -46,8 +46,8 @@
 
 ### Development environment
 
-* [nvm](https://github.com/creationix/nvm) ⭐ 94,815 | 🐛 399 | 🌐 Shell | 📅 2026-09-03 / [n](https://github.com/tj/n) ⭐ 19,511 | 🐛 6 | 🌐 Shell | 📅 2026-08-30 - Node version manager for macOS/Linux.
-* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,551 | 🐛 2 | 🌐 Inno Setup | 📅 2026-09-03 - Manage multiple installations of Node.js on a Windows computer.
+* [nvm](https://github.com/creationix/nvm) ⭐ 94,830 | 🐛 393 | 🌐 Shell | 📅 2026-09-04 / [n](https://github.com/tj/n) ⭐ 19,513 | 🐛 6 | 🌐 Shell | 📅 2026-08-30 - Node version manager for macOS/Linux.
+* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,559 | 🐛 3 | 🌐 Inno Setup | 📅 2026-09-04 - Manage multiple installations of Node.js on a Windows computer.
 * [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) ⚠️ Archived - Install C++ Build Tools for Windows using npm.
 * [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) ⚠️ Archived - Upgrade npm on Windows.
 * [Node.js](https://nodejs.org/en/download/) - Node.js installer for various platforms.
@@ -82,7 +82,7 @@
 
 ### OS identification
 
-* [systeminformation](https://github.com/sebhildebrandt/systeminformation) ⭐ 3,131 | 🐛 51 | 🌐 JavaScript | 📅 2026-09-02 - Hardware/software system information.
+* [systeminformation](https://github.com/sebhildebrandt/systeminformation) ⭐ 3,131 | 🐛 49 | 🌐 JavaScript | 📅 2026-09-04 - Hardware/software system information.
 * [is-wsl](https://github.com/sindresorhus/is-wsl) ⭐ 198 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-15 - Detect whether current platform is WSL (Windows Subsystem for Linux).
 * [os-name](https://github.com/sindresorhus/os-name) ⭐ 149 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-02 - Get the name of the current operating system.
 * [getos](https://github.com/retrohacker/getos) ⭐ 79 | 🐛 6 | 🌐 JavaScript | 📅 2023-01-06 - Retrieve the current OS, including Linux distribution.
@@ -90,7 +90,7 @@
 
 ### Shell
 
-* [shelljs](https://github.com/shelljs/shelljs) ⭐ 14,401 | 🐛 106 | 🌐 JavaScript | 📅 2026-08-12 - Cross-platform Unix shell commands.
+* [shelljs](https://github.com/shelljs/shelljs) ⭐ 14,402 | 🐛 106 | 🌐 JavaScript | 📅 2026-08-12 - Cross-platform Unix shell commands.
 * [execa](https://github.com/sindresorhus/execa) ⭐ 7,597 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-31 - Cross-platform implementation of `child_process.{execFile,exec}`.
 * [node-windows](https://github.com/coreybutler/node-windows) ⭐ 2,936 | 🐛 73 | 🌐 JavaScript | 📅 2024-10-01 - Windows support for Node.js scripts (daemons, eventlog, UAC, etc).
 * [clipboardy](https://github.com/sindresorhus/clipboardy) ⭐ 1,984 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-23 / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) ⭐ 509 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-03 - Cross-platform copy/paste.
@@ -110,12 +110,12 @@
 
 ### Filesystem
 
-* [chokidar](https://github.com/paulmillr/chokidar) ⭐ 12,230 | 🐛 45 | 🌐 TypeScript | 📅 2026-08-16 - Improved cross-platform file watching.
+* [chokidar](https://github.com/paulmillr/chokidar) ⭐ 12,230 | 🐛 46 | 🌐 TypeScript | 📅 2026-08-16 - Improved cross-platform file watching.
 * [fs-extra](https://github.com/jprichardson/node-fs-extra) ⭐ 9,590 | 🐛 13 | 🌐 JavaScript | 📅 2026-07-23 - Combines `graceful-fs` with better JSON file reading and promises.
 * [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,852 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 / [del](https://github.com/sindresorhus/del) ⭐ 1,344 | 🐛 16 | 🌐 JavaScript | 📅 2026-07-21 - Delete files and folders. Cross-platform.
 * [graceful-fs](https://github.com/isaacs/node-graceful-fs) ⭐ 1,302 | 🐛 49 | 🌐 JavaScript | 📅 2025-10-25 - Improves the `fs` module, especially on Windows.
 * [make-dir](https://github.com/sindresorhus/make-dir) ⭐ 481 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-10 - Cross-platform `mkdir -p`.
-* [cpy](https://github.com/sindresorhus/cpy) ⭐ 439 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-01 - Copy files. Cross-platform.
+* [cpy](https://github.com/sindresorhus/cpy) ⭐ 440 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-01 - Copy files. Cross-platform.
 * [readdirp](https://github.com/paulmillr/readdirp) ⭐ 422 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-06 - Recursive version of `fs.readdir()`.
 * [dev-null-cli](https://github.com/sindresorhus/dev-null-cli) ⭐ 93 | 🐛 0 | 🌐 JavaScript | 📅 2021-10-14 - Cross-platform `/dev/null`.
 * [global-cache-dir](https://github.com/ehmicky/global-cache-dir) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-25 - Get the global OS-specific cache directory.
@@ -140,7 +140,7 @@
 ### Desktop UI
 
 * [node-notifier](https://github.com/mikaelbr/node-notifier) ⭐ 5,846 | 🐛 128 | 🌐 JavaScript | 📅 2024-06-24 - Cross-platform desktop notifications.
-* [open](https://github.com/sindresorhus/open) ⭐ 3,500 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-29 - Opens stuff like websites, files, executables. Cross-platform.
+* [open](https://github.com/sindresorhus/open) ⭐ 3,502 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-29 - Opens stuff like websites, files, executables. Cross-platform.
 
 ### Windows registry
 
@@ -196,4 +196,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
