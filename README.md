@@ -46,8 +46,8 @@
 
 ### Development environment
 
-* [nvm](https://github.com/creationix/nvm) ⭐ 95,032 | 🐛 391 | 🌐 Shell | 📅 2026-09-04 / [n](https://github.com/tj/n) ⭐ 19,515 | 🐛 5 | 🌐 Shell | 📅 2026-08-30 - Node version manager for macOS/Linux.
-* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,605 | 🐛 5 | 🌐 Inno Setup | 📅 2026-09-08 - Manage multiple installations of Node.js on a Windows computer.
+* [nvm](https://github.com/creationix/nvm) ⭐ 95,054 | 🐛 386 | 🌐 Shell | 📅 2026-09-09 / [n](https://github.com/tj/n) ⭐ 19,514 | 🐛 5 | 🌐 Shell | 📅 2026-08-30 - Node version manager for macOS/Linux.
+* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,616 | 🐛 7 | 🌐 Inno Setup | 📅 2026-09-08 - Manage multiple installations of Node.js on a Windows computer.
 * [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) ⚠️ Archived - Install C++ Build Tools for Windows using npm.
 * [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) ⚠️ Archived - Upgrade npm on Windows.
 * [Node.js](https://nodejs.org/en/download/) - Node.js installer for various platforms.
@@ -76,13 +76,13 @@
 
 ### Databases
 
-* [Redis](https://github.com/tporadowski/redis) ⭐ 10,256 | 🐛 82 | 🌐 C | 📅 2026-09-06 - Native port of Redis for Windows.
+* [Redis](https://github.com/tporadowski/redis) ⭐ 10,257 | 🐛 82 | 🌐 C | 📅 2026-09-06 - Native port of Redis for Windows.
 
 ## Libraries
 
 ### OS identification
 
-* [systeminformation](https://github.com/sebhildebrandt/systeminformation) ⭐ 3,131 | 🐛 48 | 🌐 JavaScript | 📅 2026-09-07 - Hardware/software system information.
+* [systeminformation](https://github.com/sebhildebrandt/systeminformation) ⭐ 3,130 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-08 - Hardware/software system information.
 * [is-wsl](https://github.com/sindresorhus/is-wsl) ⭐ 199 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-15 - Detect whether current platform is WSL (Windows Subsystem for Linux).
 * [os-name](https://github.com/sindresorhus/os-name) ⭐ 149 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-02 - Get the name of the current operating system.
 * [getos](https://github.com/retrohacker/getos) ⭐ 79 | 🐛 6 | 🌐 JavaScript | 📅 2023-01-06 - Retrieve the current OS, including Linux distribution.
@@ -90,46 +90,46 @@
 
 ### Shell
 
-* [shelljs](https://github.com/shelljs/shelljs) ⭐ 14,401 | 🐛 106 | 🌐 JavaScript | 📅 2026-09-06 - Cross-platform Unix shell commands.
-* [execa](https://github.com/sindresorhus/execa) ⭐ 7,602 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-31 - Cross-platform implementation of `child_process.{execFile,exec}`.
-* [node-windows](https://github.com/coreybutler/node-windows) ⭐ 2,937 | 🐛 73 | 🌐 JavaScript | 📅 2024-10-01 - Windows support for Node.js scripts (daemons, eventlog, UAC, etc).
-* [clipboardy](https://github.com/sindresorhus/clipboardy) ⭐ 1,984 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-23 / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) ⭐ 509 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-03 - Cross-platform copy/paste.
-* [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) ⭐ 1,172 | 🐛 31 | 🌐 JavaScript | 📅 2024-11-18 - Cross-platform implementation of `child_process.spawn()`.
-* [log-symbols](https://github.com/sindresorhus/log-symbols) ⭐ 773 | 🐛 1 | 🌐 JavaScript | 📅 2025-05-21 - Colored symbols for various log levels with Windows fallbacks.
-* [figures](https://github.com/sindresorhus/figures) ⭐ 634 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-28 - Unicode symbols with Windows fallbacks.
+* [shelljs](https://github.com/shelljs/shelljs) ⭐ 14,400 | 🐛 106 | 🌐 JavaScript | 📅 2026-09-06 - Cross-platform Unix shell commands.
+* [execa](https://github.com/sindresorhus/execa) ⭐ 7,603 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-31 - Cross-platform implementation of `child_process.{execFile,exec}`.
+* [node-windows](https://github.com/coreybutler/node-windows) ⭐ 2,936 | 🐛 73 | 🌐 JavaScript | 📅 2024-10-01 - Windows support for Node.js scripts (daemons, eventlog, UAC, etc).
+* [clipboardy](https://github.com/sindresorhus/clipboardy) ⭐ 1,983 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-23 / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) ⭐ 509 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-03 - Cross-platform copy/paste.
+* [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) ⭐ 1,171 | 🐛 31 | 🌐 JavaScript | 📅 2024-11-18 - Cross-platform implementation of `child_process.spawn()`.
+* [log-symbols](https://github.com/sindresorhus/log-symbols) ⭐ 772 | 🐛 1 | 🌐 JavaScript | 📅 2025-05-21 - Colored symbols for various log levels with Windows fallbacks.
+* [figures](https://github.com/sindresorhus/figures) ⭐ 633 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-28 - Unicode symbols with Windows fallbacks.
 * [gulp-execa](https://github.com/ehmicky/gulp-execa) ⭐ 56 | 🐛 0 | 🌐 JavaScript | 📅 2025-11-08 - Cross-platform command execution in Gulp.js.
 
 ### Environment
 
 * [cross-env](https://github.com/kentcdodds/cross-env) ⚠️ Archived - Set environment variables cross-platform.
-* [which](https://github.com/npm/node-which) ⭐ 352 | 🐛 8 | 🌐 JavaScript | 📅 2026-07-02 - Cross-platform implementation of Unix's `which`.
+* [which](https://github.com/npm/node-which) ⭐ 351 | 🐛 8 | 🌐 JavaScript | 📅 2026-07-02 - Cross-platform implementation of Unix's `which`.
 * [user-home](https://github.com/sindresorhus/user-home) ⚠️ Archived - Get the path to the user home directory. Cross-platform.
-* [username](https://github.com/sindresorhus/username) ⭐ 145 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-14 - Get the current username.
+* [username](https://github.com/sindresorhus/username) ⭐ 144 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-14 - Get the current username.
 * [osenv](https://github.com/npm/osenv) ⚠️ Archived - Cross-platform environment variables.
 * [is-elevated](https://github.com/sindresorhus/is-elevated) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2021-08-11 - Check if the process is running with elevated privileges.
 
 ### Filesystem
 
-* [chokidar](https://github.com/paulmillr/chokidar) ⭐ 12,237 | 🐛 47 | 🌐 TypeScript | 📅 2026-08-16 - Improved cross-platform file watching.
-* [fs-extra](https://github.com/jprichardson/node-fs-extra) ⭐ 9,590 | 🐛 14 | 🌐 JavaScript | 📅 2026-07-23 - Combines `graceful-fs` with better JSON file reading and promises.
-* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,850 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 / [del](https://github.com/sindresorhus/del) ⭐ 1,344 | 🐛 16 | 🌐 JavaScript | 📅 2026-07-21 - Delete files and folders. Cross-platform.
-* [graceful-fs](https://github.com/isaacs/node-graceful-fs) ⭐ 1,302 | 🐛 49 | 🌐 JavaScript | 📅 2025-10-25 - Improves the `fs` module, especially on Windows.
-* [make-dir](https://github.com/sindresorhus/make-dir) ⭐ 481 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-10 - Cross-platform `mkdir -p`.
-* [cpy](https://github.com/sindresorhus/cpy) ⭐ 439 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-01 - Copy files. Cross-platform.
-* [readdirp](https://github.com/paulmillr/readdirp) ⭐ 422 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-06 - Recursive version of `fs.readdir()`.
+* [chokidar](https://github.com/paulmillr/chokidar) ⭐ 12,234 | 🐛 47 | 🌐 TypeScript | 📅 2026-08-16 - Improved cross-platform file watching.
+* [fs-extra](https://github.com/jprichardson/node-fs-extra) ⭐ 9,589 | 🐛 12 | 🌐 JavaScript | 📅 2026-07-23 - Combines `graceful-fs` with better JSON file reading and promises.
+* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,849 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 / [del](https://github.com/sindresorhus/del) ⭐ 1,343 | 🐛 16 | 🌐 JavaScript | 📅 2026-07-21 - Delete files and folders. Cross-platform.
+* [graceful-fs](https://github.com/isaacs/node-graceful-fs) ⭐ 1,301 | 🐛 49 | 🌐 JavaScript | 📅 2025-10-25 - Improves the `fs` module, especially on Windows.
+* [make-dir](https://github.com/sindresorhus/make-dir) ⭐ 480 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-10 - Cross-platform `mkdir -p`.
+* [cpy](https://github.com/sindresorhus/cpy) ⭐ 438 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-01 - Copy files. Cross-platform.
+* [readdirp](https://github.com/paulmillr/readdirp) ⭐ 420 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-06 - Recursive version of `fs.readdir()`.
 * [dev-null-cli](https://github.com/sindresorhus/dev-null-cli) ⭐ 93 | 🐛 0 | 🌐 JavaScript | 📅 2021-10-14 - Cross-platform `/dev/null`.
 * [global-cache-dir](https://github.com/ehmicky/global-cache-dir) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-25 - Get the global OS-specific cache directory.
 * [any-path](https://github.com/bcoe/any-path) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2015-12-21 - Use Windows and POSIX paths interchangeably when fetching values from an object.
 
 ### Signals
 
-* [fkill](https://github.com/sindresorhus/fkill) ⭐ 799 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-14 - Kill processes. Cross-platform.
+* [fkill](https://github.com/sindresorhus/fkill) ⭐ 798 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-14 - Kill processes. Cross-platform.
 * [human-signals](https://github.com/ehmicky/human-signals) ⭐ 286 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-25 - Human-friendly process signals.
-* [signal-exit](https://github.com/tapjs/signal-exit) ⭐ 200 | 🐛 11 | 🌐 TypeScript | 📅 2025-10-25 - Cross-platform `exit` handler.
+* [signal-exit](https://github.com/tapjs/signal-exit) ⭐ 199 | 🐛 11 | 🌐 TypeScript | 📅 2025-10-25 - Cross-platform `exit` handler.
 
 ### Processes
 
-* [ps-list](https://github.com/sindresorhus/ps-list) ⭐ 287 | 🐛 4 | 🌐 JavaScript | 📅 2026-02-03 - Get running processes.
+* [ps-list](https://github.com/sindresorhus/ps-list) ⭐ 286 | 🐛 4 | 🌐 JavaScript | 📅 2026-02-03 - Get running processes.
 * [process-exists](https://github.com/sindresorhus/process-exists) ⭐ 62 | 🐛 1 | 🌐 JavaScript | 📅 2021-11-04 - Check if a process exists.
 
 ### Streams
@@ -140,7 +140,7 @@
 ### Desktop UI
 
 * [node-notifier](https://github.com/mikaelbr/node-notifier) ⭐ 5,845 | 🐛 128 | 🌐 JavaScript | 📅 2024-06-24 - Cross-platform desktop notifications.
-* [open](https://github.com/sindresorhus/open) ⭐ 3,504 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-29 - Opens stuff like websites, files, executables. Cross-platform.
+* [open](https://github.com/sindresorhus/open) ⭐ 3,503 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-29 - Opens stuff like websites, files, executables. Cross-platform.
 
 ### Windows registry
 
@@ -196,4 +196,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
