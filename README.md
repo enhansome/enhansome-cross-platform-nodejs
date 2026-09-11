@@ -37,8 +37,8 @@
 ## Resources
 
 * [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) ⚠️ Archived - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
-* [Cross-platform Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) ⭐ 1,421 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-25 - How to write cross-platform Node.js code.
-* [Cross-platform terminal characters](https://github.com/ehmicky/cross-platform-terminal-characters) ⭐ 249 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-25 - All the characters that work on most terminals and most operating systems.
+* [Cross-platform Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) ⭐ 1,422 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-25 - How to write cross-platform Node.js code.
+* [Cross-platform terminal characters](https://github.com/ehmicky/cross-platform-terminal-characters) ⭐ 250 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-25 - All the characters that work on most terminals and most operating systems.
 * [Core Node.js documentation](https://nodejs.org/en/docs/) - Especially the [`os`](https://nodejs.org/api/os.html), [`path`](https://nodejs.org/api/path.html), [`fs`](https://nodejs.org/api/fs.html), [`process`](https://nodejs.org/api/process.html) and [`child_process`](https://nodejs.org/api/child_process.html) modules.
 * [Writing Cross-Platform Node.js](http://shapeshed.com/writing-cross-platform-node/) - Great tutorial covering many common issues that arise when writing cross-platform code: path creation, script execution, newline characters.
 
@@ -46,8 +46,8 @@
 
 ### Development environment
 
-* [nvm](https://github.com/creationix/nvm) ⭐ 95,062 | 🐛 388 | 🌐 Shell | 📅 2026-09-09 / [n](https://github.com/tj/n) ⭐ 19,513 | 🐛 5 | 🌐 Shell | 📅 2026-08-30 - Node version manager for macOS/Linux.
-* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,629 | 🐛 6 | 🌐 Inno Setup | 📅 2026-09-09 - Manage multiple installations of Node.js on a Windows computer.
+* [nvm](https://github.com/creationix/nvm) ⭐ 95,071 | 🐛 386 | 🌐 Shell | 📅 2026-09-11 / [n](https://github.com/tj/n) ⭐ 19,513 | 🐛 6 | 🌐 Shell | 📅 2026-08-30 - Node version manager for macOS/Linux.
+* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,645 | 🐛 7 | 🌐 Inno Setup | 📅 2026-09-11 - Manage multiple installations of Node.js on a Windows computer.
 * [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) ⚠️ Archived - Install C++ Build Tools for Windows using npm.
 * [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) ⚠️ Archived - Upgrade npm on Windows.
 * [Node.js](https://nodejs.org/en/download/) - Node.js installer for various platforms.
@@ -76,13 +76,13 @@
 
 ### Databases
 
-* [Redis](https://github.com/tporadowski/redis) ⭐ 10,256 | 🐛 82 | 🌐 C | 📅 2026-09-06 - Native port of Redis for Windows.
+* [Redis](https://github.com/tporadowski/redis) ⭐ 10,254 | 🐛 82 | 🌐 C | 📅 2026-09-06 - Native port of Redis for Windows.
 
 ## Libraries
 
 ### OS identification
 
-* [systeminformation](https://github.com/sebhildebrandt/systeminformation) ⭐ 3,131 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-08 - Hardware/software system information.
+* [systeminformation](https://github.com/sebhildebrandt/systeminformation) ⭐ 3,133 | 🐛 44 | 🌐 JavaScript | 📅 2026-09-08 - Hardware/software system information.
 * [is-wsl](https://github.com/sindresorhus/is-wsl) ⭐ 198 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-15 - Detect whether current platform is WSL (Windows Subsystem for Linux).
 * [os-name](https://github.com/sindresorhus/os-name) ⭐ 149 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-02 - Get the name of the current operating system.
 * [getos](https://github.com/retrohacker/getos) ⭐ 79 | 🐛 6 | 🌐 JavaScript | 📅 2023-01-06 - Retrieve the current OS, including Linux distribution.
@@ -110,8 +110,8 @@
 
 ### Filesystem
 
-* [chokidar](https://github.com/paulmillr/chokidar) ⭐ 12,235 | 🐛 47 | 🌐 TypeScript | 📅 2026-08-16 - Improved cross-platform file watching.
-* [fs-extra](https://github.com/jprichardson/node-fs-extra) ⭐ 9,589 | 🐛 13 | 🌐 JavaScript | 📅 2026-07-23 - Combines `graceful-fs` with better JSON file reading and promises.
+* [chokidar](https://github.com/paulmillr/chokidar) ⭐ 12,235 | 🐛 48 | 🌐 TypeScript | 📅 2026-08-16 - Improved cross-platform file watching.
+* [fs-extra](https://github.com/jprichardson/node-fs-extra) ⭐ 9,590 | 🐛 13 | 🌐 JavaScript | 📅 2026-07-23 - Combines `graceful-fs` with better JSON file reading and promises.
 * [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,848 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 / [del](https://github.com/sindresorhus/del) ⭐ 1,343 | 🐛 16 | 🌐 JavaScript | 📅 2026-07-21 - Delete files and folders. Cross-platform.
 * [graceful-fs](https://github.com/isaacs/node-graceful-fs) ⭐ 1,301 | 🐛 49 | 🌐 JavaScript | 📅 2025-10-25 - Improves the `fs` module, especially on Windows.
 * [make-dir](https://github.com/sindresorhus/make-dir) ⭐ 480 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-10 - Cross-platform `mkdir -p`.
@@ -139,8 +139,8 @@
 
 ### Desktop UI
 
-* [node-notifier](https://github.com/mikaelbr/node-notifier) ⭐ 5,844 | 🐛 128 | 🌐 JavaScript | 📅 2024-06-24 - Cross-platform desktop notifications.
-* [open](https://github.com/sindresorhus/open) ⭐ 3,503 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-29 - Opens stuff like websites, files, executables. Cross-platform.
+* [node-notifier](https://github.com/mikaelbr/node-notifier) ⭐ 5,843 | 🐛 128 | 🌐 JavaScript | 📅 2024-06-24 - Cross-platform desktop notifications.
+* [open](https://github.com/sindresorhus/open) ⭐ 3,503 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-11 - Opens stuff like websites, files, executables. Cross-platform.
 
 ### Windows registry
 
@@ -188,7 +188,7 @@ Thanks go to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,099 | 🐛 92 | 🌐 MDX | 📅 2026-09-10 specification.
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,100 | 🐛 92 | 🌐 MDX | 📅 2026-09-10 specification.
 
 ## License
 
@@ -196,4 +196,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
