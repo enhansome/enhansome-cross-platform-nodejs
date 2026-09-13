@@ -132,7 +132,7 @@
                 "open_issues": 389,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95073,
+                "stars": 95077,
                 "topics": [
                   "bash",
                   "install",
@@ -163,11 +163,11 @@
                 "id": 24268127,
                 "language": "Inno Setup",
                 "license": null,
-                "last_commit": "2026-09-11T16:46:33Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-13T05:05:23Z",
+                "open_issues": 9,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47649,
+                "stars": 47660,
                 "topics": [
                   "install",
                   "node",
@@ -287,7 +287,7 @@
                 "open_issues": 82,
                 "owner": "tporadowski",
                 "repo": "redis",
-                "stars": 10256,
+                "stars": 10257,
                 "topics": [
                   "redis",
                   "redis-for-windows",
@@ -452,11 +452,11 @@
                 "id": 3604157,
                 "language": "JavaScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-06T08:29:52Z",
+                "last_commit": "2026-09-13T07:11:34Z",
                 "open_issues": 108,
                 "owner": "shelljs",
                 "repo": "shelljs",
-                "stars": 14397,
+                "stars": 14396,
                 "topics": [
                   "bash",
                   "javascript",
@@ -1342,7 +1342,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "open",
-                "stars": 3502,
+                "stars": 3503,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1450,7 +1450,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34281,
+            "stars": 34282,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1471,7 +1471,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34281,
+            "stars": 34282,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:08:44.318Z",
+    "last_updated": "2026-09-13T17:24:32.910Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
