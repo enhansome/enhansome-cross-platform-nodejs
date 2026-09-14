@@ -123,7 +123,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+                "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
                 "homepage": null,
                 "id": 612230,
                 "language": "Shell",
@@ -132,7 +132,7 @@
                 "open_issues": 389,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95077,
+                "stars": 95081,
                 "topics": [
                   "bash",
                   "install",
@@ -167,7 +167,7 @@
                 "open_issues": 9,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47660,
+                "stars": 47673,
                 "topics": [
                   "install",
                   "node",
@@ -287,7 +287,7 @@
                 "open_issues": 82,
                 "owner": "tporadowski",
                 "repo": "redis",
-                "stars": 10257,
+                "stars": 10258,
                 "topics": [
                   "redis",
                   "redis-for-windows",
@@ -836,7 +836,7 @@
                 "open_issues": 48,
                 "owner": "paulmillr",
                 "repo": "chokidar",
-                "stars": 12234,
+                "stars": 12235,
                 "topics": [
                   "chokidar",
                   "filesystem",
@@ -1312,7 +1312,7 @@
                 "open_issues": 128,
                 "owner": "mikaelbr",
                 "repo": "node-notifier",
-                "stars": 5842,
+                "stars": 5841,
                 "topics": [
                   "growl",
                   "hacktoberfest",
@@ -1339,10 +1339,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-11T10:47:53Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "open",
-                "stars": 3503,
+                "stars": 3505,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1450,7 +1450,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34282,
+            "stars": 34281,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1471,7 +1471,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34282,
+            "stars": 34281,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T17:24:32.910Z",
+    "last_updated": "2026-09-14T19:21:13.153Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
