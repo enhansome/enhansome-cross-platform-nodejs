@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "microsoft",
             "repo": "nodejs-guidelines",
-            "stars": 2494,
+            "stars": 2493,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -132,7 +132,7 @@
                 "open_issues": 389,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95081,
+                "stars": 95084,
                 "topics": [
                   "bash",
                   "install",
@@ -163,11 +163,11 @@
                 "id": 24268127,
                 "language": "Inno Setup",
                 "license": null,
-                "last_commit": "2026-09-13T05:05:23Z",
+                "last_commit": "2026-09-15T17:26:13Z",
                 "open_issues": 9,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47673,
+                "stars": 47686,
                 "topics": [
                   "install",
                   "node",
@@ -283,11 +283,11 @@
                 "id": 108110706,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-06T10:57:12Z",
+                "last_commit": "2026-09-14T21:44:44Z",
                 "open_issues": 82,
                 "owner": "tporadowski",
                 "repo": "redis",
-                "stars": 10258,
+                "stars": 10259,
                 "topics": [
                   "redis",
                   "redis-for-windows",
@@ -329,7 +329,7 @@
                 "open_issues": 44,
                 "owner": "sebhildebrandt",
                 "repo": "systeminformation",
-                "stars": 3133,
+                "stars": 3134,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -722,7 +722,7 @@
                 "open_issues": 8,
                 "owner": "npm",
                 "repo": "node-which",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "npm-cli"
                 ]
@@ -836,7 +836,7 @@
                 "open_issues": 48,
                 "owner": "paulmillr",
                 "repo": "chokidar",
-                "stars": 12235,
+                "stars": 12238,
                 "topics": [
                   "chokidar",
                   "filesystem",
@@ -1106,7 +1106,7 @@
                 "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "fkill",
-                "stars": 798,
+                "stars": 797,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1338,11 +1338,11 @@
                 "id": 18469325,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T10:47:53Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-14T20:34:25Z",
+                "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "open",
-                "stars": 3505,
+                "stars": 3504,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1450,7 +1450,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34281,
+            "stars": 34280,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1471,7 +1471,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34281,
+            "stars": 34280,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:21:13.153Z",
+    "last_updated": "2026-09-15T18:11:32.006Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
