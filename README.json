@@ -132,7 +132,7 @@
                 "open_issues": 390,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95102,
+                "stars": 95119,
                 "topics": [
                   "bash",
                   "install",
@@ -167,7 +167,7 @@
                 "open_issues": 4,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47711,
+                "stars": 47719,
                 "topics": [
                   "install",
                   "node",
@@ -246,7 +246,7 @@
             {
               "node_type": "item",
               "title": "ievms",
-              "description": "Automated installer for the free virtual machine images that Microsoft provides for testing on multiple versions of IE. These images can be useful for cross-platform testing various technologies, however make sure you read and understand Microsofts' licensing.",
+              "description": "Automated installer for the free virtual machine images that Microsoft provides for testing on multiple versions of IE. These images can be useful for cross-platform testing various technologies, however make sure you read and understand Microsoft's licensing.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -287,7 +287,7 @@
                 "open_issues": 82,
                 "owner": "tporadowski",
                 "repo": "redis",
-                "stars": 10264,
+                "stars": 10267,
                 "topics": [
                   "redis",
                   "redis-for-windows",
@@ -325,11 +325,11 @@
                 "id": 17677611,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T17:54:33Z",
-                "open_issues": 37,
+                "last_commit": "2026-09-18T17:07:44Z",
+                "open_issues": 30,
                 "owner": "sebhildebrandt",
                 "repo": "systeminformation",
-                "stars": 3133,
+                "stars": 3135,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -350,7 +350,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "is-wsl",
-                "stars": 198,
+                "stars": 199,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -485,7 +485,7 @@
                 "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "execa",
-                "stars": 7604,
+                "stars": 7605,
                 "topics": [
                   "binary",
                   "child-process",
@@ -544,7 +544,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "clipboardy",
-                "stars": 1983,
+                "stars": 1984,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -860,7 +860,7 @@
                 "id": 2791348,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T17:56:04Z",
+                "last_commit": "2026-09-17T18:47:46Z",
                 "open_issues": 12,
                 "owner": "jprichardson",
                 "repo": "node-fs-extra",
@@ -893,7 +893,7 @@
                 "open_issues": 10,
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5848,
+                "stars": 5849,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1342,7 +1342,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "open",
-                "stars": 3504,
+                "stars": 3505,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1450,7 +1450,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34278,
+            "stars": 34274,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1471,7 +1471,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34278,
+            "stars": 34274,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T18:12:46.971Z",
+    "last_updated": "2026-09-18T17:40:38.443Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
@@ -1510,7 +1510,7 @@
       "id": 48332249,
       "language": null,
       "license": "CC-BY-SA-4.0",
-      "last_commit": "2023-02-07T20:03:47Z",
+      "last_commit": "2026-09-18T15:05:07Z",
       "open_issues": 1,
       "owner": "bcoe",
       "repo": "awesome-cross-platform-nodejs",
@@ -1520,7 +1520,7 @@
         "awesome-list"
       ]
     },
-    "original_repository_sha": "d54a9f1769768752bb239e5f376aa01a5114d120",
+    "original_repository_sha": "231a6aca87a5ed6884ed9bdd169e0ee20b6dc8fe",
     "enhanced_repository": "enhansome/enhansome-cross-platform-nodejs",
     "enhanced_repository_description": null,
     "title": "Awesome cross platform nodejs with stars"
