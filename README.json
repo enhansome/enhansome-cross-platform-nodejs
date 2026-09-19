@@ -129,10 +129,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-11T04:00:38Z",
-                "open_issues": 390,
+                "open_issues": 391,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95119,
+                "stars": 95130,
                 "topics": [
                   "bash",
                   "install",
@@ -164,10 +164,10 @@
                 "language": "Inno Setup",
                 "license": null,
                 "last_commit": "2026-09-16T02:11:47Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47719,
+                "stars": 47725,
                 "topics": [
                   "install",
                   "node",
@@ -287,7 +287,7 @@
                 "open_issues": 82,
                 "owner": "tporadowski",
                 "repo": "redis",
-                "stars": 10267,
+                "stars": 10265,
                 "topics": [
                   "redis",
                   "redis-for-windows",
@@ -329,7 +329,7 @@
                 "open_issues": 30,
                 "owner": "sebhildebrandt",
                 "repo": "systeminformation",
-                "stars": 3135,
+                "stars": 3136,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -346,7 +346,7 @@
                 "id": 88415331,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-02-15T08:45:05Z",
+                "last_commit": "2026-09-18T19:10:06Z",
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "is-wsl",
@@ -367,7 +367,7 @@
                 "id": 20604616,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-02-02T15:03:15Z",
+                "last_commit": "2026-09-18T21:40:49Z",
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "os-name",
@@ -453,7 +453,7 @@
                 "language": "JavaScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-13T07:11:34Z",
-                "open_issues": 108,
+                "open_issues": 110,
                 "owner": "shelljs",
                 "repo": "shelljs",
                 "stars": 14395,
@@ -485,7 +485,7 @@
                 "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "execa",
-                "stars": 7605,
+                "stars": 7607,
                 "topics": [
                   "binary",
                   "child-process",
@@ -544,7 +544,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "clipboardy",
-                "stars": 1984,
+                "stars": 1983,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -590,7 +590,7 @@
                 "id": 21673868,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2025-05-21T13:47:41Z",
+                "last_commit": "2026-09-18T19:10:36Z",
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "log-symbols",
@@ -611,7 +611,7 @@
                 "id": 21672939,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2024-10-28T05:10:30Z",
+                "last_commit": "2026-09-18T19:19:25Z",
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "figures",
@@ -861,10 +861,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-17T18:47:46Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "jprichardson",
                 "repo": "node-fs-extra",
-                "stars": 9588,
+                "stars": 9587,
                 "topics": [
                   "copy",
                   "delete",
@@ -931,7 +931,7 @@
                 "id": 90776169,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2025-09-10T18:24:39Z",
+                "last_commit": "2026-09-18T19:10:54Z",
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "make-dir",
@@ -1106,7 +1106,7 @@
                 "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "fkill",
-                "stars": 797,
+                "stars": 798,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1193,7 +1193,7 @@
                 "id": 36581913,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-02-03T07:53:30Z",
+                "last_commit": "2026-09-18T19:14:07Z",
                 "open_issues": 4,
                 "owner": "sindresorhus",
                 "repo": "ps-list",
@@ -1450,7 +1450,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34274,
+            "stars": 34272,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1471,7 +1471,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34274,
+            "stars": 34272,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:40:38.443Z",
+    "last_updated": "2026-09-19T17:16:42.579Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
