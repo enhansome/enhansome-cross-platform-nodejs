@@ -132,7 +132,7 @@
                 "open_issues": 391,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95130,
+                "stars": 95141,
                 "topics": [
                   "bash",
                   "install",
@@ -167,7 +167,7 @@
                 "open_issues": 5,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47725,
+                "stars": 47733,
                 "topics": [
                   "install",
                   "node",
@@ -325,8 +325,8 @@
                 "id": 17677611,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T17:07:44Z",
-                "open_issues": 30,
+                "last_commit": "2026-09-20T08:26:10Z",
+                "open_issues": 25,
                 "owner": "sebhildebrandt",
                 "repo": "systeminformation",
                 "stars": 3136,
@@ -485,7 +485,7 @@
                 "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "execa",
-                "stars": 7607,
+                "stars": 7608,
                 "topics": [
                   "binary",
                   "child-process",
@@ -517,7 +517,7 @@
                 "open_issues": 73,
                 "owner": "coreybutler",
                 "repo": "node-windows",
-                "stars": 2935,
+                "stars": 2934,
                 "topics": [
                   "background",
                   "daemon",
@@ -562,7 +562,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2024-11-18T14:20:54Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "moxystudio",
                 "repo": "node-cross-spawn",
                 "stars": 1171,
@@ -719,7 +719,7 @@
                 "language": "JavaScript",
                 "license": "ISC",
                 "last_commit": "2026-07-02T03:32:40Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "npm",
                 "repo": "node-which",
                 "stars": 352,
@@ -836,7 +836,7 @@
                 "open_issues": 48,
                 "owner": "paulmillr",
                 "repo": "chokidar",
-                "stars": 12241,
+                "stars": 12242,
                 "topics": [
                   "chokidar",
                   "filesystem",
@@ -864,7 +864,7 @@
                 "open_issues": 13,
                 "owner": "jprichardson",
                 "repo": "node-fs-extra",
-                "stars": 9587,
+                "stars": 9588,
                 "topics": [
                   "copy",
                   "delete",
@@ -1194,7 +1194,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-18T19:14:07Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "sindresorhus",
                 "repo": "ps-list",
                 "stars": 286,
@@ -1342,7 +1342,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "open",
-                "stars": 3505,
+                "stars": 3508,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T17:16:42.579Z",
+    "last_updated": "2026-09-20T17:28:06.481Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
