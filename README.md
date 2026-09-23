@@ -46,8 +46,8 @@
 
 ### Development environment
 
-* [nvm](https://github.com/creationix/nvm) ⭐ 95,165 | 🐛 390 | 🌐 Shell | 📅 2026-09-21 / [n](https://github.com/tj/n) ⭐ 19,512 | 🐛 5 | 🌐 Shell | 📅 2026-08-30 - Node version manager for macOS/Linux.
-* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,758 | 🐛 6 | 🌐 Inno Setup | 📅 2026-09-22 - Manage multiple installations of Node.js on a Windows computer.
+* [nvm](https://github.com/creationix/nvm) ⭐ 95,169 | 🐛 391 | 🌐 Shell | 📅 2026-09-21 / [n](https://github.com/tj/n) ⭐ 19,513 | 🐛 5 | 🌐 Shell | 📅 2026-08-30 - Node version manager for macOS/Linux.
+* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,765 | 🐛 2 | 🌐 Inno Setup | 📅 2026-09-22 - Manage multiple installations of Node.js on a Windows computer.
 * [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) ⚠️ Archived - Install C++ Build Tools for Windows using npm.
 * [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) ⚠️ Archived - Upgrade npm on Windows.
 * [Node.js](https://nodejs.org/en/download/) - Node.js installer for various platforms.
@@ -62,7 +62,7 @@
 
 ### Virtualization
 
-* [ievms](https://github.com/amichaelparker/ievms) ⭐ 68 | 🐛 0 | 🌐 Shell | 📅 2018-08-16 - Automated installer for the free virtual machine images that Microsoft provides for testing on multiple versions of IE. These images can be useful for cross-platform testing various technologies, however make sure you read and understand Microsoft's licensing.
+* [ievms](https://github.com/amichaelparker/ievms) ⭐ 67 | 🐛 0 | 🌐 Shell | 📅 2018-08-16 - Automated installer for the free virtual machine images that Microsoft provides for testing on multiple versions of IE. These images can be useful for cross-platform testing various technologies, however make sure you read and understand Microsoft's licensing.
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - General purpose software for running x86 virtual machines.
 * [Docker](https://www.docker.com/) - Software platform to create, deploy and manage virtualized application containers on a common operating system, with an ecosystem of allied tools.
 
@@ -76,13 +76,13 @@
 
 ### Databases
 
-* [Redis](https://github.com/tporadowski/redis) ⭐ 10,268 | 🐛 82 | 🌐 C | 📅 2026-09-14 - Native port of Redis for Windows.
+* [Redis](https://github.com/tporadowski/redis) ⭐ 10,270 | 🐛 82 | 🌐 C | 📅 2026-09-14 - Native port of Redis for Windows.
 
 ## Libraries
 
 ### OS identification
 
-* [systeminformation](https://github.com/sebhildebrandt/systeminformation) ⭐ 3,136 | 🐛 26 | 🌐 JavaScript | 📅 2026-09-20 - Hardware/software system information.
+* [systeminformation](https://github.com/sebhildebrandt/systeminformation) ⭐ 3,136 | 🐛 25 | 🌐 JavaScript | 📅 2026-09-22 - Hardware/software system information.
 * [is-wsl](https://github.com/sindresorhus/is-wsl) ⭐ 199 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Detect whether current platform is WSL (Windows Subsystem for Linux).
 * [os-name](https://github.com/sindresorhus/os-name) ⭐ 149 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Get the name of the current operating system.
 * [getos](https://github.com/retrohacker/getos) ⭐ 79 | 🐛 6 | 🌐 JavaScript | 📅 2023-01-06 - Retrieve the current OS, including Linux distribution.
@@ -91,8 +91,8 @@
 ### Shell
 
 * [shelljs](https://github.com/shelljs/shelljs) ⭐ 14,395 | 🐛 110 | 🌐 JavaScript | 📅 2026-09-13 - Cross-platform Unix shell commands.
-* [execa](https://github.com/sindresorhus/execa) ⭐ 7,609 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-31 - Cross-platform implementation of `child_process.{execFile,exec}`.
-* [node-windows](https://github.com/coreybutler/node-windows) ⭐ 2,935 | 🐛 73 | 🌐 JavaScript | 📅 2024-10-01 - Windows support for Node.js scripts (daemons, eventlog, UAC, etc).
+* [execa](https://github.com/sindresorhus/execa) ⭐ 7,608 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-31 - Cross-platform implementation of `child_process.{execFile,exec}`.
+* [node-windows](https://github.com/coreybutler/node-windows) ⭐ 2,936 | 🐛 73 | 🌐 JavaScript | 📅 2024-10-01 - Windows support for Node.js scripts (daemons, eventlog, UAC, etc).
 * [clipboardy](https://github.com/sindresorhus/clipboardy) ⭐ 1,983 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-23 / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) ⭐ 509 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-03 - Cross-platform copy/paste.
 * [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) ⭐ 1,171 | 🐛 31 | 🌐 JavaScript | 📅 2024-11-18 - Cross-platform implementation of `child_process.spawn()`.
 * [log-symbols](https://github.com/sindresorhus/log-symbols) ⭐ 770 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-18 - Colored symbols for various log levels with Windows fallbacks.
@@ -102,7 +102,7 @@
 ### Environment
 
 * [cross-env](https://github.com/kentcdodds/cross-env) ⚠️ Archived - Set environment variables cross-platform.
-* [which](https://github.com/npm/node-which) ⭐ 352 | 🐛 10 | 🌐 JavaScript | 📅 2026-07-02 - Cross-platform implementation of Unix's `which`.
+* [which](https://github.com/npm/node-which) ⭐ 352 | 🐛 8 | 🌐 JavaScript | 📅 2026-07-02 - Cross-platform implementation of Unix's `which`.
 * [user-home](https://github.com/sindresorhus/user-home) ⚠️ Archived - Get the path to the user home directory. Cross-platform.
 * [username](https://github.com/sindresorhus/username) ⭐ 144 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-14 - Get the current username.
 * [osenv](https://github.com/npm/osenv) ⚠️ Archived - Cross-platform environment variables.
@@ -110,9 +110,9 @@
 
 ### Filesystem
 
-* [chokidar](https://github.com/paulmillr/chokidar) ⭐ 12,243 | 🐛 48 | 🌐 TypeScript | 📅 2026-08-16 - Improved cross-platform file watching.
+* [chokidar](https://github.com/paulmillr/chokidar) ⭐ 12,242 | 🐛 48 | 🌐 TypeScript | 📅 2026-08-16 - Improved cross-platform file watching.
 * [fs-extra](https://github.com/jprichardson/node-fs-extra) ⭐ 9,589 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-22 - Combines `graceful-fs` with better JSON file reading and promises.
-* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,850 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 / [del](https://github.com/sindresorhus/del) ⭐ 1,343 | 🐛 16 | 🌐 JavaScript | 📅 2026-07-21 - Delete files and folders. Cross-platform.
+* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,851 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 / [del](https://github.com/sindresorhus/del) ⭐ 1,343 | 🐛 16 | 🌐 JavaScript | 📅 2026-07-21 - Delete files and folders. Cross-platform.
 * [graceful-fs](https://github.com/isaacs/node-graceful-fs) ⭐ 1,301 | 🐛 49 | 🌐 JavaScript | 📅 2025-10-25 - Improves the `fs` module, especially on Windows.
 * [make-dir](https://github.com/sindresorhus/make-dir) ⭐ 480 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Cross-platform `mkdir -p`.
 * [cpy](https://github.com/sindresorhus/cpy) ⭐ 438 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-01 - Copy files. Cross-platform.
@@ -140,7 +140,7 @@
 ### Desktop UI
 
 * [node-notifier](https://github.com/mikaelbr/node-notifier) ⭐ 5,841 | 🐛 129 | 🌐 JavaScript | 📅 2024-06-24 - Cross-platform desktop notifications.
-* [open](https://github.com/sindresorhus/open) ⭐ 3,510 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-14 - Opens stuff like websites, files, executables. Cross-platform.
+* [open](https://github.com/sindresorhus/open) ⭐ 3,511 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-14 - Opens stuff like websites, files, executables. Cross-platform.
 
 ### Windows registry
 
@@ -196,4 +196,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
