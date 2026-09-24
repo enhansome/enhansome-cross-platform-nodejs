@@ -46,8 +46,8 @@
 
 ### Development environment
 
-* [nvm](https://github.com/creationix/nvm) ⭐ 95,169 | 🐛 391 | 🌐 Shell | 📅 2026-09-21 / [n](https://github.com/tj/n) ⭐ 19,513 | 🐛 5 | 🌐 Shell | 📅 2026-08-30 - Node version manager for macOS/Linux.
-* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,765 | 🐛 2 | 🌐 Inno Setup | 📅 2026-09-22 - Manage multiple installations of Node.js on a Windows computer.
+* [nvm](https://github.com/creationix/nvm) ⭐ 95,175 | 🐛 391 | 🌐 Shell | 📅 2026-09-21 / [n](https://github.com/tj/n) ⭐ 19,513 | 🐛 5 | 🌐 Shell | 📅 2026-08-30 - Node version manager for macOS/Linux.
+* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,779 | 🐛 3 | 🌐 Inno Setup | 📅 2026-09-24 - Manage multiple installations of Node.js on a Windows computer.
 * [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) ⚠️ Archived - Install C++ Build Tools for Windows using npm.
 * [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) ⚠️ Archived - Upgrade npm on Windows.
 * [Node.js](https://nodejs.org/en/download/) - Node.js installer for various platforms.
@@ -76,13 +76,13 @@
 
 ### Databases
 
-* [Redis](https://github.com/tporadowski/redis) ⭐ 10,270 | 🐛 82 | 🌐 C | 📅 2026-09-14 - Native port of Redis for Windows.
+* [Redis](https://github.com/tporadowski/redis) ⭐ 10,269 | 🐛 82 | 🌐 C | 📅 2026-09-14 - Native port of Redis for Windows.
 
 ## Libraries
 
 ### OS identification
 
-* [systeminformation](https://github.com/sebhildebrandt/systeminformation) ⭐ 3,136 | 🐛 25 | 🌐 JavaScript | 📅 2026-09-22 - Hardware/software system information.
+* [systeminformation](https://github.com/sebhildebrandt/systeminformation) ⭐ 3,137 | 🐛 25 | 🌐 JavaScript | 📅 2026-09-22 - Hardware/software system information.
 * [is-wsl](https://github.com/sindresorhus/is-wsl) ⭐ 199 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Detect whether current platform is WSL (Windows Subsystem for Linux).
 * [os-name](https://github.com/sindresorhus/os-name) ⭐ 149 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Get the name of the current operating system.
 * [getos](https://github.com/retrohacker/getos) ⭐ 79 | 🐛 6 | 🌐 JavaScript | 📅 2023-01-06 - Retrieve the current OS, including Linux distribution.
@@ -110,9 +110,9 @@
 
 ### Filesystem
 
-* [chokidar](https://github.com/paulmillr/chokidar) ⭐ 12,242 | 🐛 48 | 🌐 TypeScript | 📅 2026-08-16 - Improved cross-platform file watching.
-* [fs-extra](https://github.com/jprichardson/node-fs-extra) ⭐ 9,589 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-22 - Combines `graceful-fs` with better JSON file reading and promises.
-* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,851 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 / [del](https://github.com/sindresorhus/del) ⭐ 1,343 | 🐛 16 | 🌐 JavaScript | 📅 2026-07-21 - Delete files and folders. Cross-platform.
+* [chokidar](https://github.com/paulmillr/chokidar) ⭐ 12,243 | 🐛 48 | 🌐 TypeScript | 📅 2026-08-16 - Improved cross-platform file watching.
+* [fs-extra](https://github.com/jprichardson/node-fs-extra) ⭐ 9,589 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-22 - Combines `graceful-fs` with better JSON file reading and promises.
+* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,852 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 / [del](https://github.com/sindresorhus/del) ⭐ 1,343 | 🐛 16 | 🌐 JavaScript | 📅 2026-07-21 - Delete files and folders. Cross-platform.
 * [graceful-fs](https://github.com/isaacs/node-graceful-fs) ⭐ 1,301 | 🐛 49 | 🌐 JavaScript | 📅 2025-10-25 - Improves the `fs` module, especially on Windows.
 * [make-dir](https://github.com/sindresorhus/make-dir) ⭐ 480 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Cross-platform `mkdir -p`.
 * [cpy](https://github.com/sindresorhus/cpy) ⭐ 438 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-01 - Copy files. Cross-platform.
@@ -140,7 +140,7 @@
 ### Desktop UI
 
 * [node-notifier](https://github.com/mikaelbr/node-notifier) ⭐ 5,841 | 🐛 129 | 🌐 JavaScript | 📅 2024-06-24 - Cross-platform desktop notifications.
-* [open](https://github.com/sindresorhus/open) ⭐ 3,511 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-14 - Opens stuff like websites, files, executables. Cross-platform.
+* [open](https://github.com/sindresorhus/open) ⭐ 3,514 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-14 - Opens stuff like websites, files, executables. Cross-platform.
 
 ### Windows registry
 
@@ -188,7 +188,7 @@ Thanks go to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,102 | 🐛 91 | 🌐 MDX | 📅 2026-09-16 specification.
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,103 | 🐛 90 | 🌐 MDX | 📅 2026-09-24 specification.
 
 ## License
 
@@ -196,4 +196,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
