@@ -129,10 +129,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-21T02:24:04Z",
-                "open_issues": 391,
+                "open_issues": 392,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95175,
+                "stars": 95177,
                 "topics": [
                   "bash",
                   "install",
@@ -167,7 +167,7 @@
                 "open_issues": 3,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47779,
+                "stars": 47787,
                 "topics": [
                   "install",
                   "node",
@@ -485,7 +485,7 @@
                 "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "execa",
-                "stars": 7608,
+                "stars": 7607,
                 "topics": [
                   "binary",
                   "child-process",
@@ -565,7 +565,7 @@
                 "open_issues": 31,
                 "owner": "moxystudio",
                 "repo": "node-cross-spawn",
-                "stars": 1171,
+                "stars": 1172,
                 "topics": [
                   "cmd",
                   "cross-platform",
@@ -836,7 +836,7 @@
                 "open_issues": 48,
                 "owner": "paulmillr",
                 "repo": "chokidar",
-                "stars": 12243,
+                "stars": 12244,
                 "topics": [
                   "chokidar",
                   "filesystem",
@@ -864,7 +864,7 @@
                 "open_issues": 12,
                 "owner": "jprichardson",
                 "repo": "node-fs-extra",
-                "stars": 9589,
+                "stars": 9590,
                 "topics": [
                   "copy",
                   "delete",
@@ -1342,7 +1342,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "open",
-                "stars": 3514,
+                "stars": 3513,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1450,7 +1450,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34271,
+            "stars": 34269,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1471,7 +1471,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34271,
+            "stars": 34269,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T18:24:57.290Z",
+    "last_updated": "2026-09-25T18:35:48.070Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
