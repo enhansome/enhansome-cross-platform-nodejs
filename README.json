@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "ehmicky",
             "repo": "cross-platform-node-guide",
-            "stars": 1423,
+            "stars": 1424,
             "topics": [
               "api",
               "cli",
@@ -129,10 +129,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-21T02:24:04Z",
-                "open_issues": 392,
+                "open_issues": 391,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95186,
+                "stars": 95200,
                 "topics": [
                   "bash",
                   "install",
@@ -163,11 +163,11 @@
                 "id": 24268127,
                 "language": "Inno Setup",
                 "license": null,
-                "last_commit": "2026-09-25T20:46:48Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-27T18:20:19Z",
+                "open_issues": 3,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47795,
+                "stars": 47806,
                 "topics": [
                   "install",
                   "node",
@@ -287,7 +287,7 @@
                 "open_issues": 82,
                 "owner": "tporadowski",
                 "repo": "redis",
-                "stars": 10269,
+                "stars": 10270,
                 "topics": [
                   "redis",
                   "redis-for-windows",
@@ -833,10 +833,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-16T15:34:26Z",
-                "open_issues": 48,
+                "open_issues": 49,
                 "owner": "paulmillr",
                 "repo": "chokidar",
-                "stars": 12243,
+                "stars": 12244,
                 "topics": [
                   "chokidar",
                   "filesystem",
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T17:45:47.006Z",
+    "last_updated": "2026-09-27T18:22:58.783Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
