@@ -128,11 +128,11 @@
                 "id": 612230,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-09-28T06:07:26Z",
-                "open_issues": 388,
+                "last_commit": "2026-09-30T05:24:25Z",
+                "open_issues": 385,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95216,
+                "stars": 95223,
                 "topics": [
                   "bash",
                   "install",
@@ -163,11 +163,11 @@
                 "id": 24268127,
                 "language": "Inno Setup",
                 "license": null,
-                "last_commit": "2026-09-27T19:25:37Z",
+                "last_commit": "2026-09-29T20:15:11Z",
                 "open_issues": 4,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47825,
+                "stars": 47830,
                 "topics": [
                   "install",
                   "node",
@@ -325,7 +325,7 @@
                 "id": 17677611,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-28T15:29:06Z",
+                "last_commit": "2026-09-30T16:43:52Z",
                 "open_issues": 25,
                 "owner": "sebhildebrandt",
                 "repo": "systeminformation",
@@ -485,7 +485,7 @@
                 "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "execa",
-                "stars": 7609,
+                "stars": 7610,
                 "topics": [
                   "binary",
                   "child-process",
@@ -861,7 +861,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-22T16:18:34Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "jprichardson",
                 "repo": "node-fs-extra",
                 "stars": 9590,
@@ -1169,7 +1169,7 @@
                 "open_issues": 11,
                 "owner": "tapjs",
                 "repo": "signal-exit",
-                "stars": 199,
+                "stars": 200,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1312,7 +1312,7 @@
                 "open_issues": 129,
                 "owner": "mikaelbr",
                 "repo": "node-notifier",
-                "stars": 5844,
+                "stars": 5845,
                 "topics": [
                   "growl",
                   "hacktoberfest",
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T19:25:15.694Z",
+    "last_updated": "2026-09-30T19:18:34.010Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
