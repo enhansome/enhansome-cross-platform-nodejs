@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "ehmicky",
             "repo": "cross-platform-node-guide",
-            "stars": 1425,
+            "stars": 1426,
             "topics": [
               "api",
               "cli",
@@ -129,10 +129,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-30T05:24:25Z",
-                "open_issues": 385,
+                "open_issues": 386,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95223,
+                "stars": 95231,
                 "topics": [
                   "bash",
                   "install",
@@ -167,7 +167,7 @@
                 "open_issues": 4,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47830,
+                "stars": 47832,
                 "topics": [
                   "install",
                   "node",
@@ -196,7 +196,7 @@
                 "open_issues": 86,
                 "owner": "felixrieseberg",
                 "repo": "windows-build-tools",
-                "stars": 3408,
+                "stars": 3409,
                 "topics": [
                   "build-tool",
                   "microsoft",
@@ -456,7 +456,7 @@
                 "open_issues": 111,
                 "owner": "shelljs",
                 "repo": "shelljs",
-                "stars": 14394,
+                "stars": 14393,
                 "topics": [
                   "bash",
                   "javascript",
@@ -482,7 +482,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-07-31T02:10:22Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "sindresorhus",
                 "repo": "execa",
                 "stars": 7610,
@@ -836,7 +836,7 @@
                 "open_issues": 50,
                 "owner": "paulmillr",
                 "repo": "chokidar",
-                "stars": 12244,
+                "stars": 12243,
                 "topics": [
                   "chokidar",
                   "filesystem",
@@ -1450,7 +1450,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34268,
+            "stars": 34267,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1471,7 +1471,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34268,
+            "stars": 34267,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T19:18:34.010Z",
+    "last_updated": "2026-10-01T19:31:21.005Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
