@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "ehmicky",
             "repo": "cross-platform-node-guide",
-            "stars": 1426,
+            "stars": 1425,
             "topics": [
               "api",
               "cli",
@@ -129,10 +129,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-30T05:24:25Z",
-                "open_issues": 386,
+                "open_issues": 387,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95231,
+                "stars": 95243,
                 "topics": [
                   "bash",
                   "install",
@@ -163,11 +163,11 @@
                 "id": 24268127,
                 "language": "Inno Setup",
                 "license": null,
-                "last_commit": "2026-09-29T20:15:11Z",
+                "last_commit": "2026-10-02T18:03:48Z",
                 "open_issues": 4,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47832,
+                "stars": 47836,
                 "topics": [
                   "install",
                   "node",
@@ -196,7 +196,7 @@
                 "open_issues": 86,
                 "owner": "felixrieseberg",
                 "repo": "windows-build-tools",
-                "stars": 3409,
+                "stars": 3407,
                 "topics": [
                   "build-tool",
                   "microsoft",
@@ -226,7 +226,7 @@
                 "open_issues": 48,
                 "owner": "felixrieseberg",
                 "repo": "npm-windows-upgrade",
-                "stars": 2501,
+                "stars": 2498,
                 "topics": [
                   "microsoft",
                   "nodejs",
@@ -287,7 +287,7 @@
                 "open_issues": 82,
                 "owner": "tporadowski",
                 "repo": "redis",
-                "stars": 10271,
+                "stars": 10270,
                 "topics": [
                   "redis",
                   "redis-for-windows",
@@ -456,7 +456,7 @@
                 "open_issues": 111,
                 "owner": "shelljs",
                 "repo": "shelljs",
-                "stars": 14393,
+                "stars": 14392,
                 "topics": [
                   "bash",
                   "javascript",
@@ -485,7 +485,7 @@
                 "open_issues": 3,
                 "owner": "sindresorhus",
                 "repo": "execa",
-                "stars": 7610,
+                "stars": 7609,
                 "topics": [
                   "binary",
                   "child-process",
@@ -517,7 +517,7 @@
                 "open_issues": 73,
                 "owner": "coreybutler",
                 "repo": "node-windows",
-                "stars": 2937,
+                "stars": 2936,
                 "topics": [
                   "background",
                   "daemon",
@@ -833,7 +833,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-16T15:34:26Z",
-                "open_issues": 50,
+                "open_issues": 51,
                 "owner": "paulmillr",
                 "repo": "chokidar",
                 "stars": 12243,
@@ -1342,7 +1342,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "open",
-                "stars": 3514,
+                "stars": 3515,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1450,7 +1450,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34267,
+            "stars": 34266,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1471,7 +1471,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34267,
+            "stars": 34266,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:31:21.005Z",
+    "last_updated": "2026-10-02T19:17:26.938Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
