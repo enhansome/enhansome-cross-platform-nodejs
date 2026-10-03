@@ -38,7 +38,7 @@
 
 * [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) ⚠️ Archived - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
 * [Cross-platform Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) ⭐ 1,425 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-25 - How to write cross-platform Node.js code.
-* [Cross-platform terminal characters](https://github.com/ehmicky/cross-platform-terminal-characters) ⭐ 250 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-25 - All the characters that work on most terminals and most operating systems.
+* [Cross-platform terminal characters](https://github.com/ehmicky/cross-platform-terminal-characters) ⭐ 249 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-25 - All the characters that work on most terminals and most operating systems.
 * [Core Node.js documentation](https://nodejs.org/en/docs/) - Especially the [`os`](https://nodejs.org/api/os.html), [`path`](https://nodejs.org/api/path.html), [`fs`](https://nodejs.org/api/fs.html), [`process`](https://nodejs.org/api/process.html) and [`child_process`](https://nodejs.org/api/child_process.html) modules.
 * [Writing Cross-Platform Node.js](http://shapeshed.com/writing-cross-platform-node/) - Great tutorial covering many common issues that arise when writing cross-platform code: path creation, script execution, newline characters.
 
@@ -46,8 +46,8 @@
 
 ### Development environment
 
-* [nvm](https://github.com/creationix/nvm) ⭐ 95,243 | 🐛 387 | 🌐 Shell | 📅 2026-09-30 / [n](https://github.com/tj/n) ⭐ 19,514 | 🐛 5 | 🌐 Shell | 📅 2026-08-30 - Node version manager for macOS/Linux.
-* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,836 | 🐛 4 | 🌐 Inno Setup | 📅 2026-10-02 - Manage multiple installations of Node.js on a Windows computer.
+* [nvm](https://github.com/creationix/nvm) ⭐ 95,247 | 🐛 387 | 🌐 Shell | 📅 2026-09-30 / [n](https://github.com/tj/n) ⭐ 19,514 | 🐛 5 | 🌐 Shell | 📅 2026-08-30 - Node version manager for macOS/Linux.
+* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,838 | 🐛 4 | 🌐 Inno Setup | 📅 2026-10-02 - Manage multiple installations of Node.js on a Windows computer.
 * [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) ⚠️ Archived - Install C++ Build Tools for Windows using npm.
 * [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) ⚠️ Archived - Upgrade npm on Windows.
 * [Node.js](https://nodejs.org/en/download/) - Node.js installer for various platforms.
@@ -83,14 +83,14 @@
 ### OS identification
 
 * [systeminformation](https://github.com/sebhildebrandt/systeminformation) ⭐ 3,138 | 🐛 25 | 🌐 JavaScript | 📅 2026-09-30 - Hardware/software system information.
-* [is-wsl](https://github.com/sindresorhus/is-wsl) ⭐ 199 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Detect whether current platform is WSL (Windows Subsystem for Linux).
+* [is-wsl](https://github.com/sindresorhus/is-wsl) ⭐ 198 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Detect whether current platform is WSL (Windows Subsystem for Linux).
 * [os-name](https://github.com/sindresorhus/os-name) ⭐ 149 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Get the name of the current operating system.
 * [getos](https://github.com/retrohacker/getos) ⭐ 79 | 🐛 6 | 🌐 JavaScript | 📅 2023-01-06 - Retrieve the current OS, including Linux distribution.
 * [is-windows](https://github.com/jonschlinkert/is-windows) ⚠️ Archived - Detect whether the current platform is Windows.
 
 ### Shell
 
-* [shelljs](https://github.com/shelljs/shelljs) ⭐ 14,392 | 🐛 111 | 🌐 JavaScript | 📅 2026-09-13 - Cross-platform Unix shell commands.
+* [shelljs](https://github.com/shelljs/shelljs) ⭐ 14,392 | 🐛 112 | 🌐 JavaScript | 📅 2026-09-13 - Cross-platform Unix shell commands.
 * [execa](https://github.com/sindresorhus/execa) ⭐ 7,609 | 🐛 3 | 🌐 JavaScript | 📅 2026-07-31 - Cross-platform implementation of `child_process.{execFile,exec}`.
 * [node-windows](https://github.com/coreybutler/node-windows) ⭐ 2,936 | 🐛 73 | 🌐 JavaScript | 📅 2024-10-01 - Windows support for Node.js scripts (daemons, eventlog, UAC, etc).
 * [clipboardy](https://github.com/sindresorhus/clipboardy) ⭐ 1,982 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-23 / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) ⭐ 509 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-03 - Cross-platform copy/paste.
@@ -140,7 +140,7 @@
 ### Desktop UI
 
 * [node-notifier](https://github.com/mikaelbr/node-notifier) ⭐ 5,845 | 🐛 129 | 🌐 JavaScript | 📅 2024-06-24 - Cross-platform desktop notifications.
-* [open](https://github.com/sindresorhus/open) ⭐ 3,515 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-14 - Opens stuff like websites, files, executables. Cross-platform.
+* [open](https://github.com/sindresorhus/open) ⭐ 3,516 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-14 - Opens stuff like websites, files, executables. Cross-platform.
 
 ### Windows registry
 
@@ -156,7 +156,7 @@
 
 ## See also
 
-* [awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) ⭐ 872 | 🐛 6 | 📅 2026-05-09 - List of tools to build JavaScript applications on the desktop.
+* [awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) ⭐ 873 | 🐛 6 | 📅 2026-05-09 - List of tools to build JavaScript applications on the desktop.
 
 ## Support
 
@@ -196,4 +196,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

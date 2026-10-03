@@ -82,7 +82,7 @@
             "open_issues": 0,
             "owner": "ehmicky",
             "repo": "cross-platform-terminal-characters",
-            "stars": 250,
+            "stars": 249,
             "topics": [
               "ascii",
               "bash",
@@ -132,7 +132,7 @@
                 "open_issues": 387,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95243,
+                "stars": 95247,
                 "topics": [
                   "bash",
                   "install",
@@ -163,11 +163,11 @@
                 "id": 24268127,
                 "language": "Inno Setup",
                 "license": null,
-                "last_commit": "2026-10-02T18:03:48Z",
+                "last_commit": "2026-10-02T20:34:51Z",
                 "open_issues": 4,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47836,
+                "stars": 47838,
                 "topics": [
                   "install",
                   "node",
@@ -350,7 +350,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "is-wsl",
-                "stars": 199,
+                "stars": 198,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -453,7 +453,7 @@
                 "language": "JavaScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-13T07:11:34Z",
-                "open_issues": 111,
+                "open_issues": 112,
                 "owner": "shelljs",
                 "repo": "shelljs",
                 "stars": 14392,
@@ -693,7 +693,7 @@
                 "open_issues": 1,
                 "owner": "kentcdodds",
                 "repo": "cross-env",
-                "stars": 6522,
+                "stars": 6521,
                 "topics": [
                   "cross-env",
                   "cross-platform",
@@ -1342,7 +1342,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "open",
-                "stars": 3515,
+                "stars": 3516,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:17:26.938Z",
+    "last_updated": "2026-10-03T04:38:25.732Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
