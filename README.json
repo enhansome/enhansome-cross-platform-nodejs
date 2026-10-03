@@ -129,10 +129,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-30T05:24:25Z",
-                "open_issues": 387,
+                "open_issues": 390,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95247,
+                "stars": 95254,
                 "topics": [
                   "bash",
                   "install",
@@ -167,7 +167,7 @@
                 "open_issues": 4,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47838,
+                "stars": 47842,
                 "topics": [
                   "install",
                   "node",
@@ -456,7 +456,7 @@
                 "open_issues": 112,
                 "owner": "shelljs",
                 "repo": "shelljs",
-                "stars": 14392,
+                "stars": 14391,
                 "topics": [
                   "bash",
                   "javascript",
@@ -893,7 +893,7 @@
                 "open_issues": 10,
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5852,
+                "stars": 5853,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -974,7 +974,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-06T06:11:03Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "paulmillr",
                 "repo": "readdirp",
                 "stars": 421,
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:38:25.732Z",
+    "last_updated": "2026-10-03T17:56:46.255Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
