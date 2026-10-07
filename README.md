@@ -46,8 +46,8 @@
 
 ### Development environment
 
-* [nvm](https://github.com/creationix/nvm) ⭐ 95,274 | 🐛 393 | 🌐 Shell | 📅 2026-10-05 / [n](https://github.com/tj/n) ⭐ 19,516 | 🐛 5 | 🌐 Shell | 📅 2026-08-30 - Node version manager for macOS/Linux.
-* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,868 | 🐛 3 | 🌐 Inno Setup | 📅 2026-10-06 - Manage multiple installations of Node.js on a Windows computer.
+* [nvm](https://github.com/creationix/nvm) ⭐ 95,282 | 🐛 393 | 🌐 Shell | 📅 2026-10-07 / [n](https://github.com/tj/n) ⭐ 19,515 | 🐛 5 | 🌐 Shell | 📅 2026-08-30 - Node version manager for macOS/Linux.
+* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,875 | 🐛 3 | 🌐 Inno Setup | 📅 2026-10-07 - Manage multiple installations of Node.js on a Windows computer.
 * [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) ⚠️ Archived - Install C++ Build Tools for Windows using npm.
 * [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) ⚠️ Archived - Upgrade npm on Windows.
 * [Node.js](https://nodejs.org/en/download/) - Node.js installer for various platforms.
@@ -90,8 +90,8 @@
 
 ### Shell
 
-* [shelljs](https://github.com/shelljs/shelljs) ⭐ 14,395 | 🐛 111 | 🌐 JavaScript | 📅 2026-10-03 - Cross-platform Unix shell commands.
-* [execa](https://github.com/sindresorhus/execa) ⭐ 7,611 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-06 - Cross-platform implementation of `child_process.{execFile,exec}`.
+* [shelljs](https://github.com/shelljs/shelljs) ⭐ 14,395 | 🐛 113 | 🌐 JavaScript | 📅 2026-10-03 - Cross-platform Unix shell commands.
+* [execa](https://github.com/sindresorhus/execa) ⭐ 7,612 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-06 - Cross-platform implementation of `child_process.{execFile,exec}`.
 * [node-windows](https://github.com/coreybutler/node-windows) ⭐ 2,937 | 🐛 73 | 🌐 JavaScript | 📅 2024-10-01 - Windows support for Node.js scripts (daemons, eventlog, UAC, etc).
 * [clipboardy](https://github.com/sindresorhus/clipboardy) ⭐ 1,983 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-23 / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) ⭐ 509 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-03 - Cross-platform copy/paste.
 * [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) ⭐ 1,172 | 🐛 32 | 🌐 JavaScript | 📅 2024-11-18 - Cross-platform implementation of `child_process.spawn()`.
@@ -112,7 +112,7 @@
 
 * [chokidar](https://github.com/paulmillr/chokidar) ⭐ 12,246 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-04 - Improved cross-platform file watching.
 * [fs-extra](https://github.com/jprichardson/node-fs-extra) ⭐ 9,590 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-22 - Combines `graceful-fs` with better JSON file reading and promises.
-* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,854 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-15 / [del](https://github.com/sindresorhus/del) ⭐ 1,343 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-26 - Delete files and folders. Cross-platform.
+* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,855 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-15 / [del](https://github.com/sindresorhus/del) ⭐ 1,343 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-26 - Delete files and folders. Cross-platform.
 * [graceful-fs](https://github.com/isaacs/node-graceful-fs) ⭐ 1,301 | 🐛 49 | 🌐 JavaScript | 📅 2025-10-25 - Improves the `fs` module, especially on Windows.
 * [make-dir](https://github.com/sindresorhus/make-dir) ⭐ 480 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Cross-platform `mkdir -p`.
 * [cpy](https://github.com/sindresorhus/cpy) ⭐ 438 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-01 - Copy files. Cross-platform.
@@ -196,4 +196,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._

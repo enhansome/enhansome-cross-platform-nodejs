@@ -128,11 +128,11 @@
                 "id": 612230,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-05T18:21:14Z",
+                "last_commit": "2026-10-07T18:26:08Z",
                 "open_issues": 393,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95274,
+                "stars": 95282,
                 "topics": [
                   "bash",
                   "install",
@@ -163,11 +163,11 @@
                 "id": 24268127,
                 "language": "Inno Setup",
                 "license": "MIT",
-                "last_commit": "2026-10-06T17:37:21Z",
+                "last_commit": "2026-10-07T01:53:12Z",
                 "open_issues": 3,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47868,
+                "stars": 47875,
                 "topics": [
                   "install",
                   "node",
@@ -196,7 +196,7 @@
                 "open_issues": 86,
                 "owner": "felixrieseberg",
                 "repo": "windows-build-tools",
-                "stars": 3407,
+                "stars": 3406,
                 "topics": [
                   "build-tool",
                   "microsoft",
@@ -226,7 +226,7 @@
                 "open_issues": 48,
                 "owner": "felixrieseberg",
                 "repo": "npm-windows-upgrade",
-                "stars": 2498,
+                "stars": 2497,
                 "topics": [
                   "microsoft",
                   "nodejs",
@@ -453,7 +453,7 @@
                 "language": "JavaScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-03T19:09:16Z",
-                "open_issues": 111,
+                "open_issues": 113,
                 "owner": "shelljs",
                 "repo": "shelljs",
                 "stars": 14395,
@@ -485,7 +485,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "execa",
-                "stars": 7611,
+                "stars": 7612,
                 "topics": [
                   "binary",
                   "child-process",
@@ -890,10 +890,10 @@
                 "language": "TypeScript",
                 "license": "BlueOak-1.0.0",
                 "last_commit": "2026-05-15T19:38:06Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5854,
+                "stars": 5855,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1450,7 +1450,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34264,
+            "stars": 34266,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1471,7 +1471,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34264,
+            "stars": 34266,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T19:31:51.423Z",
+    "last_updated": "2026-10-07T19:58:30.591Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
