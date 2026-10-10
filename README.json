@@ -128,11 +128,11 @@
                 "id": 612230,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-09T16:16:55Z",
-                "open_issues": 384,
+                "last_commit": "2026-10-10T04:34:41Z",
+                "open_issues": 380,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95290,
+                "stars": 95296,
                 "topics": [
                   "bash",
                   "install",
@@ -167,7 +167,7 @@
                 "open_issues": 3,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47889,
+                "stars": 47898,
                 "topics": [
                   "install",
                   "node",
@@ -196,7 +196,7 @@
                 "open_issues": 86,
                 "owner": "felixrieseberg",
                 "repo": "windows-build-tools",
-                "stars": 3406,
+                "stars": 3407,
                 "topics": [
                   "build-tool",
                   "microsoft",
@@ -326,7 +326,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-30T16:43:52Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "sebhildebrandt",
                 "repo": "systeminformation",
                 "stars": 3135,
@@ -453,7 +453,7 @@
                 "language": "JavaScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-09T07:41:25Z",
-                "open_issues": 111,
+                "open_issues": 113,
                 "owner": "shelljs",
                 "repo": "shelljs",
                 "stars": 14396,
@@ -485,7 +485,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "execa",
-                "stars": 7613,
+                "stars": 7614,
                 "topics": [
                   "binary",
                   "child-process",
@@ -836,7 +836,7 @@
                 "open_issues": 0,
                 "owner": "paulmillr",
                 "repo": "chokidar",
-                "stars": 12245,
+                "stars": 12247,
                 "topics": [
                   "chokidar",
                   "filesystem",
@@ -914,7 +914,7 @@
                 "open_issues": 49,
                 "owner": "isaacs",
                 "repo": "node-graceful-fs",
-                "stars": 1300,
+                "stars": 1299,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1308,8 +1308,8 @@
                 "id": 6965529,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-09T19:31:50Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-09T20:01:54Z",
+                "open_issues": 14,
                 "owner": "mikaelbr",
                 "repo": "node-notifier",
                 "stars": 5844,
@@ -1342,7 +1342,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "open",
-                "stars": 3516,
+                "stars": 3518,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1450,7 +1450,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34264,
+            "stars": 34265,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1471,7 +1471,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34264,
+            "stars": 34265,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T19:32:16.020Z",
+    "last_updated": "2026-10-10T18:34:29.702Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
