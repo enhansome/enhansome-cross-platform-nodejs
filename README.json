@@ -129,10 +129,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-10-10T04:34:41Z",
-                "open_issues": 380,
+                "open_issues": 381,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95296,
+                "stars": 95311,
                 "topics": [
                   "bash",
                   "install",
@@ -167,7 +167,7 @@
                 "open_issues": 3,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47898,
+                "stars": 47910,
                 "topics": [
                   "install",
                   "node",
@@ -329,7 +329,7 @@
                 "open_issues": 26,
                 "owner": "sebhildebrandt",
                 "repo": "systeminformation",
-                "stars": 3135,
+                "stars": 3136,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -453,10 +453,10 @@
                 "language": "JavaScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-09T07:41:25Z",
-                "open_issues": 113,
+                "open_issues": 115,
                 "owner": "shelljs",
                 "repo": "shelljs",
-                "stars": 14396,
+                "stars": 14397,
                 "topics": [
                   "bash",
                   "javascript",
@@ -562,7 +562,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2024-11-18T14:20:54Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "moxystudio",
                 "repo": "node-cross-spawn",
                 "stars": 1172,
@@ -836,7 +836,7 @@
                 "open_issues": 0,
                 "owner": "paulmillr",
                 "repo": "chokidar",
-                "stars": 12247,
+                "stars": 12246,
                 "topics": [
                   "chokidar",
                   "filesystem",
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:34:29.702Z",
+    "last_updated": "2026-10-11T18:53:51.165Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
