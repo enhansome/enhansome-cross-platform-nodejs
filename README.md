@@ -37,7 +37,7 @@
 ## Resources
 
 * [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) ⚠️ Archived - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
-* [Cross-platform Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) ⭐ 1,424 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-25 - How to write cross-platform Node.js code.
+* [Cross-platform Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) ⭐ 1,423 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-25 - How to write cross-platform Node.js code.
 * [Cross-platform terminal characters](https://github.com/ehmicky/cross-platform-terminal-characters) ⭐ 249 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-25 - All the characters that work on most terminals and most operating systems.
 * [Core Node.js documentation](https://nodejs.org/en/docs/) - Especially the [`os`](https://nodejs.org/api/os.html), [`path`](https://nodejs.org/api/path.html), [`fs`](https://nodejs.org/api/fs.html), [`process`](https://nodejs.org/api/process.html) and [`child_process`](https://nodejs.org/api/child_process.html) modules.
 * [Writing Cross-Platform Node.js](http://shapeshed.com/writing-cross-platform-node/) - Great tutorial covering many common issues that arise when writing cross-platform code: path creation, script execution, newline characters.
@@ -46,8 +46,8 @@
 
 ### Development environment
 
-* [nvm](https://github.com/creationix/nvm) ⭐ 95,311 | 🐛 381 | 🌐 Shell | 📅 2026-10-10 / [n](https://github.com/tj/n) ⭐ 19,513 | 🐛 5 | 🌐 Shell | 📅 2026-10-10 - Node version manager for macOS/Linux.
-* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,910 | 🐛 3 | 🌐 Inno Setup | 📅 2026-10-09 - Manage multiple installations of Node.js on a Windows computer.
+* [nvm](https://github.com/creationix/nvm) ⭐ 95,322 | 🐛 381 | 🌐 Shell | 📅 2026-10-10 / [n](https://github.com/tj/n) ⭐ 19,512 | 🐛 5 | 🌐 Shell | 📅 2026-10-10 - Node version manager for macOS/Linux.
+* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,923 | 🐛 3 | 🌐 Inno Setup | 📅 2026-10-12 - Manage multiple installations of Node.js on a Windows computer.
 * [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) ⚠️ Archived - Install C++ Build Tools for Windows using npm.
 * [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) ⚠️ Archived - Upgrade npm on Windows.
 * [Node.js](https://nodejs.org/en/download/) - Node.js installer for various platforms.
@@ -76,7 +76,7 @@
 
 ### Databases
 
-* [Redis](https://github.com/tporadowski/redis) ⭐ 10,275 | 🐛 82 | 🌐 C | 📅 2026-10-08 - Native port of Redis for Windows.
+* [Redis](https://github.com/tporadowski/redis) ⭐ 10,280 | 🐛 82 | 🌐 C | 📅 2026-10-08 - Native port of Redis for Windows.
 
 ## Libraries
 
@@ -90,13 +90,13 @@
 
 ### Shell
 
-* [shelljs](https://github.com/shelljs/shelljs) ⭐ 14,397 | 🐛 115 | 🌐 JavaScript | 📅 2026-10-09 - Cross-platform Unix shell commands.
-* [execa](https://github.com/sindresorhus/execa) ⭐ 7,614 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-06 - Cross-platform implementation of `child_process.{execFile,exec}`.
+* [shelljs](https://github.com/shelljs/shelljs) ⭐ 14,397 | 🐛 120 | 🌐 JavaScript | 📅 2026-10-09 - Cross-platform Unix shell commands.
+* [execa](https://github.com/sindresorhus/execa) ⭐ 7,616 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-06 - Cross-platform implementation of `child_process.{execFile,exec}`.
 * [node-windows](https://github.com/coreybutler/node-windows) ⭐ 2,937 | 🐛 73 | 🌐 JavaScript | 📅 2024-10-01 - Windows support for Node.js scripts (daemons, eventlog, UAC, etc).
 * [clipboardy](https://github.com/sindresorhus/clipboardy) ⭐ 1,983 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-23 / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) ⭐ 509 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-03 - Cross-platform copy/paste.
 * [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) ⭐ 1,172 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-18 - Cross-platform implementation of `child_process.spawn()`.
 * [log-symbols](https://github.com/sindresorhus/log-symbols) ⭐ 770 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-18 - Colored symbols for various log levels with Windows fallbacks.
-* [figures](https://github.com/sindresorhus/figures) ⭐ 633 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Unicode symbols with Windows fallbacks.
+* [figures](https://github.com/sindresorhus/figures) ⭐ 632 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Unicode symbols with Windows fallbacks.
 * [gulp-execa](https://github.com/ehmicky/gulp-execa) ⭐ 56 | 🐛 0 | 🌐 JavaScript | 📅 2025-11-08 - Cross-platform command execution in Gulp.js.
 
 ### Environment
@@ -110,9 +110,9 @@
 
 ### Filesystem
 
-* [chokidar](https://github.com/paulmillr/chokidar) ⭐ 12,246 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-04 - Improved cross-platform file watching.
+* [chokidar](https://github.com/paulmillr/chokidar) ⭐ 12,245 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-11 - Improved cross-platform file watching.
 * [fs-extra](https://github.com/jprichardson/node-fs-extra) ⭐ 9,589 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-22 - Combines `graceful-fs` with better JSON file reading and promises.
-* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,855 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-15 / [del](https://github.com/sindresorhus/del) ⭐ 1,343 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-08 - Delete files and folders. Cross-platform.
+* [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,854 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-15 / [del](https://github.com/sindresorhus/del) ⭐ 1,343 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-08 - Delete files and folders. Cross-platform.
 * [graceful-fs](https://github.com/isaacs/node-graceful-fs) ⭐ 1,299 | 🐛 49 | 🌐 JavaScript | 📅 2025-10-25 - Improves the `fs` module, especially on Windows.
 * [make-dir](https://github.com/sindresorhus/make-dir) ⭐ 480 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Cross-platform `mkdir -p`.
 * [cpy](https://github.com/sindresorhus/cpy) ⭐ 438 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-01 - Copy files. Cross-platform.
@@ -140,7 +140,7 @@
 ### Desktop UI
 
 * [node-notifier](https://github.com/mikaelbr/node-notifier) ⭐ 5,844 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-09 - Cross-platform desktop notifications.
-* [open](https://github.com/sindresorhus/open) ⭐ 3,518 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-14 - Opens stuff like websites, files, executables. Cross-platform.
+* [open](https://github.com/sindresorhus/open) ⭐ 3,519 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-14 - Opens stuff like websites, files, executables. Cross-platform.
 
 ### Windows registry
 
@@ -196,4 +196,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
