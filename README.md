@@ -46,8 +46,8 @@
 
 ### Development environment
 
-* [nvm](https://github.com/creationix/nvm) ⭐ 95,559 | 🐛 386 | 🌐 Shell | 📅 2026-10-10 / [n](https://github.com/tj/n) ⭐ 19,513 | 🐛 5 | 🌐 Shell | 📅 2026-10-10 - Node version manager for macOS/Linux.
-* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,970 | 🐛 3 | 🌐 Inno Setup | 📅 2026-10-15 - Manage multiple installations of Node.js on a Windows computer.
+* [nvm](https://github.com/creationix/nvm) ⭐ 95,568 | 🐛 386 | 🌐 Shell | 📅 2026-10-10 / [n](https://github.com/tj/n) ⭐ 19,513 | 🐛 5 | 🌐 Shell | 📅 2026-10-10 - Node version manager for macOS/Linux.
+* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,972 | 🐛 5 | 🌐 Inno Setup | 📅 2026-10-17 - Manage multiple installations of Node.js on a Windows computer.
 * [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) ⚠️ Archived - Install C++ Build Tools for Windows using npm.
 * [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) ⚠️ Archived - Upgrade npm on Windows.
 * [Node.js](https://nodejs.org/en/download/) - Node.js installer for various platforms.
@@ -76,7 +76,7 @@
 
 ### Databases
 
-* [Redis](https://github.com/tporadowski/redis) ⭐ 10,282 | 🐛 82 | 🌐 C | 📅 2026-10-08 - Native port of Redis for Windows.
+* [Redis](https://github.com/tporadowski/redis) ⭐ 10,283 | 🐛 82 | 🌐 C | 📅 2026-10-08 - Native port of Redis for Windows.
 
 ## Libraries
 
@@ -110,12 +110,12 @@
 
 ### Filesystem
 
-* [chokidar](https://github.com/paulmillr/chokidar) ⭐ 12,245 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-11 - Improved cross-platform file watching.
+* [chokidar](https://github.com/paulmillr/chokidar) ⭐ 12,246 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-11 - Improved cross-platform file watching.
 * [fs-extra](https://github.com/jprichardson/node-fs-extra) ⭐ 9,591 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-22 - Combines `graceful-fs` with better JSON file reading and promises.
 * [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,854 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-15 / [del](https://github.com/sindresorhus/del) ⭐ 1,344 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-08 - Delete files and folders. Cross-platform.
 * [graceful-fs](https://github.com/isaacs/node-graceful-fs) ⭐ 1,300 | 🐛 49 | 🌐 JavaScript | 📅 2025-10-25 - Improves the `fs` module, especially on Windows.
 * [make-dir](https://github.com/sindresorhus/make-dir) ⭐ 481 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Cross-platform `mkdir -p`.
-* [cpy](https://github.com/sindresorhus/cpy) ⭐ 439 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-01 - Copy files. Cross-platform.
+* [cpy](https://github.com/sindresorhus/cpy) ⭐ 440 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-01 - Copy files. Cross-platform.
 * [readdirp](https://github.com/paulmillr/readdirp) ⭐ 421 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-06 - Recursive version of `fs.readdir()`.
 * [dev-null-cli](https://github.com/sindresorhus/dev-null-cli) ⭐ 93 | 🐛 0 | 🌐 JavaScript | 📅 2021-10-14 - Cross-platform `/dev/null`.
 * [global-cache-dir](https://github.com/ehmicky/global-cache-dir) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-25 - Get the global OS-specific cache directory.
@@ -139,7 +139,7 @@
 
 ### Desktop UI
 
-* [node-notifier](https://github.com/mikaelbr/node-notifier) ⭐ 5,846 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-09 - Cross-platform desktop notifications.
+* [node-notifier](https://github.com/mikaelbr/node-notifier) ⭐ 5,845 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-09 - Cross-platform desktop notifications.
 * [open](https://github.com/sindresorhus/open) ⭐ 3,523 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-14 - Opens stuff like websites, files, executables. Cross-platform.
 
 ### Windows registry
@@ -188,7 +188,7 @@ Thanks go to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,112 | 🐛 85 | 🌐 MDX | 📅 2026-10-15 specification.
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,111 | 🐛 85 | 🌐 MDX | 📅 2026-10-15 specification.
 
 ## License
 
@@ -196,4 +196,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._

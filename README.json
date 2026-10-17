@@ -132,7 +132,7 @@
                 "open_issues": 386,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95559,
+                "stars": 95568,
                 "topics": [
                   "bash",
                   "install",
@@ -163,11 +163,11 @@
                 "id": 24268127,
                 "language": "Inno Setup",
                 "license": "MIT",
-                "last_commit": "2026-10-15T19:51:59Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-17T17:02:58Z",
+                "open_issues": 5,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47970,
+                "stars": 47972,
                 "topics": [
                   "install",
                   "node",
@@ -287,7 +287,7 @@
                 "open_issues": 82,
                 "owner": "tporadowski",
                 "repo": "redis",
-                "stars": 10282,
+                "stars": 10283,
                 "topics": [
                   "redis",
                   "redis-for-windows",
@@ -693,7 +693,7 @@
                 "open_issues": 1,
                 "owner": "kentcdodds",
                 "repo": "cross-env",
-                "stars": 6520,
+                "stars": 6521,
                 "topics": [
                   "cross-env",
                   "cross-platform",
@@ -836,7 +836,7 @@
                 "open_issues": 3,
                 "owner": "paulmillr",
                 "repo": "chokidar",
-                "stars": 12245,
+                "stars": 12246,
                 "topics": [
                   "chokidar",
                   "filesystem",
@@ -956,7 +956,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "cpy",
-                "stars": 439,
+                "stars": 440,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1312,7 +1312,7 @@
                 "open_issues": 14,
                 "owner": "mikaelbr",
                 "repo": "node-notifier",
-                "stars": 5846,
+                "stars": 5845,
                 "topics": [
                   "growl",
                   "hacktoberfest",
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:03:01.397Z",
+    "last_updated": "2026-10-17T17:09:12.831Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
