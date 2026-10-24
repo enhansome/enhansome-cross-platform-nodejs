@@ -46,8 +46,8 @@
 
 ### Development environment
 
-* [nvm](https://github.com/creationix/nvm) ⭐ 95,637 | 🐛 389 | 🌐 Shell | 📅 2026-10-10 / [n](https://github.com/tj/n) ⭐ 19,510 | 🐛 1 | 🌐 Shell | 📅 2026-10-18 - Node version manager for macOS/Linux.
-* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 48,026 | 🐛 3 | 🌐 Inno Setup | 📅 2026-10-23 - Manage multiple installations of Node.js on a Windows computer.
+* [nvm](https://github.com/creationix/nvm) ⭐ 95,642 | 🐛 389 | 🌐 Shell | 📅 2026-10-23 / [n](https://github.com/tj/n) ⭐ 19,509 | 🐛 1 | 🌐 Shell | 📅 2026-10-18 - Node version manager for macOS/Linux.
+* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 48,032 | 🐛 6 | 🌐 Inno Setup | 📅 2026-10-24 - Manage multiple installations of Node.js on a Windows computer.
 * [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) ⚠️ Archived - Install C++ Build Tools for Windows using npm.
 * [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) ⚠️ Archived - Upgrade npm on Windows.
 * [Node.js](https://nodejs.org/en/download/) - Node.js installer for various platforms.
@@ -91,7 +91,7 @@
 ### Shell
 
 * [shelljs](https://github.com/shelljs/shelljs) ⭐ 14,401 | 🐛 122 | 🌐 JavaScript | 📅 2026-10-14 - Cross-platform Unix shell commands.
-* [execa](https://github.com/sindresorhus/execa) ⭐ 7,623 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-23 - Cross-platform implementation of `child_process.{execFile,exec}`.
+* [execa](https://github.com/sindresorhus/execa) ⭐ 7,624 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-23 - Cross-platform implementation of `child_process.{execFile,exec}`.
 * [node-windows](https://github.com/coreybutler/node-windows) ⭐ 2,938 | 🐛 73 | 🌐 JavaScript | 📅 2024-10-01 - Windows support for Node.js scripts (daemons, eventlog, UAC, etc).
 * [clipboardy](https://github.com/sindresorhus/clipboardy) ⭐ 1,982 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-23 / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) ⭐ 510 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-03 - Cross-platform copy/paste.
 * [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) ⭐ 1,173 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-18 - Cross-platform implementation of `child_process.spawn()`.
@@ -116,7 +116,7 @@
 * [graceful-fs](https://github.com/isaacs/node-graceful-fs) ⭐ 1,301 | 🐛 49 | 🌐 JavaScript | 📅 2025-10-25 - Improves the `fs` module, especially on Windows.
 * [make-dir](https://github.com/sindresorhus/make-dir) ⭐ 481 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Cross-platform `mkdir -p`.
 * [cpy](https://github.com/sindresorhus/cpy) ⭐ 440 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-01 - Copy files. Cross-platform.
-* [readdirp](https://github.com/paulmillr/readdirp) ⭐ 422 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-06 - Recursive version of `fs.readdir()`.
+* [readdirp](https://github.com/paulmillr/readdirp) ⭐ 422 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-06 - Recursive version of `fs.readdir()`.
 * [dev-null-cli](https://github.com/sindresorhus/dev-null-cli) ⭐ 93 | 🐛 0 | 🌐 JavaScript | 📅 2021-10-14 - Cross-platform `/dev/null`.
 * [global-cache-dir](https://github.com/ehmicky/global-cache-dir) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-25 - Get the global OS-specific cache directory.
 * [any-path](https://github.com/bcoe/any-path) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2015-12-21 - Use Windows and POSIX paths interchangeably when fetching values from an object.
@@ -139,7 +139,7 @@
 
 ### Desktop UI
 
-* [node-notifier](https://github.com/mikaelbr/node-notifier) ⭐ 5,846 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-09 - Cross-platform desktop notifications.
+* [node-notifier](https://github.com/mikaelbr/node-notifier) ⭐ 5,844 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-09 - Cross-platform desktop notifications.
 * [open](https://github.com/sindresorhus/open) ⭐ 3,522 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-14 - Opens stuff like websites, files, executables. Cross-platform.
 
 ### Windows registry
@@ -188,7 +188,7 @@ Thanks go to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,112 | 🐛 87 | 🌐 MDX | 📅 2026-10-23 specification.
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,112 | 🐛 88 | 🌐 MDX | 📅 2026-10-23 specification.
 
 ## License
 
@@ -196,4 +196,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
