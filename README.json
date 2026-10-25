@@ -132,7 +132,7 @@
                 "open_issues": 389,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95642,
+                "stars": 95645,
                 "topics": [
                   "bash",
                   "install",
@@ -163,11 +163,11 @@
                 "id": 24268127,
                 "language": "Inno Setup",
                 "license": "MIT",
-                "last_commit": "2026-10-24T17:14:29Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-25T14:56:00Z",
+                "open_issues": 5,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 48032,
+                "stars": 48037,
                 "topics": [
                   "install",
                   "node",
@@ -287,7 +287,7 @@
                 "open_issues": 82,
                 "owner": "tporadowski",
                 "repo": "redis",
-                "stars": 10285,
+                "stars": 10286,
                 "topics": [
                   "redis",
                   "redis-for-windows",
@@ -456,7 +456,7 @@
                 "open_issues": 122,
                 "owner": "shelljs",
                 "repo": "shelljs",
-                "stars": 14401,
+                "stars": 14402,
                 "topics": [
                   "bash",
                   "javascript",
@@ -485,7 +485,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "execa",
-                "stars": 7624,
+                "stars": 7626,
                 "topics": [
                   "binary",
                   "child-process",
@@ -864,7 +864,7 @@
                 "open_issues": 17,
                 "owner": "jprichardson",
                 "repo": "node-fs-extra",
-                "stars": 9594,
+                "stars": 9595,
                 "topics": [
                   "copy",
                   "delete",
@@ -893,7 +893,7 @@
                 "open_issues": 11,
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5855,
+                "stars": 5856,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1312,7 +1312,7 @@
                 "open_issues": 14,
                 "owner": "mikaelbr",
                 "repo": "node-notifier",
-                "stars": 5844,
+                "stars": 5845,
                 "topics": [
                   "growl",
                   "hacktoberfest",
@@ -1450,7 +1450,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34265,
+            "stars": 34266,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1471,7 +1471,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34265,
+            "stars": 34266,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:26:19.486Z",
+    "last_updated": "2026-10-25T17:38:28.829Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
@@ -1514,7 +1514,7 @@
       "open_issues": 1,
       "owner": "bcoe",
       "repo": "awesome-cross-platform-nodejs",
-      "stars": 1211,
+      "stars": 1212,
       "topics": [
         "awesome",
         "awesome-list"
