@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "microsoft",
             "repo": "nodejs-guidelines",
-            "stars": 2490,
+            "stars": 2491,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -128,11 +128,11 @@
                 "id": 612230,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-27T04:36:02Z",
-                "open_issues": 388,
+                "last_commit": "2026-10-28T18:41:50Z",
+                "open_issues": 384,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95675,
+                "stars": 95694,
                 "topics": [
                   "bash",
                   "install",
@@ -163,11 +163,11 @@
                 "id": 24268127,
                 "language": "Inno Setup",
                 "license": "MIT",
-                "last_commit": "2026-10-27T19:06:33Z",
+                "last_commit": "2026-10-28T18:01:27Z",
                 "open_issues": 7,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 48060,
+                "stars": 48070,
                 "topics": [
                   "install",
                   "node",
@@ -196,7 +196,7 @@
                 "open_issues": 86,
                 "owner": "felixrieseberg",
                 "repo": "windows-build-tools",
-                "stars": 3405,
+                "stars": 3406,
                 "topics": [
                   "build-tool",
                   "microsoft",
@@ -287,7 +287,7 @@
                 "open_issues": 82,
                 "owner": "tporadowski",
                 "repo": "redis",
-                "stars": 10288,
+                "stars": 10289,
                 "topics": [
                   "redis",
                   "redis-for-windows",
@@ -325,7 +325,7 @@
                 "id": 17677611,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-19T15:55:32Z",
+                "last_commit": "2026-10-28T13:38:55Z",
                 "open_issues": 26,
                 "owner": "sebhildebrandt",
                 "repo": "systeminformation",
@@ -456,7 +456,7 @@
                 "open_issues": 121,
                 "owner": "shelljs",
                 "repo": "shelljs",
-                "stars": 14403,
+                "stars": 14402,
                 "topics": [
                   "bash",
                   "javascript",
@@ -485,7 +485,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "execa",
-                "stars": 7628,
+                "stars": 7631,
                 "topics": [
                   "binary",
                   "child-process",
@@ -836,7 +836,7 @@
                 "open_issues": 4,
                 "owner": "paulmillr",
                 "repo": "chokidar",
-                "stars": 12257,
+                "stars": 12260,
                 "topics": [
                   "chokidar",
                   "filesystem",
@@ -911,7 +911,7 @@
                 "language": "JavaScript",
                 "license": "BlueOak-1.0.0",
                 "last_commit": "2025-10-25T19:00:09Z",
-                "open_issues": 49,
+                "open_issues": 48,
                 "owner": "isaacs",
                 "repo": "node-graceful-fs",
                 "stars": 1301,
@@ -1308,7 +1308,7 @@
                 "id": 6965529,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-09T20:01:54Z",
+                "last_commit": "2026-10-28T18:35:32Z",
                 "open_issues": 14,
                 "owner": "mikaelbr",
                 "repo": "node-notifier",
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T19:25:50.003Z",
+    "last_updated": "2026-10-28T19:33:05.105Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
