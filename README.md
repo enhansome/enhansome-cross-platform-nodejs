@@ -46,8 +46,8 @@
 
 ### Development environment
 
-* [nvm](https://github.com/creationix/nvm) ⭐ 95,728 | 🐛 387 | 🌐 Shell | 📅 2026-10-28 / [n](https://github.com/tj/n) ⭐ 19,509 | 🐛 1 | 🌐 Shell | 📅 2026-10-18 - Node version manager for macOS/Linux.
-* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 48,097 | 🐛 4 | 🌐 Inno Setup | 📅 2026-10-31 - Manage multiple installations of Node.js on a Windows computer.
+* [nvm](https://github.com/creationix/nvm) ⭐ 95,735 | 🐛 388 | 🌐 Shell | 📅 2026-10-28 / [n](https://github.com/tj/n) ⭐ 19,509 | 🐛 1 | 🌐 Shell | 📅 2026-10-18 - Node version manager for macOS/Linux.
+* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 48,100 | 🐛 5 | 🌐 Inno Setup | 📅 2026-10-31 - Manage multiple installations of Node.js on a Windows computer.
 * [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) ⚠️ Archived - Install C++ Build Tools for Windows using npm.
 * [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) ⚠️ Archived - Upgrade npm on Windows.
 * [Node.js](https://nodejs.org/en/download/) - Node.js installer for various platforms.
@@ -92,9 +92,9 @@
 
 * [shelljs](https://github.com/shelljs/shelljs) ⭐ 14,402 | 🐛 121 | 🌐 JavaScript | 📅 2026-10-25 - Cross-platform Unix shell commands.
 * [execa](https://github.com/sindresorhus/execa) ⭐ 7,634 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-23 - Cross-platform implementation of `child_process.{execFile,exec}`.
-* [node-windows](https://github.com/coreybutler/node-windows) ⭐ 2,938 | 🐛 73 | 🌐 JavaScript | 📅 2024-10-01 - Windows support for Node.js scripts (daemons, eventlog, UAC, etc).
+* [node-windows](https://github.com/coreybutler/node-windows) ⭐ 2,937 | 🐛 73 | 🌐 JavaScript | 📅 2024-10-01 - Windows support for Node.js scripts (daemons, eventlog, UAC, etc).
 * [clipboardy](https://github.com/sindresorhus/clipboardy) ⭐ 1,981 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-23 / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) ⭐ 510 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-03 - Cross-platform copy/paste.
-* [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) ⭐ 1,174 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-18 - Cross-platform implementation of `child_process.spawn()`.
+* [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) ⭐ 1,174 | 🐛 24 | 🌐 JavaScript | 📅 2026-11-01 - Cross-platform implementation of `child_process.spawn()`.
 * [log-symbols](https://github.com/sindresorhus/log-symbols) ⭐ 771 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-18 - Colored symbols for various log levels with Windows fallbacks.
 * [figures](https://github.com/sindresorhus/figures) ⭐ 634 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Unicode symbols with Windows fallbacks.
 * [gulp-execa](https://github.com/ehmicky/gulp-execa) ⭐ 57 | 🐛 0 | 🌐 JavaScript | 📅 2025-11-08 - Cross-platform command execution in Gulp.js.
@@ -139,8 +139,8 @@
 
 ### Desktop UI
 
-* [node-notifier](https://github.com/mikaelbr/node-notifier) ⭐ 5,845 | 🐛 13 | 🌐 JavaScript | 📅 2026-10-28 - Cross-platform desktop notifications.
-* [open](https://github.com/sindresorhus/open) ⭐ 3,520 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-14 - Opens stuff like websites, files, executables. Cross-platform.
+* [node-notifier](https://github.com/mikaelbr/node-notifier) ⭐ 5,844 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-31 - Cross-platform desktop notifications.
+* [open](https://github.com/sindresorhus/open) ⭐ 3,521 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-14 - Opens stuff like websites, files, executables. Cross-platform.
 
 ### Windows registry
 
@@ -188,7 +188,7 @@ Thanks go to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,114 | 🐛 88 | 🌐 MDX | 📅 2026-10-29 specification.
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,114 | 🐛 89 | 🌐 MDX | 📅 2026-11-01 specification.
 
 ## License
 
@@ -196,4 +196,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
