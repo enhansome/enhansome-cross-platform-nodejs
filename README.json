@@ -128,11 +128,11 @@
                 "id": 612230,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-28T18:41:50Z",
-                "open_issues": 388,
+                "last_commit": "2026-11-02T22:29:45Z",
+                "open_issues": 383,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95735,
+                "stars": 95738,
                 "topics": [
                   "bash",
                   "install",
@@ -163,11 +163,11 @@
                 "id": 24268127,
                 "language": "Inno Setup",
                 "license": "MIT",
-                "last_commit": "2026-10-31T19:37:32Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-02T15:33:58Z",
+                "open_issues": 4,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 48100,
+                "stars": 48108,
                 "topics": [
                   "install",
                   "node",
@@ -196,7 +196,7 @@
                 "open_issues": 86,
                 "owner": "felixrieseberg",
                 "repo": "windows-build-tools",
-                "stars": 3407,
+                "stars": 3406,
                 "topics": [
                   "build-tool",
                   "microsoft",
@@ -287,7 +287,7 @@
                 "open_issues": 82,
                 "owner": "tporadowski",
                 "repo": "redis",
-                "stars": 10290,
+                "stars": 10289,
                 "topics": [
                   "redis",
                   "redis-for-windows",
@@ -329,7 +329,7 @@
                 "open_issues": 26,
                 "owner": "sebhildebrandt",
                 "repo": "systeminformation",
-                "stars": 3137,
+                "stars": 3139,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -453,7 +453,7 @@
                 "language": "JavaScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-25T23:02:23Z",
-                "open_issues": 121,
+                "open_issues": 126,
                 "owner": "shelljs",
                 "repo": "shelljs",
                 "stars": 14402,
@@ -485,7 +485,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "execa",
-                "stars": 7634,
+                "stars": 7633,
                 "topics": [
                   "binary",
                   "child-process",
@@ -693,7 +693,7 @@
                 "open_issues": 1,
                 "owner": "kentcdodds",
                 "repo": "cross-env",
-                "stars": 6520,
+                "stars": 6519,
                 "topics": [
                   "cross-env",
                   "cross-platform",
@@ -833,7 +833,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-27T16:42:05Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "paulmillr",
                 "repo": "chokidar",
                 "stars": 12264,
@@ -861,10 +861,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-22T16:18:34Z",
-                "open_issues": 18,
+                "open_issues": 21,
                 "owner": "jprichardson",
                 "repo": "node-fs-extra",
-                "stars": 9595,
+                "stars": 9593,
                 "topics": [
                   "copy",
                   "delete",
@@ -974,7 +974,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-06T06:11:03Z",
-                "open_issues": 2,
+                "open_issues": 5,
                 "owner": "paulmillr",
                 "repo": "readdirp",
                 "stars": 422,
@@ -1312,7 +1312,7 @@
                 "open_issues": 13,
                 "owner": "mikaelbr",
                 "repo": "node-notifier",
-                "stars": 5844,
+                "stars": 5843,
                 "topics": [
                   "growl",
                   "hacktoberfest",
@@ -1450,7 +1450,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34265,
+            "stars": 34263,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1471,7 +1471,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34265,
+            "stars": 34263,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T18:55:26.276Z",
+    "last_updated": "2026-11-02T22:46:14.316Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
