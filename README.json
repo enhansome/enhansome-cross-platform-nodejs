@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "microsoft",
             "repo": "nodejs-guidelines",
-            "stars": 2489,
+            "stars": 2488,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -128,11 +128,11 @@
                 "id": 612230,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-11-03T20:14:09Z",
-                "open_issues": 375,
+                "last_commit": "2026-11-04T16:39:39Z",
+                "open_issues": 372,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95751,
+                "stars": 95756,
                 "topics": [
                   "bash",
                   "install",
@@ -167,7 +167,7 @@
                 "open_issues": 4,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 48120,
+                "stars": 48137,
                 "topics": [
                   "install",
                   "node",
@@ -485,7 +485,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "execa",
-                "stars": 7632,
+                "stars": 7631,
                 "topics": [
                   "binary",
                   "child-process",
@@ -864,7 +864,7 @@
                 "open_issues": 21,
                 "owner": "jprichardson",
                 "repo": "node-fs-extra",
-                "stars": 9595,
+                "stars": 9594,
                 "topics": [
                   "copy",
                   "delete",
@@ -890,7 +890,7 @@
                 "language": "TypeScript",
                 "license": "BlueOak-1.0.0",
                 "last_commit": "2026-11-03T18:32:00Z",
-                "open_issues": 10,
+                "open_issues": 9,
                 "owner": "isaacs",
                 "repo": "rimraf",
                 "stars": 5856,
@@ -914,7 +914,7 @@
                 "open_issues": 48,
                 "owner": "isaacs",
                 "repo": "node-graceful-fs",
-                "stars": 1301,
+                "stars": 1300,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -973,11 +973,11 @@
                 "id": 4494405,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-06T06:11:03Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-04T14:20:04Z",
+                "open_issues": 2,
                 "owner": "paulmillr",
                 "repo": "readdirp",
-                "stars": 422,
+                "stars": 421,
                 "topics": [
                   "bun",
                   "deno",
@@ -1342,7 +1342,7 @@
                 "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "open",
-                "stars": 3521,
+                "stars": 3522,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1450,7 +1450,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34262,
+            "stars": 34260,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1471,7 +1471,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34262,
+            "stars": 34260,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:29:55.424Z",
+    "last_updated": "2026-11-04T20:49:25.527Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
