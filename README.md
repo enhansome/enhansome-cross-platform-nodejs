@@ -46,8 +46,8 @@
 
 ### Development environment
 
-* [nvm](https://github.com/creationix/nvm) ⭐ 95,765 | 🐛 373 | 🌐 Shell | 📅 2026-11-04 / [n](https://github.com/tj/n) ⭐ 19,510 | 🐛 2 | 🌐 Shell | 📅 2026-10-18 - Node version manager for macOS/Linux.
-* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 48,140 | 🐛 4 | 🌐 Inno Setup | 📅 2026-11-05 - Manage multiple installations of Node.js on a Windows computer.
+* [nvm](https://github.com/creationix/nvm) ⭐ 95,765 | 🐛 374 | 🌐 Shell | 📅 2026-11-04 / [n](https://github.com/tj/n) ⭐ 19,511 | 🐛 2 | 🌐 Shell | 📅 2026-10-18 - Node version manager for macOS/Linux.
+* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 48,149 | 🐛 5 | 🌐 Inno Setup | 📅 2026-11-06 - Manage multiple installations of Node.js on a Windows computer.
 * [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) ⚠️ Archived - Install C++ Build Tools for Windows using npm.
 * [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) ⚠️ Archived - Upgrade npm on Windows.
 * [Node.js](https://nodejs.org/en/download/) - Node.js installer for various platforms.
@@ -76,7 +76,7 @@
 
 ### Databases
 
-* [Redis](https://github.com/tporadowski/redis) ⭐ 10,290 | 🐛 82 | 🌐 C | 📅 2026-10-08 - Native port of Redis for Windows.
+* [Redis](https://github.com/tporadowski/redis) ⭐ 10,288 | 🐛 82 | 🌐 C | 📅 2026-10-08 - Native port of Redis for Windows.
 
 ## Libraries
 
@@ -91,8 +91,8 @@
 ### Shell
 
 * [shelljs](https://github.com/shelljs/shelljs) ⭐ 14,401 | 🐛 126 | 🌐 JavaScript | 📅 2026-10-25 - Cross-platform Unix shell commands.
-* [execa](https://github.com/sindresorhus/execa) ⭐ 7,632 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-23 - Cross-platform implementation of `child_process.{execFile,exec}`.
-* [node-windows](https://github.com/coreybutler/node-windows) ⭐ 2,937 | 🐛 73 | 🌐 JavaScript | 📅 2024-10-01 - Windows support for Node.js scripts (daemons, eventlog, UAC, etc).
+* [execa](https://github.com/sindresorhus/execa) ⭐ 7,633 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-23 - Cross-platform implementation of `child_process.{execFile,exec}`.
+* [node-windows](https://github.com/coreybutler/node-windows) ⭐ 2,935 | 🐛 73 | 🌐 JavaScript | 📅 2024-10-01 - Windows support for Node.js scripts (daemons, eventlog, UAC, etc).
 * [clipboardy](https://github.com/sindresorhus/clipboardy) ⭐ 1,981 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-23 / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) ⭐ 510 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-03 - Cross-platform copy/paste.
 * [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) ⭐ 1,174 | 🐛 24 | 🌐 JavaScript | 📅 2026-11-01 - Cross-platform implementation of `child_process.spawn()`.
 * [log-symbols](https://github.com/sindresorhus/log-symbols) ⭐ 771 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-18 - Colored symbols for various log levels with Windows fallbacks.
@@ -110,7 +110,7 @@
 
 ### Filesystem
 
-* [chokidar](https://github.com/paulmillr/chokidar) ⭐ 12,265 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-27 - Improved cross-platform file watching.
+* [chokidar](https://github.com/paulmillr/chokidar) ⭐ 12,265 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-06 - Improved cross-platform file watching.
 * [fs-extra](https://github.com/jprichardson/node-fs-extra) ⭐ 9,594 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-22 - Combines `graceful-fs` with better JSON file reading and promises.
 * [rimraf](https://github.com/isaacs/rimraf) ⭐ 5,856 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-03 / [del](https://github.com/sindresorhus/del) ⭐ 1,345 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-08 - Delete files and folders. Cross-platform.
 * [graceful-fs](https://github.com/isaacs/node-graceful-fs) ⭐ 1,300 | 🐛 48 | 🌐 JavaScript | 📅 2025-10-25 - Improves the `fs` module, especially on Windows.
@@ -139,8 +139,8 @@
 
 ### Desktop UI
 
-* [node-notifier](https://github.com/mikaelbr/node-notifier) ⭐ 5,844 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-31 - Cross-platform desktop notifications.
-* [open](https://github.com/sindresorhus/open) ⭐ 3,522 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-14 - Opens stuff like websites, files, executables. Cross-platform.
+* [node-notifier](https://github.com/mikaelbr/node-notifier) ⭐ 5,843 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-31 - Cross-platform desktop notifications.
+* [open](https://github.com/sindresorhus/open) ⭐ 3,523 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-14 - Opens stuff like websites, files, executables. Cross-platform.
 
 ### Windows registry
 
@@ -156,7 +156,7 @@
 
 ## See also
 
-* [awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) ⭐ 874 | 🐛 7 | 📅 2026-05-09 - List of tools to build JavaScript applications on the desktop.
+* [awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) ⭐ 874 | 🐛 8 | 📅 2026-05-09 - List of tools to build JavaScript applications on the desktop.
 
 ## Support
 
@@ -188,7 +188,7 @@ Thanks go to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,116 | 🐛 91 | 🌐 MDX | 📅 2026-11-05 specification.
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,114 | 🐛 90 | 🌐 MDX | 📅 2026-11-06 specification.
 
 ## License
 
@@ -196,4 +196,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
