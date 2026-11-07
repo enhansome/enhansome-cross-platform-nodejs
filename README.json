@@ -132,7 +132,7 @@
                 "open_issues": 374,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95765,
+                "stars": 95767,
                 "topics": [
                   "bash",
                   "install",
@@ -163,11 +163,11 @@
                 "id": 24268127,
                 "language": "Inno Setup",
                 "license": "MIT",
-                "last_commit": "2026-11-06T20:24:12Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-07T01:51:43Z",
+                "open_issues": 4,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 48149,
+                "stars": 48152,
                 "topics": [
                   "install",
                   "node",
@@ -287,7 +287,7 @@
                 "open_issues": 82,
                 "owner": "tporadowski",
                 "repo": "redis",
-                "stars": 10288,
+                "stars": 10287,
                 "topics": [
                   "redis",
                   "redis-for-windows",
@@ -456,7 +456,7 @@
                 "open_issues": 126,
                 "owner": "shelljs",
                 "repo": "shelljs",
-                "stars": 14401,
+                "stars": 14400,
                 "topics": [
                   "bash",
                   "javascript",
@@ -562,7 +562,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-01T16:29:56Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "moxystudio",
                 "repo": "node-cross-spawn",
                 "stars": 1174,
@@ -836,7 +836,7 @@
                 "open_issues": 7,
                 "owner": "paulmillr",
                 "repo": "chokidar",
-                "stars": 12265,
+                "stars": 12263,
                 "topics": [
                   "chokidar",
                   "filesystem",
@@ -893,7 +893,7 @@
                 "open_issues": 9,
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5856,
+                "stars": 5857,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:26:34.600Z",
+    "last_updated": "2026-11-07T18:46:33.024Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
