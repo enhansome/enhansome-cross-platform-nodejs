@@ -82,7 +82,7 @@
             "open_issues": 0,
             "owner": "ehmicky",
             "repo": "cross-platform-terminal-characters",
-            "stars": 251,
+            "stars": 252,
             "topics": [
               "ascii",
               "bash",
@@ -132,7 +132,7 @@
                 "open_issues": 374,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95771,
+                "stars": 95777,
                 "topics": [
                   "bash",
                   "install",
@@ -167,7 +167,7 @@
                 "open_issues": 4,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 48155,
+                "stars": 48168,
                 "topics": [
                   "install",
                   "node",
@@ -287,7 +287,7 @@
                 "open_issues": 82,
                 "owner": "tporadowski",
                 "repo": "redis",
-                "stars": 10290,
+                "stars": 10288,
                 "topics": [
                   "redis",
                   "redis-for-windows",
@@ -485,7 +485,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "execa",
-                "stars": 7632,
+                "stars": 7635,
                 "topics": [
                   "binary",
                   "child-process",
@@ -562,7 +562,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-01T16:29:56Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "moxystudio",
                 "repo": "node-cross-spawn",
                 "stars": 1174,
@@ -836,7 +836,7 @@
                 "open_issues": 7,
                 "owner": "paulmillr",
                 "repo": "chokidar",
-                "stars": 12263,
+                "stars": 12264,
                 "topics": [
                   "chokidar",
                   "filesystem",
@@ -1312,7 +1312,7 @@
                 "open_issues": 13,
                 "owner": "mikaelbr",
                 "repo": "node-notifier",
-                "stars": 5843,
+                "stars": 5842,
                 "topics": [
                   "growl",
                   "hacktoberfest",
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:49:51.201Z",
+    "last_updated": "2026-11-09T23:25:50.034Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
