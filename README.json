@@ -128,11 +128,11 @@
                 "id": 612230,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-11-04T21:24:28Z",
-                "open_issues": 375,
+                "last_commit": "2026-11-12T05:50:45Z",
+                "open_issues": 374,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95912,
+                "stars": 95989,
                 "topics": [
                   "bash",
                   "install",
@@ -164,10 +164,10 @@
                 "language": "Inno Setup",
                 "license": "MIT",
                 "last_commit": "2026-11-11T17:30:22Z",
-                "open_issues": 7,
+                "open_issues": 6,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 48185,
+                "stars": 48196,
                 "topics": [
                   "install",
                   "node",
@@ -325,7 +325,7 @@
                 "id": 17677611,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-30T05:09:21Z",
+                "last_commit": "2026-11-12T20:29:44Z",
                 "open_issues": 26,
                 "owner": "sebhildebrandt",
                 "repo": "systeminformation",
@@ -485,7 +485,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "execa",
-                "stars": 7650,
+                "stars": 7660,
                 "topics": [
                   "binary",
                   "child-process",
@@ -861,7 +861,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-11T16:01:59Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "jprichardson",
                 "repo": "node-fs-extra",
                 "stars": 9595,
@@ -893,7 +893,7 @@
                 "open_issues": 9,
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5857,
+                "stars": 5856,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -910,7 +910,7 @@
                 "id": 2077020,
                 "language": "JavaScript",
                 "license": "BlueOak-1.0.0",
-                "last_commit": "2025-10-25T19:00:09Z",
+                "last_commit": "2026-11-12T12:01:37Z",
                 "open_issues": 48,
                 "owner": "isaacs",
                 "repo": "node-graceful-fs",
@@ -1312,7 +1312,7 @@
                 "open_issues": 13,
                 "owner": "mikaelbr",
                 "repo": "node-notifier",
-                "stars": 5842,
+                "stars": 5841,
                 "topics": [
                   "growl",
                   "hacktoberfest",
@@ -1342,7 +1342,7 @@
                 "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "open",
-                "stars": 3523,
+                "stars": 3522,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1450,7 +1450,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34261,
+            "stars": 34259,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1471,7 +1471,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34261,
+            "stars": 34259,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T21:34:37.412Z",
+    "last_updated": "2026-11-12T21:28:11.556Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
