@@ -132,7 +132,7 @@
                 "open_issues": 379,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 96109,
+                "stars": 96116,
                 "topics": [
                   "bash",
                   "install",
@@ -167,7 +167,7 @@
                 "open_issues": 6,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 48200,
+                "stars": 48207,
                 "topics": [
                   "install",
                   "node",
@@ -287,7 +287,7 @@
                 "open_issues": 82,
                 "owner": "tporadowski",
                 "repo": "redis",
-                "stars": 10290,
+                "stars": 10289,
                 "topics": [
                   "redis",
                   "redis-for-windows",
@@ -325,11 +325,11 @@
                 "id": 17677611,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T18:53:57Z",
+                "last_commit": "2026-11-15T10:13:46Z",
                 "open_issues": 26,
                 "owner": "sebhildebrandt",
                 "repo": "systeminformation",
-                "stars": 3142,
+                "stars": 3143,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -413,7 +413,7 @@
                 "open_issues": 3,
                 "owner": "jonschlinkert",
                 "repo": "is-windows",
-                "stars": 49,
+                "stars": 50,
                 "topics": [
                   "amd",
                   "browser",
@@ -456,7 +456,7 @@
                 "open_issues": 126,
                 "owner": "shelljs",
                 "repo": "shelljs",
-                "stars": 14400,
+                "stars": 14401,
                 "topics": [
                   "bash",
                   "javascript",
@@ -485,7 +485,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "execa",
-                "stars": 7644,
+                "stars": 7645,
                 "topics": [
                   "binary",
                   "child-process",
@@ -517,7 +517,7 @@
                 "open_issues": 73,
                 "owner": "coreybutler",
                 "repo": "node-windows",
-                "stars": 2936,
+                "stars": 2935,
                 "topics": [
                   "background",
                   "daemon",
@@ -719,10 +719,10 @@
                 "language": "JavaScript",
                 "license": "ISC",
                 "last_commit": "2026-07-02T03:32:40Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "npm",
                 "repo": "node-which",
-                "stars": 353,
+                "stars": 354,
                 "topics": [
                   "npm-cli"
                 ]
@@ -787,7 +787,7 @@
                 "open_issues": 13,
                 "owner": "npm",
                 "repo": "osenv",
-                "stars": 138,
+                "stars": 139,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -836,7 +836,7 @@
                 "open_issues": 7,
                 "owner": "paulmillr",
                 "repo": "chokidar",
-                "stars": 12268,
+                "stars": 12269,
                 "topics": [
                   "chokidar",
                   "filesystem",
@@ -893,7 +893,7 @@
                 "open_issues": 9,
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5857,
+                "stars": 5858,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -911,10 +911,10 @@
                 "language": "JavaScript",
                 "license": "BlueOak-1.0.0",
                 "last_commit": "2026-11-12T12:01:37Z",
-                "open_issues": 50,
+                "open_issues": 49,
                 "owner": "isaacs",
                 "repo": "node-graceful-fs",
-                "stars": 1300,
+                "stars": 1301,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -935,7 +935,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "make-dir",
-                "stars": 481,
+                "stars": 482,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1169,7 +1169,7 @@
                 "open_issues": 11,
                 "owner": "tapjs",
                 "repo": "signal-exit",
-                "stars": 201,
+                "stars": 202,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1342,7 +1342,7 @@
                 "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "open",
-                "stars": 3522,
+                "stars": 3523,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:09:45.738Z",
+    "last_updated": "2026-11-15T19:45:56.825Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
