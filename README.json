@@ -128,11 +128,11 @@
                 "id": 612230,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-11-12T05:50:45Z",
+                "last_commit": "2026-11-16T18:43:51Z",
                 "open_issues": 379,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 96116,
+                "stars": 96082,
                 "topics": [
                   "bash",
                   "install",
@@ -163,11 +163,11 @@
                 "id": 24268127,
                 "language": "Inno Setup",
                 "license": "MIT",
-                "last_commit": "2026-11-11T17:30:22Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-16T21:33:14Z",
+                "open_issues": 3,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 48207,
+                "stars": 48214,
                 "topics": [
                   "install",
                   "node",
@@ -325,8 +325,8 @@
                 "id": 17677611,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-15T10:13:46Z",
-                "open_issues": 26,
+                "last_commit": "2026-11-16T20:17:29Z",
+                "open_issues": 12,
                 "owner": "sebhildebrandt",
                 "repo": "systeminformation",
                 "stars": 3143,
@@ -544,7 +544,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "clipboardy",
-                "stars": 1981,
+                "stars": 1982,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -565,7 +565,7 @@
                 "open_issues": 26,
                 "owner": "moxystudio",
                 "repo": "node-cross-spawn",
-                "stars": 1174,
+                "stars": 1173,
                 "topics": [
                   "cmd",
                   "cross-platform",
@@ -864,7 +864,7 @@
                 "open_issues": 20,
                 "owner": "jprichardson",
                 "repo": "node-fs-extra",
-                "stars": 9596,
+                "stars": 9595,
                 "topics": [
                   "copy",
                   "delete",
@@ -911,7 +911,7 @@
                 "language": "JavaScript",
                 "license": "BlueOak-1.0.0",
                 "last_commit": "2026-11-12T12:01:37Z",
-                "open_issues": 49,
+                "open_issues": 50,
                 "owner": "isaacs",
                 "repo": "node-graceful-fs",
                 "stars": 1301,
@@ -956,7 +956,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "cpy",
-                "stars": 440,
+                "stars": 441,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -977,7 +977,7 @@
                 "open_issues": 2,
                 "owner": "paulmillr",
                 "repo": "readdirp",
-                "stars": 421,
+                "stars": 422,
                 "topics": [
                   "bun",
                   "deno",
@@ -1450,7 +1450,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34258,
+            "stars": 34257,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1471,7 +1471,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34258,
+            "stars": 34257,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:45:56.825Z",
+    "last_updated": "2026-11-16T23:23:28.687Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
@@ -1514,7 +1514,7 @@
       "open_issues": 1,
       "owner": "bcoe",
       "repo": "awesome-cross-platform-nodejs",
-      "stars": 1213,
+      "stars": 1214,
       "topics": [
         "awesome",
         "awesome-list"
