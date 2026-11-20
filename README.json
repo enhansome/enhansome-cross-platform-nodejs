@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "microsoft",
             "repo": "nodejs-guidelines",
-            "stars": 2485,
+            "stars": 2484,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -128,11 +128,11 @@
                 "id": 612230,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-11-19T17:13:48Z",
-                "open_issues": 364,
+                "last_commit": "2026-11-20T21:27:17Z",
+                "open_issues": 357,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 96252,
+                "stars": 96262,
                 "topics": [
                   "bash",
                   "install",
@@ -167,7 +167,7 @@
                 "open_issues": 4,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 48236,
+                "stars": 48242,
                 "topics": [
                   "install",
                   "node",
@@ -283,7 +283,7 @@
                 "id": 108110706,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T07:38:40Z",
+                "last_commit": "2026-11-19T22:30:58Z",
                 "open_issues": 89,
                 "owner": "tporadowski",
                 "repo": "redis",
@@ -453,7 +453,7 @@
                 "language": "JavaScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-25T23:02:23Z",
-                "open_issues": 127,
+                "open_issues": 128,
                 "owner": "shelljs",
                 "repo": "shelljs",
                 "stars": 14400,
@@ -485,7 +485,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "execa",
-                "stars": 7647,
+                "stars": 7652,
                 "topics": [
                   "binary",
                   "child-process",
@@ -693,7 +693,7 @@
                 "open_issues": 1,
                 "owner": "kentcdodds",
                 "repo": "cross-env",
-                "stars": 6520,
+                "stars": 6519,
                 "topics": [
                   "cross-env",
                   "cross-platform",
@@ -833,10 +833,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-06T12:02:27Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "paulmillr",
                 "repo": "chokidar",
-                "stars": 12271,
+                "stars": 12270,
                 "topics": [
                   "chokidar",
                   "filesystem",
@@ -1492,7 +1492,7 @@
             "open_issues": 22,
             "owner": "istanbuljs",
             "repo": "spawn-wrap",
-            "stars": 41,
+            "stars": 42,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:08:44.848Z",
+    "last_updated": "2026-11-20T21:48:34.039Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
