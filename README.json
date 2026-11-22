@@ -128,11 +128,11 @@
                 "id": 612230,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-11-21T05:45:08Z",
-                "open_issues": 356,
+                "last_commit": "2026-11-22T20:24:50Z",
+                "open_issues": 357,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 96261,
+                "stars": 96368,
                 "topics": [
                   "bash",
                   "install",
@@ -167,7 +167,7 @@
                 "open_issues": 3,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 48247,
+                "stars": 48248,
                 "topics": [
                   "install",
                   "node",
@@ -456,7 +456,7 @@
                 "open_issues": 128,
                 "owner": "shelljs",
                 "repo": "shelljs",
-                "stars": 14400,
+                "stars": 14398,
                 "topics": [
                   "bash",
                   "javascript",
@@ -485,7 +485,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "execa",
-                "stars": 7653,
+                "stars": 7662,
                 "topics": [
                   "binary",
                   "child-process",
@@ -565,7 +565,7 @@
                 "open_issues": 26,
                 "owner": "moxystudio",
                 "repo": "node-cross-spawn",
-                "stars": 1173,
+                "stars": 1174,
                 "topics": [
                   "cmd",
                   "cross-platform",
@@ -722,7 +722,7 @@
                 "open_issues": 9,
                 "owner": "npm",
                 "repo": "node-which",
-                "stars": 354,
+                "stars": 355,
                 "topics": [
                   "npm-cli"
                 ]
@@ -833,10 +833,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-06T12:02:27Z",
-                "open_issues": 10,
+                "open_issues": 12,
                 "owner": "paulmillr",
                 "repo": "chokidar",
-                "stars": 12271,
+                "stars": 12272,
                 "topics": [
                   "chokidar",
                   "filesystem",
@@ -861,7 +861,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-11T16:01:59Z",
-                "open_issues": 20,
+                "open_issues": 19,
                 "owner": "jprichardson",
                 "repo": "node-fs-extra",
                 "stars": 9595,
@@ -893,7 +893,7 @@
                 "open_issues": 9,
                 "owner": "isaacs",
                 "repo": "rimraf",
-                "stars": 5858,
+                "stars": 5859,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1312,7 +1312,7 @@
                 "open_issues": 13,
                 "owner": "mikaelbr",
                 "repo": "node-notifier",
-                "stars": 5845,
+                "stars": 5846,
                 "topics": [
                   "growl",
                   "hacktoberfest",
@@ -1450,7 +1450,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34257,
+            "stars": 34255,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1471,7 +1471,7 @@
             "open_issues": 0,
             "owner": "nodejs",
             "repo": "node-v0.x-archive",
-            "stars": 34257,
+            "stars": 34255,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:09.477Z"
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:30:44.827Z",
+    "last_updated": "2026-11-22T20:43:07.660Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
