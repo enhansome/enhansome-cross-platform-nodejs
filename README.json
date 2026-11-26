@@ -129,10 +129,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-11-25T08:56:53Z",
-                "open_issues": 355,
+                "open_issues": 359,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 96313,
+                "stars": 96335,
                 "topics": [
                   "bash",
                   "install",
@@ -167,7 +167,7 @@
                 "open_issues": 1,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 48265,
+                "stars": 48272,
                 "topics": [
                   "install",
                   "node",
@@ -287,7 +287,7 @@
                 "open_issues": 89,
                 "owner": "tporadowski",
                 "repo": "redis",
-                "stars": 10293,
+                "stars": 10295,
                 "topics": [
                   "redis",
                   "redis-for-windows",
@@ -329,7 +329,7 @@
                 "open_issues": 12,
                 "owner": "sebhildebrandt",
                 "repo": "systeminformation",
-                "stars": 3145,
+                "stars": 3146,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:09.477Z"
@@ -485,7 +485,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "execa",
-                "stars": 7673,
+                "stars": 7679,
                 "topics": [
                   "binary",
                   "child-process",
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T23:05:11.969Z",
+    "last_updated": "2026-11-26T22:58:55.317Z",
     "original_repository_info": {
       "archived": false,
       "description": ":two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code",
